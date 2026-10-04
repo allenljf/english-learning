@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "F01",
+    "kind": "填空",
+    "topic": "詞性",
+    "stem": "A final ___ is required before shipment.",
+    "zh": "出貨前需要最後檢查。",
+    "options": [
+      "inspect",
+      "inspection",
+      "inspecting",
+      "inspected"
+    ],
+    "answer": 1,
+    "reasons": [
+      "原形動詞不能在此充當單數名詞。",
+      "冠詞 a 與形容詞 final 後，需要名詞 inspection。",
+      "此處要求既定名詞 inspection，不是動名詞搭配 a final inspecting。",
+      "分詞本身不能作此處檢查這件事的名詞。"
+    ],
+    "tip": "a / the + 形容詞 + 名詞。"
+  },
+  {
+    "id": "F02",
+    "kind": "填空",
+    "topic": "詞性",
+    "stem": "The technician inspected the sensor ___.",
+    "zh": "技術員仔細檢查感測器。",
+    "options": [
+      "careful",
+      "careless",
+      "care",
+      "carefully"
+    ],
+    "answer": 3,
+    "reasons": [
+      "形容詞不直接修飾這個動作。",
+      "形容詞且語意是粗心，不能修飾 inspected。",
+      "名詞或動詞，無法表此處方式。",
+      "修飾 inspected 的方式，需副詞。"
+    ],
+    "tip": "先問空格修飾誰。"
+  },
+  {
+    "id": "F03",
+    "kind": "填空",
+    "topic": "詞性",
+    "stem": "We need a ___ supplier who delivers on time.",
+    "zh": "我們需要能準時交貨的可靠供應商。",
+    "options": [
+      "rely",
+      "reliably",
+      "reliable",
+      "reliability"
+    ],
+    "answer": 2,
+    "reasons": [
+      "原形動詞不合名詞片語結構。",
+      "副詞不能直接修飾 supplier。",
+      "supplier 前需要形容詞。",
+      "名詞可靠性，不是描述人的形容詞。"
+    ],
+    "tip": "rely → reliable → reliability → reliably。"
+  },
+  {
+    "id": "F04",
+    "kind": "填空",
+    "topic": "詞性",
+    "stem": "The team completed the project ___.",
+    "zh": "團隊成功完成專案。",
+    "options": [
+      "successful",
+      "succeed",
+      "success",
+      "successfully"
+    ],
+    "answer": 3,
+    "reasons": [
+      "形容詞不能直接修飾 completed。",
+      "動詞不能直接接在完整述語後。",
+      "名詞不能表示此處方式。",
+      "修飾 completed，要副詞。"
+    ],
+    "tip": "successful project；complete successfully。"
+  },
+  {
+    "id": "F05",
+    "kind": "填空",
+    "topic": "詞性",
+    "stem": "All ___ must submit a resume.",
+    "zh": "所有申請人都必須交履歷。",
+    "options": [
+      "applicants",
+      "applications",
+      "applicable",
+      "applying"
+    ],
+    "answer": 0,
+    "reasons": [
+      "all 後接複數人，才是履歷的提交者。",
+      "申請案本身不會提交履歷。",
+      "形容詞，缺少名詞中心。",
+      "分詞不能作這裡所指的申請人複數名詞。"
+    ],
+    "tip": "applicant 是人；application 是申請。"
+  },
+  {
+    "id": "F06",
+    "kind": "填空",
+    "topic": "詞性",
+    "stem": "The company offers ___ prices.",
+    "zh": "公司提供有競爭力的價格。",
+    "options": [
+      "competitive",
+      "competitively",
+      "competition",
+      "compete"
+    ],
+    "answer": 0,
+    "reasons": [
+      "prices 前用形容詞。",
+      "可說 competitively priced，但此處是 prices 名詞。",
+      "競爭這個名詞不適合作此處描述價格。",
+      "原形動詞無法修飾 prices。"
+    ],
+    "tip": "competitive prices / competitively priced。"
+  },
+  {
+    "id": "F07",
+    "kind": "填空",
+    "topic": "詞性",
+    "stem": "Written ___ is needed to enter the laboratory.",
+    "zh": "進入實驗室需要書面核准。",
+    "options": [
+      "approving",
+      "approval",
+      "approve",
+      "approved"
+    ],
+    "answer": 1,
+    "reasons": [
+      "不是此處書面核准的慣用名詞。",
+      "written 修飾名詞 approval。",
+      "動詞，不能當這裡的主詞中心。",
+      "分詞形容詞，後面缺名詞。"
+    ],
+    "tip": "approve a request；obtain approval。"
+  },
+  {
+    "id": "F08",
+    "kind": "填空",
+    "topic": "詞性",
+    "stem": "The revised process works more ___ than the old one.",
+    "zh": "修訂後的製程比舊製程運作得更有效率。",
+    "options": [
+      "efficiency",
+      "efficiencies",
+      "efficiently",
+      "efficient"
+    ],
+    "answer": 2,
+    "reasons": [
+      "名詞，不能放在此處比較方式。",
+      "名詞複數不合結構。",
+      "works 後描述運作方式用副詞。",
+      "形容詞；可說 is more efficient。"
+    ],
+    "tip": "works efficiently；is efficient。"
+  },
+  {
+    "id": "F09",
+    "kind": "填空",
+    "topic": "介系詞",
+    "stem": "Please submit the form ___ Friday at the latest.",
+    "zh": "請最晚週五交表。",
+    "options": [
+      "by",
+      "during",
+      "since",
+      "until"
+    ],
+    "answer": 0,
+    "reasons": [
+      "at the latest 表截止，by 表不晚於。",
+      "Friday 是特定日期，這裡問截止而非期间。",
+      "表從過去起點延續，與最晚提交不合。",
+      "表持續到某時，不能用於此處一次性的交表期限。"
+    ],
+    "tip": "submit by；remain closed until。"
+  },
+  {
+    "id": "F10",
+    "kind": "填空",
+    "topic": "介系詞",
+    "stem": "The office will remain closed ___ Monday.",
+    "zh": "辦公室將持續關閉直到週一。",
+    "options": [
+      "until",
+      "within",
+      "by",
+      "since"
+    ],
+    "answer": 0,
+    "reasons": [
+      "remain closed 是持續狀態，until 接終點。",
+      "Monday 不是此處 within 所需的期間長度。",
+      "by 表最晚發生，不表持續關閉到哪天。",
+      "此處 will remain 指未來，since 不表未來終點。"
+    ],
+    "tip": "問的是截止動作還是持續狀態？"
+  },
+  {
+    "id": "F11",
+    "kind": "填空",
+    "topic": "介系詞",
+    "stem": "The inspection begins ___ 9 a.m.",
+    "zh": "檢查上午九點開始。",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "answer": 0,
+    "reasons": [
+      "具體鐘點用 at。",
+      "in 通常接月份或較長期間。",
+      "on 通常接日期。",
+      "for 表長度或目的，不能表此開始鐘點。"
+    ],
+    "tip": "at 點、on 日、in 段。"
+  },
+  {
+    "id": "F12",
+    "kind": "填空",
+    "topic": "介系詞",
+    "stem": "Training is scheduled ___ Monday morning.",
+    "zh": "訓練排在週一上午。",
+    "options": [
+      "on",
+      "at",
+      "since",
+      "in"
+    ],
+    "answer": 0,
+    "reasons": [
+      "特定某一天的早上用 on。",
+      "不是鐘點。",
+      "since 表延續的起點，不是此處排定的日期。",
+      "只有泛指 in the morning；此處指定 Monday。"
+    ],
+    "tip": "有 Monday，不能只看 morning。"
+  },
+  {
+    "id": "F13",
+    "kind": "填空",
+    "topic": "介系詞",
+    "stem": "She has worked here ___ 2024.",
+    "zh": "她自二〇二四年起就在這裡工作。",
+    "options": [
+      "during",
+      "since",
+      "for",
+      "until"
+    ],
+    "answer": 1,
+    "reasons": [
+      "不能表示從該年一路到現在的延續。",
+      "年份是延續狀態的起點。",
+      "for 需要 two years 等長度。",
+      "until 表終點，與 has worked here 的起點情境不同。"
+    ],
+    "tip": "since 起點；for 長度。"
+  },
+  {
+    "id": "F14",
+    "kind": "填空",
+    "topic": "介系詞",
+    "stem": "The repair took ___ two hours.",
+    "zh": "維修大約花了兩小時。",
+    "options": [
+      "while",
+      "during",
+      "approximately",
+      "since"
+    ],
+    "answer": 2,
+    "reasons": [
+      "while 引導子句，不能接 two hours。",
+      "took 直接接受時間長度，不接 during。",
+      "此處修飾數量 two hours 的副詞。",
+      "since 表起點，不接兩小時長度。"
+    ],
+    "tip": "take + 時間長度；不一定每個時間空格都填介系詞。"
+  },
+  {
+    "id": "F15",
+    "kind": "填空",
+    "topic": "搭配",
+    "stem": "All visitors must comply ___ the safety rules.",
+    "zh": "所有訪客必須遵守安全規則。",
+    "options": [
+      "about",
+      "with",
+      "for",
+      "to"
+    ],
+    "answer": 1,
+    "reasons": [
+      "不表遵守對象。",
+      "固定搭配 comply with。",
+      "不是此動詞的搭配。",
+      "不說 comply to。"
+    ],
+    "tip": "comply with 視為一個單位。"
+  },
+  {
+    "id": "F16",
+    "kind": "填空",
+    "topic": "搭配",
+    "stem": "Please reply ___ this email by noon.",
+    "zh": "請中午前回覆這封信。",
+    "options": [
+      "with",
+      "at",
+      "for",
+      "to"
+    ],
+    "answer": 3,
+    "reasons": [
+      "reply with 可接回覆內容，但 this email 是收到的信。",
+      "不接回覆對象。",
+      "不表示回覆這封信。",
+      "reply to + 訊息。"
+    ],
+    "tip": "reply to a message；reply with an answer。"
+  },
+  {
+    "id": "F17",
+    "kind": "填空",
+    "topic": "搭配",
+    "stem": "The delay resulted ___ a shortage of parts.",
+    "zh": "延誤源於零件不足。",
+    "options": [
+      "for",
+      "from",
+      "at",
+      "in"
+    ],
+    "answer": 1,
+    "reasons": [
+      "無此因果搭配。",
+      "後面是原因，result from。",
+      "無此因果搭配。",
+      "result in 後接結果，會顛倒因果。"
+    ],
+    "tip": "原因 result in 結果；結果 result from 原因。"
+  },
+  {
+    "id": "F18",
+    "kind": "填空",
+    "topic": "搭配",
+    "stem": "The shortage of parts resulted ___ a delay.",
+    "zh": "零件不足造成延誤。",
+    "options": [
+      "with",
+      "from",
+      "in",
+      "by"
+    ],
+    "answer": 2,
+    "reasons": [
+      "不是此處的因果搭配。",
+      "會顛倒來源與結果。",
+      "後面是結果。",
+      "不接在 resulted 後表結果。"
+    ],
+    "tip": "同一事件換主詞，介系詞也變。"
+  },
+  {
+    "id": "F19",
+    "kind": "填空",
+    "topic": "搭配",
+    "stem": "The company provides employees ___ protective gloves.",
+    "zh": "公司提供員工防護手套。",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 3,
+    "reasons": [
+      "不是提供的搭配。",
+      "provide 物 for 人，這裡先出現人。",
+      "此句不能用 provide 人 to 物。",
+      "provide 人 with 物。"
+    ],
+    "tip": "先看人、物的順序。"
+  },
+  {
+    "id": "F20",
+    "kind": "填空",
+    "topic": "搭配",
+    "stem": "We look forward to ___ you next week.",
+    "zh": "我們期待下週見到你。",
+    "options": [
+      "meets",
+      "meeting",
+      "met",
+      "meet"
+    ],
+    "answer": 1,
+    "reasons": [
+      "第三人稱動詞不接介系詞。",
+      "片語中的 to 是介系詞，後接 V-ing。",
+      "過去式不接此介系詞。",
+      "不能因看到 to 就選原形。"
+    ],
+    "tip": "look forward to + N / V-ing。"
+  },
+  {
+    "id": "F21",
+    "kind": "填空",
+    "topic": "搭配",
+    "stem": "The engineer is responsible ___ equipment maintenance.",
+    "zh": "工程師負責設備維護。",
+    "options": [
+      "to",
+      "with",
+      "of",
+      "for"
+    ],
+    "answer": 3,
+    "reasons": [
+      "responsible to 可接須負責的上級，但不是此處工作事項。",
+      "不表示負責事項。",
+      "不是 responsible 的此用法。",
+      "responsible for + 工作事項。"
+    ],
+    "tip": "for 事情；to 上級。"
+  },
+  {
+    "id": "F22",
+    "kind": "填空",
+    "topic": "搭配",
+    "stem": "The warranty does not cover damage caused ___ misuse.",
+    "zh": "保固不涵蓋不當使用造成的損害。",
+    "options": [
+      "by",
+      "to",
+      "for",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "caused by 指造成者或原因。",
+      "damage to 可用，但此空格接在 caused 後。",
+      "不構成此被動的原因表達。",
+      "此處需原因 by misuse。"
+    ],
+    "tip": "不要被前方 damage 的另一搭配誤導。"
+  },
+  {
+    "id": "F23",
+    "kind": "填空",
+    "topic": "語意",
+    "stem": "The item is out of ___ and cannot be shipped today.",
+    "zh": "此品項缺貨，今天無法出貨。",
+    "options": [
+      "stock",
+      "order",
+      "office",
+      "control"
+    ],
+    "answer": 0,
+    "reasons": [
+      "out of stock 是缺貨。",
+      "out of order 是故障／失序，不是此處庫存說法。",
+      "out of office 指人不在辦公室，不配 item。",
+      "out of control 是失控，與庫存情境不同。"
+    ],
+    "tip": "stock 庫存；order 訂單／秩序。"
+  },
+  {
+    "id": "F24",
+    "kind": "填空",
+    "topic": "語意",
+    "stem": "Please ___ the invoice to your email.",
+    "zh": "請把請款單附在電子郵件中。",
+    "options": [
+      "attract",
+      "attack",
+      "attach",
+      "attend"
+    ],
+    "answer": 2,
+    "reasons": [
+      "吸引，語意不合。",
+      "攻擊，語意不合。",
+      "attach A to B 表附上。",
+      "出席，不表附檔。"
+    ],
+    "tip": "attach → attachment。"
+  },
+  {
+    "id": "F25",
+    "kind": "填空",
+    "topic": "語意",
+    "stem": "The pump is still under ___, so repairs are free.",
+    "zh": "幫浦仍在保固內，因此免費維修。",
+    "options": [
+      "salary",
+      "warranty",
+      "agenda",
+      "inventory"
+    ],
+    "answer": 1,
+    "reasons": [
+      "薪資不適用幫浦。",
+      "under warranty 表在保固內。",
+      "議程與維修權益無關。",
+      "庫存不代表免費維修資格。"
+    ],
+    "tip": "under warranty 整組記。"
+  },
+  {
+    "id": "F26",
+    "kind": "填空",
+    "topic": "語意",
+    "stem": "The meeting was ___ until next Tuesday.",
+    "zh": "會議延後至下週二。",
+    "options": [
+      "postponed",
+      "provided",
+      "promoted",
+      "produced"
+    ],
+    "answer": 0,
+    "reasons": [
+      "postpone ... until ... 表延後至。",
+      "提供，不是改期。",
+      "升遷／推廣，不是改期。",
+      "生產，語意不合。"
+    ],
+    "tip": "postpone 動作；postponement 名詞。"
+  },
+  {
+    "id": "F27",
+    "kind": "填空",
+    "topic": "語意",
+    "stem": "Staff must obtain ___ before entering the restricted area.",
+    "zh": "員工進管制區前必須取得許可。",
+    "options": [
+      "permission",
+      "production",
+      "promotion",
+      "performance"
+    ],
+    "answer": 0,
+    "reasons": [
+      "許可符合 obtain 與進入條件。",
+      "生產與准入無關。",
+      "升遷不是文中要求的入場許可。",
+      "表現不能取得作為進入許可。"
+    ],
+    "tip": "permission 是不可數名詞。"
+  },
+  {
+    "id": "F28",
+    "kind": "填空",
+    "topic": "語意",
+    "stem": "Please ___ the pressure gauge to ensure accurate readings.",
+    "zh": "請校正壓力表，確保讀值正確。",
+    "options": [
+      "celebrate",
+      "calibrate",
+      "calculate",
+      "collaborate"
+    ],
+    "answer": 1,
+    "reasons": [
+      "慶祝，不是調整量測標準。",
+      "校正儀器對應準確讀值。",
+      "計算數值，不是校正儀表本身。",
+      "合作，通常不直接接受詞儀表。"
+    ],
+    "tip": "calibrate 儀器；calculate 數字。"
+  },
+  {
+    "id": "F29",
+    "kind": "填空",
+    "topic": "易混字",
+    "stem": "The new policy will ___ all suppliers.",
+    "zh": "新政策將影響所有供應商。",
+    "options": [
+      "effective",
+      "affect",
+      "effect",
+      "effectively"
+    ],
+    "answer": 1,
+    "reasons": [
+      "形容詞，不接 will。",
+      "affect 是影響＋受詞。",
+      "effect 作動詞是促成，不能表示影響供應商。",
+      "副詞，缺動詞。"
+    ],
+    "tip": "affect v.；effect n. 最常用。"
+  },
+  {
+    "id": "F30",
+    "kind": "填空",
+    "topic": "易混字",
+    "stem": "The change had a positive ___ on productivity.",
+    "zh": "這項變更對生產力有正面影響。",
+    "options": [
+      "effect",
+      "effective",
+      "effectively",
+      "affect"
+    ],
+    "answer": 0,
+    "reasons": [
+      "a positive 後要名詞；effect on。",
+      "形容詞，缺少名詞。",
+      "副詞不合結構。",
+      "在此不是表示影響的名詞。"
+    ],
+    "tip": "have an effect on。"
+  },
+  {
+    "id": "F31",
+    "kind": "填空",
+    "topic": "易混字",
+    "stem": "The company plans to ___ prices next month.",
+    "zh": "公司計畫下月調高價格。",
+    "options": [
+      "raise",
+      "arouse",
+      "arise",
+      "rise"
+    ],
+    "answer": 0,
+    "reasons": [
+      "raise 為及物動詞，可接受詞 prices。",
+      "喚起情緒等，不搭 prices。",
+      "出現，不表提高某物。",
+      "rise 不及物，不能直接帶 prices。"
+    ],
+    "tip": "prices rise；we raise prices。"
+  },
+  {
+    "id": "F32",
+    "kind": "填空",
+    "topic": "易混字",
+    "stem": "Prices are expected to ___ next month.",
+    "zh": "預期價格下月上升。",
+    "options": [
+      "rise",
+      "risen",
+      "rose",
+      "raise"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞 prices 自己上升，不需受詞。",
+      "過去分詞，不能直接接 to。",
+      "to 後此處要原形，不是過去式。",
+      "raise 通常要受詞，此句無受詞。"
+    ],
+    "tip": "rise–rose–risen。"
+  },
+  {
+    "id": "F33",
+    "kind": "填空",
+    "topic": "邏輯",
+    "stem": "___ the delay, the team met the deadline.",
+    "zh": "儘管延誤，團隊仍如期完成。",
+    "options": [
+      "Although",
+      "Despite",
+      "Because",
+      "During"
+    ],
+    "answer": 1,
+    "reasons": [
+      "後面應接完整子句，不能只接 the delay。",
+      "後面 the delay 是名詞，despite 表讓步。",
+      "後面應接子句，且因果不合。",
+      "期間不符合前後克服延誤的邏輯。"
+    ],
+    "tip": "despite N；although S V。"
+  },
+  {
+    "id": "F34",
+    "kind": "填空",
+    "topic": "邏輯",
+    "stem": "The machine stopped ___ the power supply failed.",
+    "zh": "機器因電源故障而停止。",
+    "options": [
+      "because of",
+      "despite",
+      "during",
+      "because"
+    ],
+    "answer": 3,
+    "reasons": [
+      "後接名詞，不直接接完整子句。",
+      "後接名詞，且不是此因果。",
+      "介系詞，不能接此完整子句。",
+      "後接完整原因子句。"
+    ],
+    "tip": "because the supply failed；because of the failure。"
+  },
+  {
+    "id": "F35",
+    "kind": "填空",
+    "topic": "邏輯",
+    "stem": "The shipment is urgent; ___, we will use express delivery.",
+    "zh": "這批貨很急，因此採用快遞。",
+    "options": [
+      "however",
+      "therefore",
+      "nevertheless",
+      "otherwise"
+    ],
+    "answer": 1,
+    "reasons": [
+      "轉折不符合前後一致的原因與決策。",
+      "急迫導致選擇快遞，結果關係。",
+      "儘管如此，表示讓步，邏輯不合。",
+      "否則，缺少所對應條件。"
+    ],
+    "tip": "分號後可用 therefore，再用逗號。"
+  },
+  {
+    "id": "F36",
+    "kind": "填空",
+    "topic": "邏輯",
+    "stem": "Do not restart the equipment ___ the inspection is complete.",
+    "zh": "檢查完成前不得重啟設備。",
+    "options": [
+      "despite",
+      "during",
+      "until",
+      "because of"
+    ],
+    "answer": 2,
+    "reasons": [
+      "不能直接接完整子句。",
+      "不能引導完整子句。",
+      "not ... until 表直到完成才可。",
+      "介系詞片語後需名詞。"
+    ],
+    "tip": "not until 的 not 是重要限制。"
+  },
+  {
+    "id": "G01",
+    "kind": "文法",
+    "topic": "主詞一致",
+    "stem": "Each of the sensors ___ a serial number.",
+    "zh": "每個感測器都有序號。",
+    "options": [
+      "has",
+      "to have",
+      "having",
+      "have"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞核心 each，單數用 has。",
+      "不定詞不能單獨充當此句述語。",
+      "分詞不能單獨當限定動詞。",
+      "不因 sensors 是複數就用 have。"
+    ],
+    "tip": "先刪掉 of the sensors。"
+  },
+  {
+    "id": "G02",
+    "kind": "文法",
+    "topic": "主詞一致",
+    "stem": "The equipment ___ ready for use.",
+    "zh": "設備已可使用。",
+    "options": [
+      "being",
+      "is",
+      "be",
+      "are"
+    ],
+    "answer": 1,
+    "reasons": [
+      "分詞不能單獨當述語。",
+      "equipment 不可數，以單數處理。",
+      "直述句缺適當時態與人稱。",
+      "equipment 不用複數一致。"
+    ],
+    "tip": "equipment 不是 equipments。"
+  },
+  {
+    "id": "G03",
+    "kind": "文法",
+    "topic": "過去式",
+    "stem": "We ___ the pump yesterday.",
+    "zh": "我們昨天檢查了幫浦。",
+    "options": [
+      "will check",
+      "check",
+      "checked",
+      "have checked"
+    ],
+    "answer": 2,
+    "reasons": [
+      "未來不合 yesterday。",
+      "現在簡單式不合此過去敘述。",
+      "yesterday 指已結束過去，使用過去式。",
+      "此處明確 finished past yesterday，不用現在完成。"
+    ],
+    "tip": "昨天已發生，用過去。"
+  },
+  {
+    "id": "G04",
+    "kind": "文法",
+    "topic": "疑問句",
+    "stem": "Did she ___ the report?",
+    "zh": "她提交報告了嗎？",
+    "options": [
+      "submitted",
+      "submit",
+      "submits",
+      "submitting"
+    ],
+    "answer": 1,
+    "reasons": [
+      "不能重複標過去。",
+      "did 已標過去，後接原形。",
+      "did 後不加三單 s。",
+      "did 後不能直接用 V-ing。"
+    ],
+    "tip": "did / does / do + 原形。"
+  },
+  {
+    "id": "G05",
+    "kind": "文法",
+    "topic": "否定句",
+    "stem": "The supervisor does not ___ overtime today.",
+    "zh": "主管今天不核准加班。",
+    "options": [
+      "approve",
+      "approved",
+      "approving",
+      "approves"
+    ],
+    "answer": 0,
+    "reasons": [
+      "does 後回原形。",
+      "不是此現在否定结构。",
+      "不能直接接 does not。",
+      "does 已負責單數變化。"
+    ],
+    "tip": "不是 does not approves。"
+  },
+  {
+    "id": "G06",
+    "kind": "文法",
+    "topic": "現在進行",
+    "stem": "The technician ___ the machine right now.",
+    "zh": "技術員此刻正在測試機器。",
+    "options": [
+      "is testing",
+      "test",
+      "tested",
+      "has test"
+    ],
+    "answer": 0,
+    "reasons": [
+      "right now 配正在進行。",
+      "單數主詞也不符，且非進行。",
+      "過去式不合此刻正在。",
+      "完成式需 tested。"
+    ],
+    "tip": "be + V-ing。"
+  },
+  {
+    "id": "G07",
+    "kind": "文法",
+    "topic": "完成式",
+    "stem": "She ___ here since 2024 and still works here.",
+    "zh": "她自二〇二四年起在此工作，現在仍在。",
+    "options": [
+      "is worked",
+      "worked",
+      "will work",
+      "has worked"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此工作義不作此被動。",
+      "此題補充仍在職，完成式最符合延續敘述。",
+      "不是未來開始。",
+      "過去起點延續現在，現在完成。"
+    ],
+    "tip": "since + 起點，配合延續語意。"
+  },
+  {
+    "id": "G08",
+    "kind": "文法",
+    "topic": "過去完成",
+    "stem": "By the time the auditor arrived yesterday, we ___ the report.",
+    "zh": "昨天稽核員抵達時，我們已完成報告。",
+    "options": [
+      "are completing",
+      "had completed",
+      "have completed",
+      "will complete"
+    ],
+    "answer": 1,
+    "reasons": [
+      "現在進行不合此時間。",
+      "先於過去抵達的完成動作。",
+      "不能以現在完成標過去參考點之前。",
+      "未來不合 yesterday。"
+    ],
+    "tip": "過去的過去：had + p.p.。"
+  },
+  {
+    "id": "G09",
+    "kind": "文法",
+    "topic": "未來完成",
+    "stem": "By noon tomorrow, the team ___ all three tests.",
+    "zh": "到明天中午，團隊將已完成三項測試。",
+    "options": [
+      "had completed",
+      "will completing",
+      "will have completed",
+      "has completed"
+    ],
+    "answer": 2,
+    "reasons": [
+      "參考點不是過去。",
+      "will 後不能直接接 V-ing。",
+      "以未來時間點回看已完成。",
+      "此題明確未來完成語境。"
+    ],
+    "tip": "will have + p.p.。"
+  },
+  {
+    "id": "G10",
+    "kind": "文法",
+    "topic": "未來條件",
+    "stem": "If the parts ___ today, we will start tomorrow.",
+    "zh": "零件若今天抵達，我們明天開工。",
+    "options": [
+      "will arrive",
+      "arriving",
+      "arrive",
+      "arrived"
+    ],
+    "answer": 2,
+    "reasons": [
+      "此一般條件句不用 will 標未來。",
+      "缺限定動詞。",
+      "未來條件子句通常用現在式。",
+      "與 will start 的真實未來條件不符。"
+    ],
+    "tip": "if 現在，主句 will。"
+  },
+  {
+    "id": "G11",
+    "kind": "文法",
+    "topic": "被動",
+    "stem": "The samples ___ yesterday.",
+    "zh": "樣本昨天已檢驗。",
+    "options": [
+      "are inspect",
+      "inspected",
+      "were inspected",
+      "was inspected"
+    ],
+    "answer": 2,
+    "reasons": [
+      "被動需 p.p.，時間也不對。",
+      "沒有受詞且樣本不是執行檢查者。",
+      "複數主詞、過去、被動。",
+      "樣本複數，不能用 was。"
+    ],
+    "tip": "時間＋數量＋語態三項一起查。"
+  },
+  {
+    "id": "G12",
+    "kind": "文法",
+    "topic": "被動",
+    "stem": "The sensor must ___ before use.",
+    "zh": "使用前感測器必須受檢。",
+    "options": [
+      "be checking",
+      "be checked",
+      "been checked",
+      "checked"
+    ],
+    "answer": 1,
+    "reasons": [
+      "感測器在此不是檢查者。",
+      "must 後 be 原形＋過去分詞。",
+      "must 後不可直接 been。",
+      "must 後不能直接過去式／分詞。"
+    ],
+    "tip": "modal + be + p.p.。"
+  },
+  {
+    "id": "G13",
+    "kind": "文法",
+    "topic": "進行被動",
+    "stem": "The pump is ___ repaired now.",
+    "zh": "幫浦現在正在維修。",
+    "options": [
+      "have",
+      "been",
+      "being",
+      "be"
+    ],
+    "answer": 2,
+    "reasons": [
+      "不是此被動結構。",
+      "is been 不構成此結構。",
+      "is being repaired 表正在被修。",
+      "is 後不能直接 be。"
+    ],
+    "tip": "is being done 與 has been done 比較。"
+  },
+  {
+    "id": "G14",
+    "kind": "文法",
+    "topic": "不定詞",
+    "stem": "We decided ___ the old printer.",
+    "zh": "我們決定更換舊印表機。",
+    "options": [
+      "replace",
+      "replaced",
+      "to replace",
+      "replacing"
+    ],
+    "answer": 2,
+    "reasons": [
+      "缺不定詞 to。",
+      "過去式不接 decided 後表此意。",
+      "decide to + 原形。",
+      "decide 不直接接動名詞。"
+    ],
+    "tip": "decide / plan / hope to do。"
+  },
+  {
+    "id": "G15",
+    "kind": "文法",
+    "topic": "動名詞",
+    "stem": "Avoid ___ the wafer surface.",
+    "zh": "避免觸碰晶圓表面。",
+    "options": [
+      "touch",
+      "to touch",
+      "touched",
+      "touching"
+    ],
+    "answer": 3,
+    "reasons": [
+      "原形不符。",
+      "avoid 不接 to V。",
+      "過去式不符。",
+      "avoid 後接動名詞。"
+    ],
+    "tip": "avoid doing。"
+  },
+  {
+    "id": "G16",
+    "kind": "文法",
+    "topic": "動名詞",
+    "stem": "Please check the settings before ___ the machine.",
+    "zh": "啟動機器前請檢查設定。",
+    "options": [
+      "starting",
+      "to start",
+      "started",
+      "start"
+    ],
+    "answer": 0,
+    "reasons": [
+      "before 作介系詞後接 V-ing。",
+      "before 不直接接 to 不定詞。",
+      "此處不表被動或完整句。",
+      "缺主詞的子句不能直接用 start。"
+    ],
+    "tip": "before starting / before you start。"
+  },
+  {
+    "id": "G17",
+    "kind": "文法",
+    "topic": "使役",
+    "stem": "The supervisor made us ___ the test.",
+    "zh": "主管讓我們重做測試。",
+    "options": [
+      "repeated",
+      "repeating",
+      "to repeat",
+      "repeat"
+    ],
+    "answer": 3,
+    "reasons": [
+      "過去式不合。",
+      "不是此使役結構。",
+      "主動使役 make 此處不加 to。",
+      "主動 make + O + 原形。"
+    ],
+    "tip": "被動另說 We were made to repeat the test.。"
+  },
+  {
+    "id": "G18",
+    "kind": "文法",
+    "topic": "記得做",
+    "stem": "Remember ___ the file before closing the program.",
+    "zh": "關閉程式前記得儲存檔案。",
+    "options": [
+      "saved",
+      "to save",
+      "to saving",
+      "saves"
+    ],
+    "answer": 1,
+    "reasons": [
+      "過去式不接 remember 表此意。",
+      "提醒未做的事：remember to do。",
+      "to 是不定詞標記，後接原形。",
+      "不構成受詞或子句。"
+    ],
+    "tip": "remember saving 是回想曾儲存，不是此提醒。"
+  },
+  {
+    "id": "G19",
+    "kind": "文法",
+    "topic": "過去習慣",
+    "stem": "She used to ___ the night shift.",
+    "zh": "她以前曾上夜班。",
+    "options": [
+      "worked",
+      "works",
+      "work",
+      "working"
+    ],
+    "answer": 2,
+    "reasons": [
+      "used to 後不用過去式。",
+      "不加三單 s。",
+      "used to + 原形表示過去習慣。",
+      "be used to working 才是習慣於。"
+    ],
+    "tip": "used to do vs. be used to doing。"
+  },
+  {
+    "id": "G20",
+    "kind": "文法",
+    "topic": "習慣於",
+    "stem": "She is used to ___ the night shift.",
+    "zh": "她習慣上夜班。",
+    "options": [
+      "be work",
+      "worked",
+      "works",
+      "working"
+    ],
+    "answer": 3,
+    "reasons": [
+      "不是合法結構。",
+      "過去式不合。",
+      "限定動詞不能放此。",
+      "be used to 的 to 為介系詞。"
+    ],
+    "tip": "多一個 is，結構與意思都不同。"
+  },
+  {
+    "id": "G21",
+    "kind": "文法",
+    "topic": "不可數",
+    "stem": "We need more ___ before making a decision.",
+    "zh": "決策前需要更多資訊。",
+    "options": [
+      "informations",
+      "many information",
+      "an information",
+      "information"
+    ],
+    "answer": 3,
+    "reasons": [
+      "不能用此複數。",
+      "many 不能修飾不可數 information。",
+      "不能直接用 an 計數。",
+      "information 不可數。"
+    ],
+    "tip": "a piece of information。"
+  },
+  {
+    "id": "G22",
+    "kind": "文法",
+    "topic": "代名詞",
+    "stem": "Please send the report to ___.",
+    "zh": "請把報告寄給我們。",
+    "options": [
+      "us",
+      "our",
+      "ourselves",
+      "we"
+    ],
+    "answer": 0,
+    "reasons": [
+      "介系詞 to 後用受格。",
+      "所有格後需名詞。",
+      "主詞 you 與受詞不是同一群，無反身語意。",
+      "主格不放介系詞後。"
+    ],
+    "tip": "to us / for them / with her。"
+  },
+  {
+    "id": "G23",
+    "kind": "文法",
+    "topic": "代名詞",
+    "stem": "This is our report; that one is ___.",
+    "zh": "這是我們的報告；那是他們的。",
+    "options": [
+      "they",
+      "their",
+      "theirs",
+      "them"
+    ],
+    "answer": 2,
+    "reasons": [
+      "主格不表所有關係。",
+      "後面還要名詞。",
+      "所有代名詞可獨立代表 their report。",
+      "受格不表所有關係。"
+    ],
+    "tip": "their report = theirs。"
+  },
+  {
+    "id": "G24",
+    "kind": "文法",
+    "topic": "比較級",
+    "stem": "The new system is ___ than the old one.",
+    "zh": "新系統比舊系統快。",
+    "options": [
+      "faster",
+      "more faster",
+      "fastest",
+      "fast"
+    ],
+    "answer": 0,
+    "reasons": [
+      "than 前用比較級。",
+      "不能雙重比較。",
+      "最高級不與 than 作此結構。",
+      "原級不與 than 作此比較。"
+    ],
+    "tip": "fast–faster–fastest。"
+  },
+  {
+    "id": "G25",
+    "kind": "文法",
+    "topic": "比較程度",
+    "stem": "This model is ___ more efficient than the previous one.",
+    "zh": "這型號比上一代有效率得多。",
+    "options": [
+      "most",
+      "much",
+      "very",
+      "many"
+    ],
+    "answer": 1,
+    "reasons": [
+      "會與 more 衝突。",
+      "much 可修飾比較級。",
+      "very 不直接修飾 more efficient。",
+      "many 修飾可數複數。"
+    ],
+    "tip": "much / far / slightly + 比較級。"
+  },
+  {
+    "id": "G26",
+    "kind": "文法",
+    "topic": "足夠",
+    "stem": "The room is large ___ to hold fifty people.",
+    "zh": "房間夠大可容納五十人。",
+    "options": [
+      "many",
+      "too",
+      "enough",
+      "very"
+    ],
+    "answer": 2,
+    "reasons": [
+      "不修飾 large。",
+      "too 應在形容詞前，且意思過度。",
+      "形容詞後接 enough to。",
+      "位置及接 to 結構都不對。"
+    ],
+    "tip": "adj. enough；enough + 名詞。"
+  },
+  {
+    "id": "G27",
+    "kind": "文法",
+    "topic": "關係子句",
+    "stem": "The engineer ___ designed the tool is on leave.",
+    "zh": "設計工具的工程師正在休假。",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "answer": 0,
+    "reasons": [
+      "先行詞人，且子句缺主詞。",
+      "後面應有名詞，不直接 designed。",
+      "一般不用 which 指此人。",
+      "作受詞，此空格是主詞。"
+    ],
+    "tip": "看關係詞在子句裡做什麼。"
+  },
+  {
+    "id": "G28",
+    "kind": "文法",
+    "topic": "間接問句",
+    "stem": "Please tell me where ___.",
+    "zh": "請告訴我實驗室在哪裡。",
+    "options": [
+      "is the laboratory",
+      "the laboratory is",
+      "does the laboratory",
+      "the laboratory"
+    ],
+    "answer": 1,
+    "reasons": [
+      "這是直接疑問詞序。",
+      "間接問句用直述詞序。",
+      "缺動詞且錯用助動詞。",
+      "缺限定動詞。"
+    ],
+    "tip": "where + S + V。"
+  },
+  {
+    "id": "G29",
+    "kind": "文法",
+    "topic": "分詞",
+    "stem": "The equipment ___ last week is ready.",
+    "zh": "上週安裝的設備已就緒。",
+    "options": [
+      "installed",
+      "installing",
+      "installation",
+      "installs"
+    ],
+    "answer": 0,
+    "reasons": [
+      "縮短 that was installed，表示被動。",
+      "變成設備正在安裝其他東西，語意不合。",
+      "名詞不構成修飾子句。",
+      "會與 is 形成未連接的雙動詞。"
+    ],
+    "tip": "先還原關係子句。"
+  },
+  {
+    "id": "G30",
+    "kind": "文法",
+    "topic": "分詞形容詞",
+    "stem": "The instructions were so ___ that we asked for help.",
+    "zh": "說明太令人困惑，所以我們求助。",
+    "options": [
+      "confused",
+      "confusing",
+      "confuse",
+      "confusion"
+    ],
+    "answer": 1,
+    "reasons": [
+      "說明本身不會感到困惑。",
+      "說明造成困惑，用 -ing。",
+      "原形不放 were so 後。",
+      "名詞不合形容程度結構。"
+    ],
+    "tip": "事情令人…；人感到…，仍須看語意。"
+  },
+  {
+    "id": "G31",
+    "kind": "文法",
+    "topic": "義務與禁止",
+    "stem": "Employees ___ share their passwords with anyone.",
+    "zh": "員工不得與任何人分享密碼。",
+    "options": [
+      "may",
+      "do not have to",
+      "should",
+      "must not"
+    ],
+    "answer": 3,
+    "reasons": [
+      "表允許，意思相反。",
+      "表不必，不代表禁止。",
+      "表應該，意思相反。",
+      "must not 明確表示禁止分享密碼，而非只是沒有義務分享。"
+    ],
+    "tip": "must not ≠ do not have to。"
+  },
+  {
+    "id": "G32",
+    "kind": "文法",
+    "topic": "過去假設",
+    "stem": "If we had ordered earlier, we ___ the deadline.",
+    "zh": "如果當初早點訂購，我們就能趕上期限。",
+    "options": [
+      "would have met",
+      "meet",
+      "would meeting",
+      "will meet"
+    ],
+    "answer": 0,
+    "reasons": [
+      "與過去事實相反，主句 would have p.p.。",
+      "現在式不合過去假設。",
+      "would 後不能直接 V-ing。",
+      "真實未來不合 had ordered 假設。"
+    ],
+    "tip": "had p.p. → would have p.p.。"
+  },
+  {
+    "id": "G33",
+    "kind": "文法",
+    "topic": "現在假設",
+    "stem": "If I ___ you, I would check the label again.",
+    "zh": "如果我是你，我會再檢查標籤。",
+    "options": [
+      "been",
+      "am",
+      "will be",
+      "were"
+    ],
+    "answer": 3,
+    "reasons": [
+      "缺助動詞。",
+      "不符合與事實相反假設。",
+      "不在此 if 子句用未來。",
+      "正式假設句 If I were you。"
+    ],
+    "tip": "固定建議句：If I were you。"
+  },
+  {
+    "id": "G34",
+    "kind": "文法",
+    "topic": "平行結構",
+    "stem": "The job involves inspecting parts, recording data, and ___ reports.",
+    "zh": "工作包括檢查零件、記錄資料及撰寫報告。",
+    "options": [
+      "wrote",
+      "write",
+      "to write",
+      "writing"
+    ],
+    "answer": 3,
+    "reasons": [
+      "過去式不平行。",
+      "並列形式不一致。",
+      "此處不是並列不定詞。",
+      "與 inspecting、recording 並列 V-ing。"
+    ],
+    "tip": "and 左右找同一層級。"
+  },
+  {
+    "id": "G35",
+    "kind": "文法",
+    "topic": "冠詞",
+    "stem": "The repair will take ___ hour.",
+    "zh": "維修會花一小時。",
+    "options": [
+      "few",
+      "a",
+      "many",
+      "an"
+    ],
+    "answer": 3,
+    "reasons": [
+      "few 需要複數。",
+      "依發音不是字母，hour 用 an。",
+      "hour 單數，不能配 many。",
+      "hour 開頭 h 不發音，以母音音素開始。"
+    ],
+    "tip": "an hour；a university。"
+  },
+  {
+    "id": "G36",
+    "kind": "文法",
+    "topic": "限制條件",
+    "stem": "You may enter only if you ___ a valid badge.",
+    "zh": "只有持有效識別證才可進入。",
+    "options": [
+      "has",
+      "having",
+      "have",
+      "had been"
+    ],
+    "answer": 2,
+    "reasons": [
+      "you 不配 has。",
+      "缺限定動詞。",
+      "真實條件使用現在式。",
+      "後面 badge 名詞語意與結構不合。"
+    ],
+    "tip": "only if 是必要條件，閱讀不能漏 only。"
+  }
+]

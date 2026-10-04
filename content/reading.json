@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "R01",
+    "title": "無塵室入口通知",
+    "level": "基礎",
+    "genre": "公告",
+    "text": "Cleanroom Access Notice\nStarting Monday, October 5, all visitors to Building C must use the east entrance. The west entrance will be closed for floor repairs until October 9. Employees may continue to use the north entrance with their regular badges.\nVisitors must present photo identification at the east reception desk and wait for their host. Reception staff will issue a temporary badge after confirming the appointment. A temporary badge does not allow visitors to enter the cleanroom alone. Hosts must accompany them at all times. Protective clothing is available at the changing area; visitors do not need to bring their own. Please allow an additional fifteen minutes for registration.",
+    "zh": "自十月五日週一起，C 棟訪客須走東入口。西入口因地板維修關閉至十月九日。員工仍可持原識別證走北入口。\n訪客須在東側接待處出示有照片的身分證件並等接待人。櫃台確認預約後發臨時證。臨時證不允許訪客獨自進無塵室，接待人必須全程陪同。更衣區提供防護衣，訪客不用自備。登記請多預留十五分鐘。",
+    "strategy": "先區分 visitors 與 employees，再圈 must、may、do not need。",
+    "questions": [
+      {
+        "id": "R01-1",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "Which entrance should visitors use starting October 5?",
+        "zh": "十月五日起訪客應走哪個入口？",
+        "options": [
+          "Any entrance with a badge.",
+          "The east entrance.",
+          "The west entrance.",
+          "The north entrance."
+        ],
+        "answer": 1,
+        "reasons": [
+          "臨時證不表示任何入口皆可。",
+          "第一句明確指 all visitors ... east entrance。",
+          "西入口維修關閉。",
+          "北入口只說員工可繼續使用。"
+        ],
+        "tip": "先區分 visitors 與 employees，再圈 must、may、do not need。"
+      },
+      {
+        "id": "R01-2",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "What must visitors present?",
+        "zh": "訪客必須出示什麼？",
+        "options": [
+          "Their own protective clothing.",
+          "Photo identification.",
+          "An employee badge.",
+          "A repair invoice."
+        ],
+        "answer": 1,
+        "reasons": [
+          "文章說不用自備防護衣。",
+          "第二段第一句的直接要求。",
+          "訪客取得的是臨時證，不是員工證。",
+          "未提及請款單。"
+        ],
+        "tip": "先區分 visitors 與 employees，再圈 must、may、do not need。"
+      },
+      {
+        "id": "R01-3",
+        "kind": "閱讀",
+        "topic": "推論",
+        "stem": "What can be concluded about a temporary badge?",
+        "zh": "臨時證可以得出什麼結論？",
+        "options": [
+          "It must be purchased online.",
+          "It permits unaccompanied cleanroom access.",
+          "It does not replace the need for a host.",
+          "It is valid at every company site."
+        ],
+        "answer": 2,
+        "reasons": [
+          "未提購買或費用。",
+          "與 does not allow ... alone 相反。",
+          "文章明說仍須全程由 host 陪同。",
+          "未提其他廠區適用範圍。"
+        ],
+        "tip": "先區分 visitors 與 employees，再圈 must、may、do not need。"
+      },
+      {
+        "id": "R01-4",
+        "kind": "閱讀",
+        "topic": "目的",
+        "stem": "Why should visitors arrive fifteen minutes early?",
+        "zh": "為何建議訪客提早十五分鐘？",
+        "options": [
+          "To repair the floor.",
+          "To attend a mandatory safety lecture.",
+          "To allow time for registration.",
+          "To buy protective clothing."
+        ],
+        "answer": 2,
+        "reasons": [
+          "訪客不是修繕人員。",
+          "本文未提課程，不可用常識補。",
+          "最後一句直接說 for registration。",
+          "防護衣現場提供。"
+        ],
+        "tip": "先區分 visitors 與 employees，再圈 must、may、do not need。"
+      }
+    ]
+  },
+  {
+    "id": "R02",
+    "title": "維護排程與下一步",
+    "level": "基礎",
+    "genre": "內部郵件",
+    "text": "To: Line B Team\nSubject: Revised pump inspection\nThe inspection originally planned for Tuesday has been moved to Thursday, October 8. The replacement pressure sensor will not arrive until Wednesday afternoon, and the maintenance team needs time to install it before the inspection.\nPlease keep Pump B2 offline until the inspection is complete and the supervisor gives written approval. Production may continue on Pump B1, which passed its inspection last week. Do not move the sensor from B1 to B2. If you need additional capacity before Thursday, contact Planning by noon today. Planning will check whether work can be transferred to Line A; no transfer has been approved yet.",
+    "zh": "原訂週二的檢查改到十月八日週四，因替換壓力感測器週三下午才到，維護團隊須先安裝。B2 幫浦須保持停機，直到檢查完成且主管書面核准。上週通過檢查的 B1 可繼續生產，不可把 B1 感測器移至 B2。週四前需要額外產能者，今天中午前聯絡生管。生管將查是否可轉至 A 線，目前尚未批准任何轉線。",
+    "strategy": "把已完成、計畫中、尚未批准分成三欄。",
+    "questions": [
+      {
+        "id": "R02-1",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "When is the inspection now scheduled?",
+        "zh": "檢查現在排何時？",
+        "options": [
+          "Wednesday morning.",
+          "Last week.",
+          "Tuesday.",
+          "Thursday, October 8."
+        ],
+        "answer": 3,
+        "reasons": [
+          "週三下午是感測器到貨，不是檢查。",
+          "上週是 B1 的檢查。",
+          "Tuesday 是原日期。",
+          "moved to Thursday 是新日期。"
+        ],
+        "tip": "把已完成、計畫中、尚未批准分成三欄。"
+      },
+      {
+        "id": "R02-2",
+        "kind": "閱讀",
+        "topic": "原因",
+        "stem": "Why was the inspection moved?",
+        "zh": "檢查為何改期？",
+        "options": [
+          "Pump B1 failed its inspection.",
+          "A required sensor will arrive later.",
+          "The supervisor is on leave.",
+          "Line A has already accepted the work."
+        ],
+        "answer": 1,
+        "reasons": [
+          "B1 是 passed。",
+          "零件週三下午才到，須先安裝。",
+          "未提主管請假。",
+          "本文說尚未核准轉線。"
+        ],
+        "tip": "把已完成、計畫中、尚未批准分成三欄。"
+      },
+      {
+        "id": "R02-3",
+        "kind": "閱讀",
+        "topic": "條件",
+        "stem": "What is required before restarting B2?",
+        "zh": "B2 重啟前需要什麼？",
+        "options": [
+          "A completed inspection and written approval.",
+          "A transfer of the B1 sensor.",
+          "Only the arrival of the new sensor.",
+          "Permission from the supplier alone."
+        ],
+        "answer": 0,
+        "reasons": [
+          "until 後有兩個條件，以 and 連接。",
+          "文中明確禁止移動 B1 感測器。",
+          "到貨不是足夠條件。",
+          "核准者是 supervisor，不是供應商。"
+        ],
+        "tip": "把已完成、計畫中、尚未批准分成三欄。"
+      },
+      {
+        "id": "R02-4",
+        "kind": "閱讀",
+        "topic": "推論",
+        "stem": "Which statement is supported?",
+        "zh": "何者有原文支持？",
+        "options": [
+          "Both pumps must remain offline.",
+          "B2 can restart Wednesday afternoon.",
+          "Line A will definitely start the work today.",
+          "A transfer to Line A is still uncertain."
+        ],
+        "answer": 3,
+        "reasons": [
+          "B1 可繼續。",
+          "未滿足檢查與書面核准。",
+          "把待確認改成確定。",
+          "will check whether 加 no transfer ... approved，仍未定。"
+        ],
+        "tip": "把已完成、計畫中、尚未批准分成三欄。"
+      }
+    ]
+  },
+  {
+    "id": "R03",
+    "title": "採購單與分批出貨",
+    "level": "中階",
+    "genre": "雙文件",
+    "text": "Document A — Purchase order PO-184\nItem: pressure sensors, model PS-8\nQuantity: 20; unit price: $45\nStandard shipping: included\nRequested arrival: October 12\nNote: Contact us before substituting another model.\n\nDocument B — Supplier email\nThank you for order PO-184. We have twelve PS-8 sensors ready for dispatch on October 7. The remaining eight will be dispatched on October 14. Standard delivery takes two business days after dispatch. Our business days are Monday through Friday, and there are no holidays in this period. We can offer model PS-9 for immediate dispatch instead, but it requires a different connector. Please confirm whether you prefer a split shipment or a substitute. We will not make a substitution without your approval. There is no extra shipping charge for a split shipment.",
+    "zh": "A：訂單 PO-184，PS-8 壓力感測器二十個，每個四十五元，含標準運送，要求十月十二日到貨；換型號前先聯絡。\nB：十二個 PS-8 可十月七日出貨，其餘八個十月十四日出貨。標準配送自出貨後需兩個工作天，工作日週一至週五，此期間無假日。可改 PS-9 立即出貨，但需不同連接器。請確認分批或替代方案，未核准前不替換。分批不加運費。",
+    "strategy": "先對單號，再區分 dispatch 出貨與 arrival 到貨。",
+    "questions": [
+      {
+        "id": "R03-1",
+        "kind": "閱讀",
+        "topic": "計算",
+        "stem": "What is the total price of the sensors in the original order?",
+        "zh": "原訂感測器總價多少？",
+        "options": [
+          "$900.",
+          "$360.",
+          "$945.",
+          "$540."
+        ],
+        "answer": 0,
+        "reasons": [
+          "20 × 45 = 900；標準運送包含在內。",
+          "這只算剩下八個。",
+          "多加一個四十五元，文中沒有此費用。",
+          "這只算先寄十二個。"
+        ],
+        "tip": "先對單號，再區分 dispatch 出貨與 arrival 到貨。"
+      },
+      {
+        "id": "R03-2",
+        "kind": "閱讀",
+        "topic": "跨文推論",
+        "stem": "Why can the full original order not arrive by October 12 using the stated schedule?",
+        "zh": "依此時程，整筆原訂單為何無法十二日前到齊？",
+        "options": [
+          "Eight units will not be dispatched until October 14.",
+          "The buyer ordered the wrong connector.",
+          "Standard shipping is not available.",
+          "All twenty units are out of stock."
+        ],
+        "answer": 0,
+        "reasons": [
+          "其餘八個連出貨都在十四日，超過要求到貨日。",
+          "只說替代型號需不同連接器，未說買錯。",
+          "有標準運送。",
+          "有十二個可先寄。"
+        ],
+        "tip": "先對單號，再區分 dispatch 出貨與 arrival 到貨。"
+      },
+      {
+        "id": "R03-3",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "What is true of the PS-9?",
+        "zh": "PS-9 有何特點？",
+        "options": [
+          "It costs less than the PS-8.",
+          "It has already been shipped.",
+          "It is identical to the PS-8 in every way.",
+          "It requires a different connector."
+        ],
+        "answer": 3,
+        "reasons": [
+          "未提供 PS-9 價格。",
+          "等待確認，未說已寄。",
+          "連接器需求不同。",
+          "供應商信中的明確差異。"
+        ],
+        "tip": "先對單號，再區分 dispatch 出貨與 arrival 到貨。"
+      },
+      {
+        "id": "R03-4",
+        "kind": "閱讀",
+        "topic": "行動",
+        "stem": "What does the supplier ask the buyer to do?",
+        "zh": "供應商要求買方做什麼？",
+        "options": [
+          "Approve a price increase.",
+          "Cancel all twenty sensors.",
+          "Pay an extra split-shipment fee.",
+          "Choose a split shipment or a substitute."
+        ],
+        "answer": 3,
+        "reasons": [
+          "未提漲價。",
+          "不是要求取消。",
+          "分批不加運費。",
+          "Please confirm whether ... 明確請求。"
+        ],
+        "tip": "先對單號，再區分 dispatch 出貨與 arrival 到貨。"
+      }
+    ]
+  },
+  {
+    "id": "R04",
+    "title": "技術員職缺",
+    "level": "基礎",
+    "genre": "徵才廣告",
+    "text": "Maintenance Technician — Day Shift\nWe are seeking a technician to maintain automated packaging equipment. Applicants must have at least one year of relevant maintenance experience and be able to read English operating instructions. A technical diploma is preferred but not required. Experience with vacuum pumps is an advantage.\nThe regular schedule is Monday to Friday, 8 a.m. to 5 p.m. Occasional weekend work may be necessary during planned shutdowns. Training on our equipment will be provided. To apply, email a resume and a brief description of one maintenance problem you have solved to the recruitment team by October 16. Only shortlisted applicants will be contacted for an interview. Please do not visit the site without an appointment.",
+    "zh": "招募日班維護技術員，維護自動包裝設備。必須有至少一年相關維護經驗且能讀英文操作說明。技術文憑為優先條件，非必要；真空幫浦經驗加分。正常週一至週五八點至五點，計畫停機時偶爾可能週末工作，公司提供設備訓練。十月十六日前寄履歷及一個自己解決過的維護問題簡述。僅通知入選者面試，未預約勿直接到廠。",
+    "strategy": "把 required、preferred、an advantage 分開，不能把加分條件當必要。",
+    "questions": [
+      {
+        "id": "R04-1",
+        "kind": "閱讀",
+        "topic": "必要條件",
+        "stem": "Which qualification is required?",
+        "zh": "哪項是必備資格？",
+        "options": [
+          "At least one year of relevant experience.",
+          "Vacuum pump experience.",
+          "A technical diploma.",
+          "Five years of management experience."
+        ],
+        "answer": 0,
+        "reasons": [
+          "must have 是必要條件。",
+          "an advantage，僅加分。",
+          "preferred but not required。",
+          "未提五年或管理。"
+        ],
+        "tip": "把 required、preferred、an advantage 分開，不能把加分條件當必要。"
+      },
+      {
+        "id": "R04-2",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "What should be sent with the resume?",
+        "zh": "履歷須附什麼？",
+        "options": [
+          "A complete training manual.",
+          "A copy of a passport.",
+          "A description of a maintenance problem the applicant solved.",
+          "A weekend work schedule."
+        ],
+        "answer": 2,
+        "reasons": [
+          "未要求交手冊。",
+          "未提護照。",
+          "申請方式明確要求。",
+          "未要求自行排班。"
+        ],
+        "tip": "把 required、preferred、an advantage 分開，不能把加分條件當必要。"
+      },
+      {
+        "id": "R04-3",
+        "kind": "閱讀",
+        "topic": "推論",
+        "stem": "What does the advertisement suggest about weekends?",
+        "zh": "廣告對週末工作有何暗示？",
+        "options": [
+          "Some weekend work is possible.",
+          "Weekend work is prohibited.",
+          "Every weekend is a regular workday.",
+          "Applicants must work only on weekends."
+        ],
+        "answer": 0,
+        "reasons": [
+          "occasional ... may be necessary。",
+          "與文字相反。",
+          "把偶爾誇大成每週。",
+          "不是正常週一至週五班表。"
+        ],
+        "tip": "把 required、preferred、an advantage 分開，不能把加分條件當必要。"
+      },
+      {
+        "id": "R04-4",
+        "kind": "閱讀",
+        "topic": "限制",
+        "stem": "Who will be contacted for an interview?",
+        "zh": "誰會收到面試通知？",
+        "options": [
+          "Everyone who visits without an appointment.",
+          "Only applicants with a diploma.",
+          "Everyone who sends a resume.",
+          "Only shortlisted applicants."
+        ],
+        "answer": 3,
+        "reasons": [
+          "明確不鼓勵無預約到廠。",
+          "文憑不是必要，不能推出此限制。",
+          "不是所有人。",
+          "Only shortlisted 是明確範圍。"
+        ],
+        "tip": "把 required、preferred、an advantage 分開，不能把加分條件當必要。"
+      }
+    ]
+  },
+  {
+    "id": "R05",
+    "title": "費用報銷規則",
+    "level": "中階",
+    "genre": "政策",
+    "text": "Travel Reimbursement — Effective October 1\nEmployees must obtain manager approval before booking business travel. The company reimburses economy-class transportation and hotel costs up to $120 per night. Meals are covered up to $35 per day, excluding alcohol. Original receipts must be submitted within ten calendar days after the trip ends.\nIf a hotel costs more than the standard limit, written approval from the Finance Director is required before booking. A manager's general approval for the trip does not automatically authorize a higher hotel rate. Lost receipts should be reported to Finance; reimbursement in these cases is reviewed individually and is not guaranteed. Claims received after the deadline will be returned unless Finance has approved an extension.",
+    "zh": "十月一日生效：預訂出差前須主管核准。補助經濟艙交通，住宿每晚最高一百二十元；餐費每日最高三十五元，不含酒精。旅程結束後十個日曆天內提交原始收據。住宿超標須預訂前取得財務總監書面核准，一般主管核准出差不自動核准超額房價。收據遺失須向財務報告，逐案審查且不保證報銷。逾期申請會退回，除非已批准延期。",
+    "strategy": "把基本規則、例外核准者及保證程度各畫一條線。",
+    "questions": [
+      {
+        "id": "R05-1",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "What is the standard hotel limit?",
+        "zh": "一般住宿上限多少？",
+        "options": [
+          "There is no limit with manager approval.",
+          "$120 per trip.",
+          "$120 per night.",
+          "$35 per night."
+        ],
+        "answer": 2,
+        "reasons": [
+          "一般核准不自動允許超額。",
+          "單位是每晚，不是整趟。",
+          "明確寫 up to $120 per night。",
+          "35 是每日餐費額度。"
+        ],
+        "tip": "把基本規則、例外核准者及保證程度各畫一條線。"
+      },
+      {
+        "id": "R05-2",
+        "kind": "閱讀",
+        "topic": "條件",
+        "stem": "What is needed for a higher hotel rate?",
+        "zh": "超額住宿需什麼？",
+        "options": [
+          "A receipt submitted after booking.",
+          "A request from the hotel receptionist.",
+          "Only a manager’s general trip approval.",
+          "Written approval from the Finance Director before booking."
+        ],
+        "answer": 3,
+        "reasons": [
+          "收據不是事前例外核准。",
+          "與權限無關。",
+          "第二段明確否定。",
+          "三要素：書面、財務總監、預訂前。"
+        ],
+        "tip": "把基本規則、例外核准者及保證程度各畫一條線。"
+      },
+      {
+        "id": "R05-3",
+        "kind": "閱讀",
+        "topic": "推論",
+        "stem": "What happens if an original receipt is lost?",
+        "zh": "原始收據遺失怎麼辦？",
+        "options": [
+          "Finance reviews the case without guaranteeing reimbursement.",
+          "Reimbursement is always approved.",
+          "Reimbursement is always rejected.",
+          "The employee must cancel the completed trip."
+        ],
+        "answer": 0,
+        "reasons": [
+          "reviewed individually and not guaranteed。",
+          "把不保證改成保證。",
+          "也不能從不保證推出一律拒絕。",
+          "行程已結束，不合文意。"
+        ],
+        "tip": "把基本規則、例外核准者及保證程度各畫一條線。"
+      },
+      {
+        "id": "R05-4",
+        "kind": "閱讀",
+        "topic": "例外",
+        "stem": "When may a late claim avoid being returned?",
+        "zh": "逾期申請何時可能不被退回？",
+        "options": [
+          "When Finance has approved an extension.",
+          "When the employee submits a photocopy only.",
+          "Whenever the hotel is expensive.",
+          "When alcohol is included."
+        ],
+        "answer": 0,
+        "reasons": [
+          "unless 後是唯一說明的例外。",
+          "未說影本可免除期限。",
+          "房價不是逾期例外。",
+          "酒精費用不補助。"
+        ],
+        "tip": "把基本規則、例外核准者及保證程度各畫一條線。"
+      }
+    ]
+  },
+  {
+    "id": "R06",
+    "title": "三文件：訓練名額與時間",
+    "level": "中階",
+    "genre": "三文件",
+    "text": "Document A — Training announcement, October 1\nCalibration Basics has two sessions: October 8, 9–11 a.m., and October 9, 2–4 p.m. Each session has twelve places. Register for only one session. Participants must complete the online safety module before attending. The workshop is in Room 204.\n\nDocument B — Registration confirmation to Mei Chen, October 2\nYou are confirmed for the October 9 afternoon session. You are on the waiting list for October 8; your original request was for that date. We will contact you if a place opens. Your safety module is marked complete.\n\nDocument C — Update to Mei Chen, October 6\nA place is now available on October 8. To switch, reply by noon on October 7. If we do not hear from you, your October 9 booking will remain active. The October 8 session has moved to Room 310 because Room 204 is being repaired. The October 9 session will still be in Room 204.",
+    "zh": "A：校正基礎課有十月八日九至十一點、十月九日十四至十六點兩梯，每梯十二人，只能報一梯；課前須完成線上安全課，原教室 204。\nB：Mei 已確認十月九日下午，原想報八日但候補；安全課已完成。\nC：八日有空位了，若改梯須十月七日中午前回覆，未回則保留九日。八日因維修改教室 310，九日仍在 204。",
+    "strategy": "依時間排序更新，再分清「有空位」與「已改成功」。",
+    "questions": [
+      {
+        "id": "R06-1",
+        "kind": "閱讀",
+        "topic": "跨文細節",
+        "stem": "Which session is confirmed before Mei responds to the update?",
+        "zh": "Mei 回覆更新前，確定的是哪一梯？",
+        "options": [
+          "Both sessions.",
+          "October 9, 2–4 p.m.",
+          "October 8, 9–11 a.m.",
+          "Neither session."
+        ],
+        "answer": 1,
+        "reasons": [
+          "A 規定只報一梯。",
+          "B 已確認，C 說未回則保留。",
+          "只是可轉入，尚需回覆。",
+          "已有九日確認。"
+        ],
+        "tip": "依時間排序更新，再分清「有空位」與「已改成功」。"
+      },
+      {
+        "id": "R06-2",
+        "kind": "閱讀",
+        "topic": "跨文條件",
+        "stem": "What must Mei do to switch to October 8?",
+        "zh": "Mei 要改八日須做什麼？",
+        "options": [
+          "Arrive at Room 204 on October 8 without replying.",
+          "Attend both sessions first.",
+          "Reply by noon on October 7.",
+          "Repeat the completed safety module."
+        ],
+        "answer": 2,
+        "reasons": [
+          "要先回覆且八日教室已改。",
+          "不合只報一梯。",
+          "C 的明確期限及動作。",
+          "B 顯示已完成，無重做要求。"
+        ],
+        "tip": "依時間排序更新，再分清「有空位」與「已改成功」。"
+      },
+      {
+        "id": "R06-3",
+        "kind": "閱讀",
+        "topic": "跨文細節",
+        "stem": "Where will the October 8 session be held?",
+        "zh": "八日梯次在哪？",
+        "options": [
+          "The location has not been announced.",
+          "Room 310.",
+          "The online safety portal.",
+          "Room 204."
+        ],
+        "answer": 1,
+        "reasons": [
+          "已明確公告 310。",
+          "C 更新八日地點。",
+          "線上安全課不是實體工作坊地點。",
+          "舊資訊，只適用九日。"
+        ],
+        "tip": "依時間排序更新，再分清「有空位」與「已改成功」。"
+      },
+      {
+        "id": "R06-4",
+        "kind": "閱讀",
+        "topic": "推論",
+        "stem": "Which requirement has Mei already satisfied?",
+        "zh": "Mei 已滿足哪項要求？",
+        "options": [
+          "Obtaining a refund.",
+          "Replying to accept the October 8 place.",
+          "Attending the workshop.",
+          "Completing the online safety module."
+        ],
+        "answer": 3,
+        "reasons": [
+          "未提收費或退款。",
+          "未提供她已回覆的文件。",
+          "文件日期都在工作坊前。",
+          "B 明確 marked complete。"
+        ],
+        "tip": "依時間排序更新，再分清「有空位」與「已改成功」。"
+      }
+    ]
+  },
+  {
+    "id": "R07",
+    "title": "供應商品質處置",
+    "level": "中階",
+    "genre": "品質報告",
+    "text": "Quality Review — Lot K17\nWe inspected a random sample of 80 connectors from the 800-unit lot received on October 2. Six sampled connectors had damaged pins. The rest of the sample passed the visual inspection. Electrical testing has not yet been completed.\nThe entire lot has been placed on hold. Please do not release any units to production until Quality gives written approval. The supplier has been asked to investigate the packaging process and send a corrective-action plan by October 10. This request does not establish that packaging caused the damage; it is one possible cause under review. A full inspection will determine how many units require replacement. The six defective sample units have been stored separately for further analysis.",
+    "zh": "十月二日收八百個連接器，抽驗八十個，其中六個針腳受損，其餘抽樣品通過外觀檢查。電性測試尚未完成。整批暫停放行，品保書面核准前不得投產。要求供應商調查包裝流程並在十月十日前交改善計畫，但這並不證明包裝是原因，只是可能原因之一。全檢後才能確定需更換數量，六個不良抽樣品另存分析。",
+    "strategy": "區分樣本與母體、外觀與電性、假設與已證實原因。",
+    "questions": [
+      {
+        "id": "R07-1",
+        "kind": "閱讀",
+        "topic": "數量",
+        "stem": "How many connectors were in the inspected sample?",
+        "zh": "抽驗樣本多少個？",
+        "options": [
+          "80.",
+          "800.",
+          "6.",
+          "74."
+        ],
+        "answer": 0,
+        "reasons": [
+          "random sample of 80。",
+          "800 是整批数量。",
+          "6 是樣本中受損數。",
+          "74 是外觀通過的樣本數。"
+        ],
+        "tip": "區分樣本與母體、外觀與電性、假設與已證實原因。"
+      },
+      {
+        "id": "R07-2",
+        "kind": "閱讀",
+        "topic": "推論",
+        "stem": "Which conclusion is justified?",
+        "zh": "哪個結論合理？",
+        "options": [
+          "Packaging has been proven to be the cause.",
+          "All electrically tested units passed.",
+          "The total number of defective units is not yet known.",
+          "Exactly sixty units in the lot are defective."
+        ],
+        "answer": 2,
+        "reasons": [
+          "文章明確說未證實。",
+          "電測還沒完成。",
+          "需全檢才能定更換數，不能把樣本結果當整批實際數。",
+          "以比例估計不能說 exactly。"
+        ],
+        "tip": "區分樣本與母體、外觀與電性、假設與已證實原因。"
+      },
+      {
+        "id": "R07-3",
+        "kind": "閱讀",
+        "topic": "行動",
+        "stem": "When may units be released to production?",
+        "zh": "什麼時候可放行投產？",
+        "options": [
+          "Immediately, except for the six sample units.",
+          "After written approval from Quality.",
+          "Automatically on October 10.",
+          "As soon as the supplier replies."
+        ],
+        "answer": 1,
+        "reasons": [
+          "整批 on hold。",
+          "until Quality gives written approval。",
+          "十日是計畫提交期限，不是放行日。",
+          "回覆不等於品保核准。"
+        ],
+        "tip": "區分樣本與母體、外觀與電性、假設與已證實原因。"
+      },
+      {
+        "id": "R07-4",
+        "kind": "閱讀",
+        "topic": "目的",
+        "stem": "Why were six units stored separately?",
+        "zh": "六個樣品為何另存？",
+        "options": [
+          "For further analysis.",
+          "To demonstrate that the lot passed all tests.",
+          "To ship them to customers.",
+          "To replace all eight hundred units."
+        ],
+        "answer": 0,
+        "reasons": [
+          "最後一句直接指出。",
+          "測試未完且有不良。",
+          "未說出貨，且是不良樣本。",
+          "六個不可能代表已更換全批，文中也沒說。"
+        ],
+        "tip": "區分樣本與母體、外觀與電性、假設與已證實原因。"
+      }
+    ]
+  },
+  {
+    "id": "R08",
+    "title": "資安維護公告",
+    "level": "基礎",
+    "genre": "系統通知",
+    "text": "Scheduled System Maintenance\nThe purchasing portal will be unavailable on Saturday from 8 p.m. to 10 p.m. Local time is used throughout this notice. Orders submitted before 8 p.m. will remain in the system, but staff will not be able to view or change them during the maintenance window. Unsaved drafts may be lost, so please save your work and log out before 8 p.m.\nEmail and the inventory dashboard will remain available. For an urgent purchase during the outage, call the duty manager; do not send account passwords by email. The IT team will post a completion notice on the dashboard when the portal is available again. If maintenance finishes early, the portal may reopen before 10 p.m.",
+    "zh": "採購入口週六晚間八至十點維護，均為當地時間。八點前已提交訂單仍留存，但期間無法看或改；未儲存草稿可能遺失，八點前存檔登出。電子郵件與庫存儀表板仍可用。停機時緊急採購請打值班主管，勿透過電郵傳帳密。IT 在入口恢復時於儀表板公告，提前完成則可能十點前開放。",
+    "strategy": "remain、may、before 描述不同保證程度，不要互換。",
+    "questions": [
+      {
+        "id": "R08-1",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "Which service will remain available?",
+        "zh": "哪項服務仍可用？",
+        "options": [
+          "The purchasing portal throughout maintenance.",
+          "The inventory dashboard.",
+          "Editing submitted orders during maintenance.",
+          "Every company system."
+        ],
+        "answer": 1,
+        "reasons": [
+          "入口維護不可用。",
+          "第二段明確說保持可用。",
+          "明確說不能改。",
+          "文中只列兩項可用，不能擴大。"
+        ],
+        "tip": "remain、may、before 描述不同保證程度，不要互換。"
+      },
+      {
+        "id": "R08-2",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "What may be lost?",
+        "zh": "什麼可能遺失？",
+        "options": [
+          "All submitted orders.",
+          "Every email.",
+          "The completion notice.",
+          "Unsaved drafts."
+        ],
+        "answer": 3,
+        "reasons": [
+          "已提交訂單仍在系統。",
+          "郵件仍可用，未說遺失。",
+          "未說公告會遺失。",
+          "原文限定 unsaved drafts may be lost。"
+        ],
+        "tip": "remain、may、before 描述不同保證程度，不要互換。"
+      },
+      {
+        "id": "R08-3",
+        "kind": "閱讀",
+        "topic": "行動",
+        "stem": "What should staff do for an urgent purchase during the outage?",
+        "zh": "停機時緊急採購怎麼做？",
+        "options": [
+          "Email their password to IT.",
+          "Call the duty manager.",
+          "Wait until Monday in every case.",
+          "Create an unsaved draft and close the browser."
+        ],
+        "answer": 1,
+        "reasons": [
+          "文中禁止傳密碼。",
+          "明確指示。",
+          "未規定一律等週一。",
+          "不是公告提出的處理方法。"
+        ],
+        "tip": "remain、may、before 描述不同保證程度，不要互換。"
+      },
+      {
+        "id": "R08-4",
+        "kind": "閱讀",
+        "topic": "推論",
+        "stem": "What is stated about reopening?",
+        "zh": "對恢復時間的敘述為何？",
+        "options": [
+          "It cannot reopen before 10 p.m.",
+          "It will definitely reopen at 9 p.m.",
+          "The portal might reopen before 10 p.m.",
+          "The dashboard will be unavailable until then."
+        ],
+        "answer": 2,
+        "reasons": [
+          "與可提早相反。",
+          "沒有九點保證。",
+          "may reopen，可能而非保證。",
+          "儀表板仍可用。"
+        ],
+        "tip": "remain、may、before 描述不同保證程度，不要互換。"
+      }
+    ]
+  },
+  {
+    "id": "R09",
+    "title": "會議改期即時訊息",
+    "level": "中階",
+    "genre": "對話與語意",
+    "text": "09:10 — Leo: Our supplier cannot join the 2 p.m. call. Could we move it to 3:30?\n09:12 — Ada: I have a safety review until 3. That works for me, provided we finish by 4:15.\n09:14 — Leo: We only need thirty minutes. I will send a revised invitation once Nila confirms.\n09:16 — Nila: I can join remotely at 3:30, but I will not be at the office. Please include the video link.\n09:18 — Ada: Good. Leo, could you also attach the latest quotation? The one in yesterday's invitation does not include freight.\n09:20 — Leo: Certainly. The supplier sent a new quote this morning. Freight is listed separately, and the total is higher. I will attach that version and send the invitation now.",
+    "zh": "供應商無法參加下午兩點電話會議，Leo 提議三點半。Ada 三點前有安全審查，若四點十五分前結束就可。Leo 表示只需三十分鐘，待 Nila 確認才寄更新。Nila 可三點半遠端參加，請加視訊連結。Ada 請附最新報價，昨日版本不含運費。Leo 說今早新版運費另列，總額較高，將附新版並寄出邀請。",
+    "strategy": "代名詞 That 指前面提議；provided 表附帶條件。",
+    "questions": [
+      {
+        "id": "R09-1",
+        "kind": "閱讀",
+        "topic": "語意推理",
+        "stem": "What does Ada mean by “That works for me”?",
+        "zh": "Ada 這句話什麼意思？",
+        "options": [
+          "She approves every future meeting time.",
+          "She has repaired the equipment.",
+          "She will work at the supplier’s office.",
+          "The proposed time is acceptable with her stated condition."
+        ],
+        "answer": 3,
+        "reasons": [
+          "只對此提議，不是所有未來會議。",
+          "works 此處不是設備運作。",
+          "未提去供應商辦公室。",
+          "That 指改到三點半，但須四點十五分前結束。"
+        ],
+        "tip": "代名詞 That 指前面提議；provided 表附帶條件。"
+      },
+      {
+        "id": "R09-2",
+        "kind": "閱讀",
+        "topic": "跨句推論",
+        "stem": "When would a thirty-minute call starting at 3:30 end?",
+        "zh": "三點半開始、三十分鐘的會議何時結束？",
+        "options": [
+          "2:30 p.m.",
+          "4:00 p.m.",
+          "3:00 p.m.",
+          "4:15 p.m."
+        ],
+        "answer": 1,
+        "reasons": [
+          "用了舊的兩點起始時間。",
+          "3:30 + 30 分鐘，且在 Ada 限制前。",
+          "這是安全審查結束。",
+          "這是 Ada 最晚結束要求，不是預定時長。"
+        ],
+        "tip": "代名詞 That 指前面提議；provided 表附帶條件。"
+      },
+      {
+        "id": "R09-3",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "Why is a video link needed?",
+        "zh": "為何需要視訊連結？",
+        "options": [
+          "Ada cannot attend at 3:30.",
+          "The office has permanently closed.",
+          "Nila will join remotely.",
+          "The supplier requires a recorded presentation."
+        ],
+        "answer": 2,
+        "reasons": [
+          "Ada 已附條件同意。",
+          "未提辦公室關閉。",
+          "Nila 明確說不在辦公室、遠端參加。",
+          "沒有此要求。"
+        ],
+        "tip": "代名詞 That 指前面提議；provided 表附帶條件。"
+      },
+      {
+        "id": "R09-4",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "How does the new quotation differ?",
+        "zh": "新報價有何不同？",
+        "options": [
+          "It removes all freight charges.",
+          "It offers a lower total price.",
+          "Freight is listed separately and the total is higher.",
+          "It is identical to yesterday’s quotation."
+        ],
+        "answer": 2,
+        "reasons": [
+          "相反，新版列入。",
+          "文中是 higher。",
+          "Leo 最後訊息明確說明。",
+          "昨日版本不含運費。"
+        ],
+        "tip": "代名詞 That 指前面提議；provided 表附帶條件。"
+      }
+    ]
+  },
+  {
+    "id": "R10",
+    "title": "客服退款與替換條件",
+    "level": "中階",
+    "genre": "雙文件",
+    "text": "Document A — Return policy\nUnused standard items may be returned within thirty days of delivery. A return authorization number is required before shipment. Customers pay return freight unless the item is defective or we shipped the wrong model. Customized items cannot be returned for a refund, but confirmed manufacturing defects are covered by our repair-or-replacement warranty. Please contact support before sending any item back.\n\nDocument B — Customer email\nWe received ten customized brackets on September 21. Two have cracks, which we noticed before installation. The other eight appear fine. We would like replacements for the two damaged brackets. Attached are photographs and the order number. Please advise us on the next steps. We have not shipped anything back yet.",
+    "zh": "A：未使用標準品可於交貨三十日內退回，寄回前須退貨授權號。非不良或寄錯型號者由客戶負擔回程運費。客製品不可退款，但已確認製造缺陷受維修或更換保固。退回前請聯絡客服。\nB：九月二十一日收十個客製支架，安裝前發現兩個裂痕，其餘八個看似正常。想換兩個受損品，已附照片及單號，請告知下一步，尚未寄回。",
+    "strategy": "客製品「不可退款」不等於「沒有維修更換保固」。",
+    "questions": [
+      {
+        "id": "R10-1",
+        "kind": "閱讀",
+        "topic": "跨文推論",
+        "stem": "Which policy is most relevant to the customer’s request?",
+        "zh": "客戶請求最相關的政策是什麼？",
+        "options": [
+          "Automatic refunds for all ten brackets.",
+          "The policy for items shipped to the wrong address.",
+          "Unconditional refunds for customized items.",
+          "The repair-or-replacement warranty for confirmed manufacturing defects."
+        ],
+        "answer": 3,
+        "reasons": [
+          "沒這規定，且客戶只要求兩個替換。",
+          "未涉及寄錯地址。",
+          "明確不提供客製品退款。",
+          "客製品不能一般退款，但製造缺陷可能適用保固。"
+        ],
+        "tip": "客製品「不可退款」不等於「沒有維修更換保固」。"
+      },
+      {
+        "id": "R10-2",
+        "kind": "閱讀",
+        "topic": "細節",
+        "stem": "How many brackets does the customer want replaced?",
+        "zh": "客戶要換幾個？",
+        "options": [
+          "Eight.",
+          "Two.",
+          "Thirty.",
+          "Ten."
+        ],
+        "answer": 1,
+        "reasons": [
+          "八個看來正常。",
+          "明確 two damaged brackets。",
+          "三十是標準品退貨天數。",
+          "十個是收到總數。"
+        ],
+        "tip": "客製品「不可退款」不等於「沒有維修更換保固」。"
+      },
+      {
+        "id": "R10-3",
+        "kind": "閱讀",
+        "topic": "證據界線",
+        "stem": "What has NOT yet been established by the two documents?",
+        "zh": "兩份文件還沒確立什麼？",
+        "options": [
+          "That photographs were attached.",
+          "That nothing has been shipped back yet.",
+          "That the cracks are confirmed manufacturing defects.",
+          "That the items are customized."
+        ],
+        "answer": 2,
+        "reasons": [
+          "B 已說 attached photographs。",
+          "B 最後一句已說。",
+          "客戶觀察裂痕，不等於供應商已確認製造原因。",
+          "B 已說 customized。"
+        ],
+        "tip": "客製品「不可退款」不等於「沒有維修更換保固」。"
+      },
+      {
+        "id": "R10-4",
+        "kind": "閱讀",
+        "topic": "下一步",
+        "stem": "What should the customer do before shipping items back?",
+        "zh": "寄回前應做什麼？",
+        "options": [
+          "Install the cracked parts to prove the defect.",
+          "Send all ten units immediately without a number.",
+          "Demand an automatic cash refund.",
+          "Obtain return authorization through support."
+        ],
+        "answer": 3,
+        "reasons": [
+          "無此要求，不可自行補。",
+          "與事前授權相反。",
+          "客製品不適用此退款。",
+          "A 要求先聯絡並取得授權號，客戶已開始詢問。"
+        ],
+        "tip": "客製品「不可退款」不等於「沒有維修更換保固」。"
+      }
+    ]
+  },
+  {
+    "id": "C01",
+    "title": "新人訓練段落填空",
+    "level": "基礎",
+    "genre": "四格段落填空",
+    "text": "Welcome to the maintenance team. Your orientation will begin [1] 9 a.m. on Monday. Please bring photo identification. A temporary badge will be [2] at reception.\nThe first session covers safety procedures. [3], you will meet your supervisor for a tour of the workshop. You do not need to bring tools; all necessary equipment is provided. [4] If you have any questions about the schedule, contact Human Resources.",
+    "zh": "歡迎加入維護團隊。新人訓練週一九點開始。請帶照片證件，接待處會核發臨時證。第一節涵蓋安全程序，接著與主管參觀工作間，不須自備工具，所需設備均提供。插入句應承接提供的工具／設備，再接有問題可聯絡人資。",
+    "strategy": "先讀整段時間順序，句子插入看 these 指回誰。",
+    "questions": [
+      {
+        "id": "C01-1",
+        "kind": "段落填空",
+        "topic": "段落文法",
+        "stem": "Choose the best answer for [1].",
+        "zh": "第 1 空應填什麼？",
+        "options": [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        "answer": 0,
+        "reasons": [
+          "具體鐘點 9 a.m. 用 at。",
+          "不配 9 a.m.。",
+          "後面是鐘點，不是 Monday。",
+          "不是長度或目的。"
+        ],
+        "tip": "先讀整段時間順序，句子插入看 these 指回誰。"
+      },
+      {
+        "id": "C01-2",
+        "kind": "段落填空",
+        "topic": "段落文法",
+        "stem": "Choose the best answer for [2].",
+        "zh": "第 2 空應填什麼？",
+        "options": [
+          "issuing",
+          "issued",
+          "issue",
+          "issuance"
+        ],
+        "answer": 1,
+        "reasons": [
+          "證件不會主動發東西。",
+          "will be issued 被動，證件被發給。",
+          "被動要過去分詞。",
+          "名詞不能構成 will be 的此被動。"
+        ],
+        "tip": "先讀整段時間順序，句子插入看 these 指回誰。"
+      },
+      {
+        "id": "C01-3",
+        "kind": "段落填空",
+        "topic": "段落邏輯",
+        "stem": "Choose the best answer for [3].",
+        "zh": "第 3 空應填什麼？",
+        "options": [
+          "Afterward",
+          "Nevertheless",
+          "Instead",
+          "Otherwise"
+        ],
+        "answer": 0,
+        "reasons": [
+          "第一節之後再參觀，時間順序。",
+          "沒有前後讓步。",
+          "參觀是後續，不是取代第一節。",
+          "沒有相反條件的結果。"
+        ],
+        "tip": "先讀整段時間順序，句子插入看 these 指回誰。"
+      },
+      {
+        "id": "C01-4",
+        "kind": "段落填空",
+        "topic": "句子插入",
+        "stem": "Which sentence best fits [4]?",
+        "zh": "第 4 空插哪句最連貫？",
+        "options": [
+          "The hotel canceled all room reservations.",
+          "These items must remain in the workshop after use.",
+          "However, the applicant rejected the offer last year.",
+          "The invoice is overdue by two months."
+        ],
+        "answer": 1,
+        "reasons": [
+          "未引入飯店，突然離題。",
+          "These items 指剛提的工具與設備，接續使用規則。",
+          "人物與時間突變。",
+          "發票未出現，無指代。"
+        ],
+        "tip": "先讀整段時間順序，句子插入看 these 指回誰。"
+      }
+    ]
+  },
+  {
+    "id": "C02",
+    "title": "出貨延誤段落填空",
+    "level": "中階",
+    "genre": "四格段落填空",
+    "text": "Dear Ms. Lin,\nWe are writing about order A-62. During the final inspection yesterday, our technicians [1] a defect in one of the connectors. The affected units have been placed on hold. [2], we cannot dispatch the full order today.\nWe can send the unaffected units now and the remaining units after they pass inspection. There will be no [3] shipping charge for this split shipment. [4] Once we receive your reply, we will update the delivery schedule.\nSincerely,\nCustomer Support",
+    "zh": "關於 A-62 訂單：昨天最後檢驗發現連接器缺陷，受影響品暫停放行，因此今天無法整筆出貨。可先寄未受影響品，其餘待通過檢驗再寄，分批不加運費。插入句應要求客戶回覆方案，才能接收到回覆後更新時程。",
+    "strategy": "yesterday 管第一空；因此管第二空；your reply 需要前面的回覆請求。",
+    "questions": [
+      {
+        "id": "C02-1",
+        "kind": "段落填空",
+        "topic": "段落時態",
+        "stem": "Choose the best answer for [1].",
+        "zh": "第 1 空應填什麼？",
+        "options": [
+          "have find",
+          "will find",
+          "found",
+          "find"
+        ],
+        "answer": 2,
+        "reasons": [
+          "完成式也要 found，且此處有已結束時間。",
+          "未來不合。",
+          "yesterday 明確過去；find 的過去式 found。",
+          "現在式不合。"
+        ],
+        "tip": "yesterday 管第一空；因此管第二空；your reply 需要前面的回覆請求。"
+      },
+      {
+        "id": "C02-2",
+        "kind": "段落填空",
+        "topic": "段落邏輯",
+        "stem": "Choose the best answer for [2].",
+        "zh": "第 2 空應填什麼？",
+        "options": [
+          "Similarly",
+          "Nevertheless",
+          "Therefore",
+          "For example"
+        ],
+        "answer": 2,
+        "reasons": [
+          "不是列相似例子。",
+          "不是克服前述障礙反而全出。",
+          "受影響品暫停放行，導致不能全出貨。",
+          "不是舉例。"
+        ],
+        "tip": "yesterday 管第一空；因此管第二空；your reply 需要前面的回覆請求。"
+      },
+      {
+        "id": "C02-3",
+        "kind": "段落填空",
+        "topic": "段落詞性",
+        "stem": "Choose the best answer for [3].",
+        "zh": "第 3 空應填什麼？",
+        "options": [
+          "additionally",
+          "additional",
+          "addition",
+          "add"
+        ],
+        "answer": 1,
+        "reasons": [
+          "副詞不能直接修飾名詞 charge。",
+          "修飾 shipping charge 用形容詞。",
+          "不是此處額外的形容詞。",
+          "動詞不合。"
+        ],
+        "tip": "yesterday 管第一空；因此管第二空；your reply 需要前面的回覆請求。"
+      },
+      {
+        "id": "C02-4",
+        "kind": "段落填空",
+        "topic": "句子插入",
+        "stem": "Which sentence best fits [4]?",
+        "zh": "第 4 空插哪句最連貫？",
+        "options": [
+          "We never inspect connectors.",
+          "All customers must apply for a job online.",
+          "Please confirm whether this arrangement is acceptable.",
+          "Your order was delivered in full last week."
+        ],
+        "answer": 2,
+        "reasons": [
+          "與第一段昨天檢驗矛盾。",
+          "招聘與出貨離題。",
+          "提出分批後要求確認，承接下一句 your reply。",
+          "與今天不能全寄矛盾。"
+        ],
+        "tip": "yesterday 管第一空；因此管第二空；your reply 需要前面的回覆請求。"
+      }
+    ]
+  }
+]

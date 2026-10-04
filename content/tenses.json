@@ -1,0 +1,242 @@
+[
+  {
+    "name": "現在簡單式",
+    "usage": "習慣、事實；每天例行檢查",
+    "active": [
+      "The technician checks the sensor every day.",
+      "The technician does not check the sensor every day.",
+      "Does the technician check the sensor every day?"
+    ],
+    "passive": [
+      "The sensor is checked every day.",
+      "The sensor is not checked every day.",
+      "Is the sensor checked every day?"
+    ],
+    "rare": false,
+    "note": "",
+    "formulas": [
+      "V / V-s",
+      "am/is/are + p.p."
+    ]
+  },
+  {
+    "name": "過去簡單式",
+    "usage": "已結束的過去；昨天檢查",
+    "active": [
+      "The technician checked the sensor yesterday.",
+      "The technician did not check the sensor yesterday.",
+      "Did the technician check the sensor yesterday?"
+    ],
+    "passive": [
+      "The sensor was checked yesterday.",
+      "The sensor was not checked yesterday.",
+      "Was the sensor checked yesterday?"
+    ],
+    "rare": false,
+    "note": "",
+    "formulas": [
+      "V-ed / 不規則過去",
+      "was/were + p.p."
+    ]
+  },
+  {
+    "name": "未來簡單式",
+    "usage": "預測、承諾；明天會檢查",
+    "active": [
+      "The technician will check the sensor tomorrow.",
+      "The technician will not check the sensor tomorrow.",
+      "Will the technician check the sensor tomorrow?"
+    ],
+    "passive": [
+      "The sensor will be checked tomorrow.",
+      "The sensor will not be checked tomorrow.",
+      "Will the sensor be checked tomorrow?"
+    ],
+    "rare": false,
+    "note": "",
+    "formulas": [
+      "will + V",
+      "will be + p.p."
+    ]
+  },
+  {
+    "name": "現在進行式",
+    "usage": "現在進行中的動作；正在檢查",
+    "active": [
+      "The technician is checking the sensor now.",
+      "The technician is not checking the sensor now.",
+      "Is the technician checking the sensor now?"
+    ],
+    "passive": [
+      "The sensor is being checked now.",
+      "The sensor is not being checked now.",
+      "Is the sensor being checked now?"
+    ],
+    "rare": false,
+    "note": "",
+    "formulas": [
+      "am/is/are + V-ing",
+      "am/is/are being + p.p."
+    ]
+  },
+  {
+    "name": "過去進行式",
+    "usage": "過去某時正在做；昨天十點正在檢查",
+    "active": [
+      "The technician was checking the sensor at ten yesterday.",
+      "The technician was not checking the sensor at ten yesterday.",
+      "Was the technician checking the sensor at ten yesterday?"
+    ],
+    "passive": [
+      "The sensor was being checked at ten yesterday.",
+      "The sensor was not being checked at ten yesterday.",
+      "Was the sensor being checked at ten yesterday?"
+    ],
+    "rare": false,
+    "note": "",
+    "formulas": [
+      "was/were + V-ing",
+      "was/were being + p.p."
+    ]
+  },
+  {
+    "name": "未來進行式",
+    "usage": "未來某時正在做；明天十點會正在檢查",
+    "active": [
+      "The technician will be checking the sensor at ten tomorrow.",
+      "The technician will not be checking the sensor at ten tomorrow.",
+      "Will the technician be checking the sensor at ten tomorrow?"
+    ],
+    "passive": [
+      "The sensor will be being checked at ten tomorrow.",
+      "The sensor will not be being checked at ten tomorrow.",
+      "Will the sensor be being checked at ten tomorrow?"
+    ],
+    "rare": true,
+    "note": "此被動在形式上可組合，但冗長且少見。實際表達優先使用本列主動句。若不重要的是持續過程，可改用簡單或完成被動，但語意重點會改變。",
+    "formulas": [
+      "will be + V-ing",
+      "will be being + p.p."
+    ]
+  },
+  {
+    "name": "現在完成式",
+    "usage": "過去到現在的完成結果；已檢查過，結果與現在有關",
+    "active": [
+      "The technician has checked the sensor.",
+      "The technician has not checked the sensor yet.",
+      "Has the technician checked the sensor yet?"
+    ],
+    "passive": [
+      "The sensor has been checked.",
+      "The sensor has not been checked yet.",
+      "Has the sensor been checked yet?"
+    ],
+    "rare": false,
+    "note": "",
+    "formulas": [
+      "have/has + p.p.",
+      "have/has been + p.p."
+    ]
+  },
+  {
+    "name": "過去完成式",
+    "usage": "在另一過去事件以前已完成；主管抵達前已檢查",
+    "active": [
+      "The technician had checked the sensor before the supervisor arrived.",
+      "The technician had not checked the sensor before the supervisor arrived.",
+      "Had the technician checked the sensor before the supervisor arrived?"
+    ],
+    "passive": [
+      "The sensor had been checked before the supervisor arrived.",
+      "The sensor had not been checked before the supervisor arrived.",
+      "Had the sensor been checked before the supervisor arrived?"
+    ],
+    "rare": false,
+    "note": "",
+    "formulas": [
+      "had + p.p.",
+      "had been + p.p."
+    ]
+  },
+  {
+    "name": "未來完成式",
+    "usage": "到未來參考點已完成；到明天中午會已檢查",
+    "active": [
+      "The technician will have checked the sensor by noon tomorrow.",
+      "The technician will not have checked the sensor by noon tomorrow.",
+      "Will the technician have checked the sensor by noon tomorrow?"
+    ],
+    "passive": [
+      "The sensor will have been checked by noon tomorrow.",
+      "The sensor will not have been checked by noon tomorrow.",
+      "Will the sensor have been checked by noon tomorrow?"
+    ],
+    "rare": false,
+    "note": "",
+    "formulas": [
+      "will have + p.p.",
+      "will have been + p.p."
+    ]
+  },
+  {
+    "name": "現在完成進行式",
+    "usage": "從過去持續到現在，強調過程；一直檢查兩小時了",
+    "active": [
+      "The technician has been checking the sensor for two hours.",
+      "The technician has not been checking the sensor for two hours.",
+      "Has the technician been checking the sensor for two hours?"
+    ],
+    "passive": [
+      "The sensor has been being checked for two hours.",
+      "The sensor has not been being checked for two hours.",
+      "Has the sensor been being checked for two hours?"
+    ],
+    "rare": true,
+    "note": "此被動在形式上可組合，但冗長且少見。實際表達優先使用本列主動句。若不重要的是持續過程，可改用簡單或完成被動，但語意重點會改變。",
+    "formulas": [
+      "have/has been + V-ing",
+      "have/has been being + p.p."
+    ]
+  },
+  {
+    "name": "過去完成進行式",
+    "usage": "持續到過去參考點；主管來時已檢查兩小時",
+    "active": [
+      "The technician had been checking the sensor for two hours when the supervisor arrived.",
+      "The technician had not been checking the sensor for two hours when the supervisor arrived.",
+      "Had the technician been checking the sensor for two hours when the supervisor arrived?"
+    ],
+    "passive": [
+      "The sensor had been being checked for two hours when the supervisor arrived.",
+      "The sensor had not been being checked for two hours when the supervisor arrived.",
+      "Had the sensor been being checked for two hours when the supervisor arrived?"
+    ],
+    "rare": true,
+    "note": "此被動在形式上可組合，但冗長且少見。實際表達優先使用本列主動句。若不重要的是持續過程，可改用簡單或完成被動，但語意重點會改變。",
+    "formulas": [
+      "had been + V-ing",
+      "had been being + p.p."
+    ]
+  },
+  {
+    "name": "未來完成進行式",
+    "usage": "持續到未來參考點；到中午會已檢查兩小時",
+    "active": [
+      "The technician will have been checking the sensor for two hours by noon.",
+      "The technician will not have been checking the sensor for two hours by noon.",
+      "Will the technician have been checking the sensor for two hours by noon?"
+    ],
+    "passive": [
+      "The sensor will have been being checked for two hours by noon.",
+      "The sensor will not have been being checked for two hours by noon.",
+      "Will the sensor have been being checked for two hours by noon?"
+    ],
+    "rare": true,
+    "note": "此被動在形式上可組合，但冗長且少見。實際表達優先使用本列主動句。若不重要的是持續過程，可改用簡單或完成被動，但語意重點會改變。",
+    "formulas": [
+      "will have been + V-ing",
+      "will have been being + p.p."
+    ]
+  }
+]

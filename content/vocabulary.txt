@@ -1,0 +1,1173 @@
+# 01 工作與組織
+company|n|公司|join a company
+corporation|n|大型公司|a multinational corporation
+enterprise|n|企業|a private enterprise
+business|n|業務；企業|expand the business
+organization|n|組織|a nonprofit organization
+department|n|部門|the sales department
+division|n|事業部|the electronics division
+branch|n|分公司；分支|a local branch
+headquarters|n|總部|corporate headquarters
+subsidiary|n|子公司|a wholly owned subsidiary
+office|n|辦公室|the main office
+factory|n|工廠|a new factory
+plant|n|工廠；廠房|a manufacturing plant
+facility|n|設施；廠區|a production facility
+site|n|地點；廠址|a construction site
+employee|n|員工|a full-time employee
+employer|n|雇主|a potential employer
+staff|n|全體職員|office staff
+personnel|n|人員|technical personnel
+colleague|n|同事|a former colleague
+coworker|n|同事|help a coworker
+supervisor|n|主管|a shift supervisor
+manager|n|經理|a project manager
+director|n|總監；董事|the managing director
+executive|n|高階主管|a senior executive
+president|n|總裁；會長|the company president
+assistant|n|助理|an administrative assistant
+secretary|n|秘書|the department secretary
+receptionist|n|接待員|ask the receptionist
+operator|n|操作員|a machine operator
+technician|n|技術員|a maintenance technician
+engineer|n|工程師|a process engineer
+specialist|n|專員；專家|a safety specialist
+consultant|n|顧問|an external consultant
+contractor|n|承包商|an independent contractor
+intern|n|實習生|a summer intern
+trainee|n|受訓者|a management trainee
+team|n|團隊|lead a team
+crew|n|工作隊|a repair crew
+committee|n|委員會|the safety committee
+board|n|董事會；板子|the board of directors
+partner|n|合作夥伴|a business partner
+client|n|客戶|meet a client
+customer|n|顧客|customer service
+vendor|n|供應商|an approved vendor
+supplier|n|供應商|a reliable supplier
+stakeholder|n|利害關係人|key stakeholders
+shareholder|n|股東|the largest shareholder
+workforce|n|勞動人力|a skilled workforce
+leadership|n|領導能力；領導階層|strong leadership
+# 02 招募與職涯
+applicant|n|申請人|a qualified applicant
+candidate|n|候選人|interview a candidate
+application|n|申請；應用|submit an application
+resume|n|履歷|update your resume
+qualification|n|資格|professional qualifications
+credential|n|資歷證明|check academic credentials
+experience|n|經驗|relevant experience
+education|n|教育|higher education
+degree|n|學位；程度|a bachelor's degree
+diploma|n|文憑|a high school diploma
+certificate|n|證書|a training certificate
+license|n|執照|a driver's license
+skill|n|技能|communication skills
+ability|n|能力|technical ability
+competence|n|能力；勝任|professional competence
+strength|n|優勢；強度|personal strengths
+weakness|n|弱點|identify a weakness
+interview|n|面試|attend an interview
+vacancy|n|職缺|fill a vacancy
+position|n|職位；位置|apply for a position
+occupation|n|職業|state your occupation
+career|n|職涯|a career in engineering
+recruitment|n|招募|the recruitment process
+employment|n|雇用；就業|employment opportunities
+appointment|n|任命；預約|confirm an appointment
+promotion|n|升遷；促銷|earn a promotion
+transfer|n|調職；轉移|request a transfer
+retirement|n|退休|early retirement
+resignation|n|辭職|submit a resignation
+salary|n|薪資|an annual salary
+wage|n|工資|an hourly wage
+bonus|n|獎金|a performance bonus
+benefit|n|福利；益處|employee benefits
+pension|n|退休金|a pension plan
+allowance|n|津貼|a travel allowance
+probation|n|試用期|a period of probation
+orientation|n|新人訓練；導向|an orientation session
+training|n|訓練|on-the-job training
+mentor|n|導師|a senior mentor
+reference|n|推薦人；參考|provide two references
+recruit|v|招募|recruit engineers
+hire|v|雇用|hire new staff
+employ|v|雇用；運用|employ skilled workers
+apply|v|申請；應用|apply for a job
+qualify|v|符合資格|qualify for a position
+appoint|v|任命|appoint a manager
+promote|v|升遷；推廣|promote an employee
+resign|v|辭職|resign from a position
+retire|v|退休|retire next year
+dismiss|v|解雇；駁回|dismiss a claim
+# 03 辦公與文件
+agenda|n|議程|set the agenda
+minutes|n|會議紀錄|review the minutes
+memo|n|備忘錄|send a memo
+notice|n|通知|post a notice
+announcement|n|公告|make an announcement
+report|n|報告|a monthly report
+proposal|n|提案|approve a proposal
+presentation|n|簡報|give a presentation
+document|n|文件|sign a document
+file|n|檔案|attach a file
+folder|n|資料夾|a shared folder
+record|n|紀錄|keep accurate records
+form|n|表格|complete a form
+copy|n|副本|make a copy
+original|n|原件|keep the original
+attachment|n|附件|open the attachment
+enclosure|n|隨函附件|check the enclosure
+signature|n|簽名|obtain a signature
+stamp|n|印章；郵票|a postage stamp
+letter|n|信件|a formal letter
+mail|n|郵件|send by mail
+email|n|電子郵件|reply to an email
+message|n|訊息|leave a message
+correspondence|n|往來信件|business correspondence
+handbook|n|手冊|an employee handbook
+manual|n|操作手冊|read the manual
+guideline|n|指導原則|follow the guidelines
+instruction|n|指示|written instructions
+procedure|n|程序|a standard procedure
+policy|n|政策|company policy
+rule|n|規則|follow the rules
+regulation|n|法規；規定|safety regulations
+clause|n|條款；子句|a contract clause
+section|n|部分|the final section
+paragraph|n|段落|the first paragraph
+statement|n|陳述；報表|a written statement
+summary|n|摘要|an executive summary
+outline|n|大綱|a project outline
+draft|n|草稿|review a draft
+revision|n|修訂|make a revision
+version|n|版本|the latest version
+format|n|格式|a standard format
+template|n|範本|use a template
+spreadsheet|n|試算表|update a spreadsheet
+database|n|資料庫|search the database
+archive|n|檔案庫|a digital archive
+survey|n|調查|conduct a survey
+questionnaire|n|問卷|complete a questionnaire
+feedback|n|回饋|provide feedback
+permission|n|許可|ask for permission
+# 04 溝通動詞
+inform|v|通知|inform staff of changes
+notify|v|通知|notify customers of delays
+announce|v|宣布|announce the results
+explain|v|解釋|explain the procedure
+clarify|v|釐清|clarify the requirements
+describe|v|描述|describe the problem
+discuss|v|討論|discuss the proposal
+mention|v|提及|mention a concern
+state|v|陳述|state the reason
+express|v|表達|express an opinion
+communicate|v|溝通|communicate with clients
+contact|v|聯絡|contact the supplier
+reply|v|回覆|reply to a message
+respond|v|回應|respond to a request
+answer|v|回答|answer a question
+request|v|請求|request more information
+ask|v|詢問；要求|ask for help
+inquire|v|詢問|inquire about availability
+confirm|v|確認|confirm the reservation
+acknowledge|v|確認收到；承認|acknowledge receipt
+advise|v|建議；告知|advise staff to wait
+recommend|v|推薦；建議|recommend replacing the part
+suggest|v|建議|suggest a solution
+propose|v|提議|propose a change
+negotiate|v|協商|negotiate a contract
+persuade|v|說服|persuade a client to agree
+convince|v|使信服|convince the team
+remind|v|提醒|remind staff to register
+warn|v|警告|warn workers about risks
+apologize|v|道歉|apologize for the delay
+complain|v|抱怨|complain about the service
+argue|v|爭論；主張|argue for a change
+claim|v|聲稱；索取|claim a refund
+admit|v|承認|admit making a mistake
+deny|v|否認|deny responsibility
+agree|v|同意|agree to the terms
+disagree|v|不同意|disagree with a decision
+approve|v|核准|approve the budget
+reject|v|拒絕|reject the proposal
+accept|v|接受|accept an offer
+decline|v|婉拒；下降|decline an invitation
+invite|v|邀請|invite clients to attend
+welcome|v|歡迎|welcome new employees
+introduce|v|介紹；引入|introduce a colleague
+address|v|處理；對…致詞|address a concern
+emphasize|v|強調|emphasize safety
+summarize|v|摘要|summarize the findings
+translate|v|翻譯|translate the manual
+interpret|v|口譯；解讀|interpret the results
+refer|v|提及；參照|refer to the manual
+# 05 時間與排程
+deadline|n|截止期限|meet a deadline
+schedule|n|時程|a production schedule
+calendar|n|行事曆|check the calendar
+date|n|日期|set a date
+time|n|時間|save time
+period|n|期間|a trial period
+duration|n|持續時間|the duration of the test
+interval|n|間隔|at regular intervals
+shift|n|輪班|the night shift
+break|n|休息|take a break
+holiday|n|假日|a public holiday
+vacation|n|休假|take a vacation
+leave|n|准假；休假|sick leave
+overtime|n|加班|work overtime
+attendance|n|出席|check attendance
+absence|n|缺席|an unexplained absence
+delay|n|延遲|a shipping delay
+postponement|n|延期|announce a postponement
+cancellation|n|取消|a cancellation fee
+extension|n|延長|request an extension
+annual|adj|每年的|an annual review
+monthly|adj|每月的|a monthly meeting
+weekly|adj|每週的|a weekly report
+daily|adj|每日的|daily tasks
+hourly|adj|每小時的|an hourly rate
+temporary|adj|暫時的|a temporary solution
+permanent|adj|永久的|a permanent position
+previous|adj|先前的|the previous month
+current|adj|目前的|the current schedule
+upcoming|adj|即將到來的|an upcoming event
+recent|adj|最近的|a recent change
+immediate|adj|立即的|immediate action
+urgent|adj|緊急的|an urgent request
+prompt|adj|迅速的|a prompt response
+punctual|adj|準時的|a punctual employee
+regular|adj|定期的|regular inspections
+frequent|adj|頻繁的|frequent updates
+occasional|adj|偶爾的|occasional delays
+simultaneous|adj|同時的|simultaneous operations
+consecutive|adj|連續的|three consecutive days
+arrange|v|安排|arrange a meeting
+organize|v|籌辦；整理|organize an event
+postpone|v|延後|postpone the inspection
+reschedule|v|重新排程|reschedule an appointment
+cancel|v|取消|cancel an order
+extend|v|延長；擴展|extend the deadline
+last|v|持續|last two hours
+expire|v|到期|expire in June
+attend|v|參加|attend a seminar
+participate|v|參與|participate in training
+# 06 會議與專案
+meeting|n|會議|hold a meeting
+conference|n|會議；研討會|an international conference
+seminar|n|研討會|a training seminar
+workshop|n|工作坊|a practical workshop
+session|n|一場；時段|a morning session
+event|n|活動；事件|a company event
+venue|n|場地|book a venue
+participant|n|參與者|registered participants
+speaker|n|講者|a guest speaker
+audience|n|聽眾|address the audience
+project|n|專案|complete a project
+task|n|任務|assign a task
+assignment|n|指派工作|finish an assignment
+objective|n|目標|achieve an objective
+goal|n|目標|set a goal
+target|n|目標值|meet the target
+milestone|n|里程碑|reach a milestone
+strategy|n|策略|a marketing strategy
+plan|n|計畫|a backup plan
+scope|n|範圍|define the scope
+priority|n|優先事項|a top priority
+resource|n|資源|allocate resources
+budget|n|預算|stay within budget
+progress|n|進度|monitor progress
+status|n|狀態|a status update
+outcome|n|結果|a positive outcome
+result|n|結果|test results
+achievement|n|成就|a major achievement
+challenge|n|挑戰|face a challenge
+obstacle|n|障礙|overcome an obstacle
+issue|n|議題；問題|resolve an issue
+risk|n|風險|assess the risk
+solution|n|解決方案|find a solution
+alternative|n|替代方案|consider an alternative
+option|n|選項|compare the options
+decision|n|決定|make a decision
+consensus|n|共識|reach a consensus
+agreement|n|協議|sign an agreement
+commitment|n|承諾|honor a commitment
+responsibility|n|責任|take responsibility
+coordinate|v|協調|coordinate activities
+collaborate|v|合作|collaborate with a team
+delegate|v|委派|delegate tasks
+assign|v|指派|assign responsibilities
+allocate|v|分配|allocate funds
+prioritize|v|排定優先順序|prioritize urgent tasks
+implement|v|實施|implement a plan
+execute|v|執行|execute a strategy
+achieve|v|達成|achieve a goal
+accomplish|v|完成|accomplish a task
+# 07 生產與製造
+production|n|生產|increase production
+manufacturing|n|製造|automated manufacturing
+process|n|製程；過程|improve the process
+assembly|n|組裝|an assembly line
+operation|n|運作；操作|normal operation
+capacity|n|產能；容量|production capacity
+output|n|產出|daily output
+input|n|投入；輸入|data input
+throughput|n|單位時間處理量|increase throughput
+yield|n|良率；產量|improve yield
+batch|n|批次|a production batch
+lot|n|批號所屬批次|a wafer lot
+unit|n|單位；一件|a defective unit
+product|n|產品|launch a product
+component|n|零組件|an electronic component
+part|n|零件；部分|a replacement part
+material|n|材料|raw materials
+substance|n|物質|a hazardous substance
+chemical|n|化學品|store chemicals safely
+mixture|n|混合物|a chemical mixture
+metal|n|金屬|a metal layer
+plastic|n|塑膠|recycled plastic
+glass|n|玻璃|a glass panel
+rubber|n|橡膠|a rubber seal
+ceramic|n|陶瓷|a ceramic coating
+alloy|n|合金|an aluminum alloy
+sample|n|樣本|test a sample
+prototype|n|原型|build a prototype
+specification|n|規格|meet the specifications
+design|n|設計|a revised design
+blueprint|n|藍圖|review the blueprint
+dimension|n|尺寸|check the dimensions
+thickness|n|厚度|measure the thickness
+width|n|寬度|the width of the panel
+length|n|長度|the cable length
+diameter|n|直徑|the wafer diameter
+weight|n|重量|reduce the weight
+volume|n|體積；量|production volume
+density|n|密度|material density
+tolerance|n|公差；容許度|within tolerance
+manufacture|v|製造|manufacture chips
+produce|v|生產|produce components
+assemble|v|組裝|assemble the device
+fabricate|v|製造；捏造|fabricate semiconductor devices
+process|v|處理；加工|process an order
+operate|v|操作；運轉|operate a machine
+adjust|v|調整|adjust the settings
+optimize|v|最佳化|optimize the process
+standardize|v|標準化|standardize procedures
+automate|v|自動化|automate production
+# 08 半導體與電子
+semiconductor|n|半導體|a semiconductor device
+wafer|n|晶圓|a silicon wafer
+chip|n|晶片|a memory chip
+circuit|n|電路|an integrated circuit
+transistor|n|電晶體|a tiny transistor
+diode|n|二極體|a light-emitting diode
+capacitor|n|電容器|replace a capacitor
+resistor|n|電阻器|check the resistor
+sensor|n|感測器|a temperature sensor
+processor|n|處理器|a high-speed processor
+memory|n|記憶體；記憶|computer memory
+module|n|模組|a communication module
+substrate|n|基板|a silicon substrate
+silicon|n|矽|pure silicon
+crystal|n|晶體|a single crystal
+lithography|n|微影|a lithography process
+etching|n|蝕刻|dry etching
+deposition|n|沉積|thin-film deposition
+diffusion|n|擴散|thermal diffusion
+implantation|n|植入|ion implantation
+oxidation|n|氧化|thermal oxidation
+polishing|n|拋光|chemical mechanical polishing
+packaging|n|封裝；包裝|advanced packaging
+foundry|n|晶圓代工廠；鑄造廠|a semiconductor foundry
+fab|n|晶圓廠|a new fab
+cleanroom|n|無塵室|enter the cleanroom
+mask|n|光罩；面罩|a lithography mask
+photoresist|n|光阻|apply photoresist
+layer|n|層|a thin layer
+film|n|薄膜|a protective film
+particle|n|微粒|a dust particle
+contamination|n|污染|prevent contamination
+impurity|n|雜質|remove impurities
+vacuum|n|真空|a vacuum chamber
+chamber|n|腔體|clean the chamber
+plasma|n|電漿|plasma treatment
+voltage|n|電壓|measure the voltage
+current|n|電流|electric current
+resistance|n|電阻；抵抗|electrical resistance
+conductivity|n|導電性|high conductivity
+frequency|n|頻率|operating frequency
+signal|n|訊號|a digital signal
+power|n|電力；功率|power consumption
+energy|n|能源；能量|save energy
+battery|n|電池|a rechargeable battery
+cable|n|電纜|connect a cable
+connector|n|連接器|a damaged connector
+terminal|n|端子；航廈|an electrical terminal
+socket|n|插座|a power socket
+probe|n|探針|a test probe
+# 09 設備與維護
+equipment|n|設備|install new equipment
+machine|n|機器|a cutting machine
+tool|n|工具；機台|a diagnostic tool
+device|n|裝置|a portable device
+instrument|n|儀器|a measuring instrument
+apparatus|n|器材；裝置|laboratory apparatus
+motor|n|馬達|an electric motor
+pump|n|幫浦|a vacuum pump
+valve|n|閥門|close the valve
+pipe|n|管子|a leaking pipe
+tube|n|管|a glass tube
+hose|n|軟管|a flexible hose
+filter|n|濾網|replace the filter
+fan|n|風扇|a cooling fan
+heater|n|加熱器|turn on the heater
+furnace|n|爐|a processing furnace
+oven|n|烘箱|a drying oven
+conveyor|n|輸送帶|a conveyor belt
+robot|n|機器人|an industrial robot
+arm|n|手臂；機械臂|a robotic arm
+fixture|n|夾具；固定裝置|a test fixture
+jig|n|治具|an assembly jig
+screw|n|螺絲|tighten a screw
+bolt|n|螺栓|remove the bolt
+nut|n|螺帽|tighten the nut
+bearing|n|軸承|a worn bearing
+gear|n|齒輪；裝備|a damaged gear
+belt|n|皮帶|replace the drive belt
+seal|n|密封件|a broken seal
+panel|n|面板|a control panel
+switch|n|開關|a safety switch
+button|n|按鈕|press the button
+display|n|顯示器；展示|a digital display
+gauge|n|量表|a pressure gauge
+alarm|n|警報|a fire alarm
+maintenance|n|維護|preventive maintenance
+repair|n|修理|equipment repair
+breakdown|n|故障|a mechanical breakdown
+malfunction|n|故障；失常|a sensor malfunction
+downtime|n|停機時間|reduce downtime
+install|v|安裝|install a sensor
+maintain|v|維護；保持|maintain equipment
+replace|v|更換|replace a component
+calibrate|v|校正|calibrate an instrument
+lubricate|v|潤滑|lubricate the bearings
+tighten|v|鎖緊|tighten the bolts
+loosen|v|鬆開|loosen the screw
+connect|v|連接|connect the cables
+disconnect|v|斷開|disconnect the power
+restart|v|重新啟動|restart the machine
+# 10 品質與分析
+quality|n|品質|quality control
+inspection|n|檢驗|a visual inspection
+test|n|測試|a reliability test
+measurement|n|測量；測量值|accurate measurements
+analysis|n|分析|root cause analysis
+evaluation|n|評估|a performance evaluation
+assessment|n|評估|a risk assessment
+audit|n|稽核|an internal audit
+standard|n|標準|meet the standard
+criterion|n|準則|a selection criterion
+requirement|n|要求|meet a requirement
+compliance|n|遵循|regulatory compliance
+accuracy|n|準確度|measurement accuracy
+precision|n|精密度|high precision
+consistency|n|一致性|ensure consistency
+reliability|n|可靠性|improve reliability
+durability|n|耐用性|test durability
+stability|n|穩定性|process stability
+performance|n|效能；表現|system performance
+efficiency|n|效率|improve efficiency
+effectiveness|n|有效性|evaluate effectiveness
+productivity|n|生產力|increase productivity
+defect|n|缺陷|a surface defect
+fault|n|故障；過失|an electrical fault
+failure|n|失效；失敗|equipment failure
+error|n|錯誤|a calculation error
+mistake|n|錯誤|correct a mistake
+deviation|n|偏差|a deviation from the standard
+variation|n|變異|temperature variation
+anomaly|n|異常|detect an anomaly
+cause|n|原因|the root cause
+effect|n|影響；效果|an adverse effect
+impact|n|影響|environmental impact
+factor|n|因素|a key factor
+evidence|n|證據|collect evidence
+data|n|資料|analyze the data
+statistic|n|統計數據|a key statistic
+trend|n|趨勢|an upward trend
+pattern|n|模式|a recurring pattern
+benchmark|n|基準|a performance benchmark
+inspect|v|檢查|inspect the equipment
+examine|v|檢視|examine the sample
+analyze|v|分析|analyze the results
+evaluate|v|評估|evaluate a proposal
+assess|v|評估|assess the damage
+verify|v|查證|verify the information
+validate|v|驗證有效性|validate a method
+detect|v|偵測|detect a defect
+identify|v|辨認|identify the cause
+investigate|v|調查|investigate an incident
+# 11 安全與環境
+safety|n|安全|safety training
+security|n|保全；資訊安全|site security
+hazard|n|危害|a chemical hazard
+danger|n|危險|in immediate danger
+accident|n|意外|prevent an accident
+incident|n|事件|report an incident
+injury|n|受傷|a minor injury
+emergency|n|緊急狀況|an emergency exit
+evacuation|n|疏散|an evacuation drill
+precaution|n|預防措施|take precautions
+protection|n|保護|eye protection
+glove|n|手套|wear protective gloves
+helmet|n|安全帽|a safety helmet
+goggles|n|護目鏡|wear safety goggles
+uniform|n|制服|a company uniform
+clothing|n|衣物|protective clothing
+footwear|n|鞋類|safety footwear
+extinguisher|n|滅火器|a fire extinguisher
+exit|n|出口|keep the exit clear
+entrance|n|入口|the main entrance
+barrier|n|障礙物；屏障|a safety barrier
+warning|n|警告|a warning sign
+label|n|標籤|read the label
+waste|n|廢棄物|industrial waste
+emission|n|排放物|reduce carbon emissions
+pollution|n|污染|air pollution
+recycling|n|回收|a recycling program
+disposal|n|處置|waste disposal
+sustainability|n|永續性|environmental sustainability
+conservation|n|節約；保育|water conservation
+ventilation|n|通風|adequate ventilation
+humidity|n|濕度|control humidity
+temperature|n|溫度|room temperature
+pressure|n|壓力|high pressure
+exposure|n|暴露|chemical exposure
+leak|n|洩漏|a gas leak
+spill|n|溢漏|a chemical spill
+fire|n|火災|a fire drill
+smoke|n|煙|a smoke detector
+noise|n|噪音|reduce noise
+prevent|v|防止|prevent injuries
+protect|v|保護|protect workers
+avoid|v|避免|avoid contact
+reduce|v|減少|reduce waste
+recycle|v|回收|recycle paper
+dispose|v|處置|dispose of waste
+evacuate|v|疏散|evacuate the building
+prohibit|v|禁止|prohibit smoking
+permit|v|允許|permit access
+comply|v|遵守|comply with regulations
+# 12 採購與物流
+purchase|n|購買|a purchase order
+order|n|訂單|place an order
+quotation|n|報價|request a quotation
+estimate|n|估價；估計|a cost estimate
+bid|n|投標|submit a bid
+tender|n|招標；投標|an invitation to tender
+contract|n|合約|sign a contract
+term|n|條件；期間|payment terms
+condition|n|條件；狀況|delivery conditions
+inventory|n|存貨|check inventory
+stock|n|庫存；股票|in stock
+warehouse|n|倉庫|a central warehouse
+storage|n|儲存|cold storage
+shipment|n|貨物；出貨|track a shipment
+delivery|n|交貨|on-time delivery
+freight|n|貨運|air freight
+cargo|n|貨物|valuable cargo
+container|n|貨櫃；容器|a shipping container
+package|n|包裹|a damaged package
+parcel|n|包裹|send a parcel
+carton|n|紙箱|a sealed carton
+pallet|n|棧板|a wooden pallet
+crate|n|板條箱|a shipping crate
+load|n|負載；貨載|a heavy load
+route|n|路線|a delivery route
+destination|n|目的地|the final destination
+origin|n|起源；產地|country of origin
+port|n|港口；連接埠|the port of entry
+customs|n|海關|customs clearance
+tariff|n|關稅|an import tariff
+duty|n|關稅；職責|pay import duty
+import|n|進口貨|electronic imports
+export|n|出口貨|annual exports
+distribution|n|配送；分布|a distribution center
+transportation|n|運輸|public transportation
+logistics|n|物流|logistics management
+carrier|n|運輸業者|a freight carrier
+courier|n|快遞|send by courier
+receipt|n|收據；收受|keep the receipt
+tracking|n|追蹤|a tracking number
+ship|v|運送|ship the goods
+deliver|v|交付|deliver the package
+dispatch|v|派遣；發送|dispatch a technician
+receive|v|收到|receive a shipment
+pack|v|包裝|pack the components
+unpack|v|拆包|unpack the equipment
+store|v|儲存|store materials safely
+supply|v|供應|supply spare parts
+distribute|v|分發；配送|distribute the materials
+transport|v|運送|transport fragile goods
+# 13 財務與交易
+account|n|帳戶|open an account
+accounting|n|會計|the accounting department
+finance|n|財務|corporate finance
+payment|n|付款|make a payment
+invoice|n|發票；請款單|issue an invoice
+bill|n|帳單|pay the bill
+fee|n|費用|a service fee
+charge|n|收費|an additional charge
+cost|n|成本|reduce costs
+expense|n|支出|travel expenses
+price|n|價格|a competitive price
+discount|n|折扣|offer a discount
+refund|n|退款|request a refund
+reimbursement|n|費用償還|expense reimbursement
+deposit|n|訂金；存款|pay a deposit
+balance|n|餘額|the outstanding balance
+revenue|n|營收|annual revenue
+income|n|收入|taxable income
+profit|n|利潤|net profit
+loss|n|虧損|an operating loss
+margin|n|利潤率；邊緣|a profit margin
+tax|n|稅|income tax
+interest|n|利息；興趣|an interest rate
+loan|n|貸款|a bank loan
+credit|n|信用；貸款額度|a credit limit
+debt|n|債務|repay a debt
+fund|n|基金；資金|a reserve fund
+capital|n|資本|raise capital
+investment|n|投資|a long-term investment
+asset|n|資產|fixed assets
+liability|n|負債；法律責任|current liabilities
+currency|n|貨幣|foreign currency
+cash|n|現金|pay in cash
+check|n|支票；檢查|pay by check
+transaction|n|交易|an online transaction
+insurance|n|保險|health insurance
+coverage|n|承保範圍；涵蓋|insurance coverage
+premium|n|保費|an annual premium
+profitability|n|獲利能力|improve profitability
+expenditure|n|支出|capital expenditure
+pay|v|支付|pay the supplier
+spend|v|花費|spend money on training
+save|v|節省；儲存|save money
+invest|v|投資|invest in equipment
+borrow|v|借入|borrow money
+lend|v|借出|lend equipment
+owe|v|欠|owe a payment
+afford|v|負擔得起|afford an upgrade
+calculate|v|計算|calculate the total
+reimburse|v|償還費用|reimburse travel expenses
+# 14 市場與客服
+market|n|市場|enter a new market
+marketing|n|行銷|a marketing campaign
+sale|n|銷售；特賣|a sale of equipment
+advertisement|n|廣告|an online advertisement
+advertising|n|廣告活動|advertising costs
+campaign|n|活動|a promotional campaign
+brand|n|品牌|brand awareness
+reputation|n|聲譽|a good reputation
+image|n|形象；影像|a corporate image
+demand|n|需求|growing demand
+competition|n|競爭|strong competition
+competitor|n|競爭者|a major competitor
+segment|n|區隔；部分|a market segment
+share|n|份額；股份|market share
+growth|n|成長|steady growth
+expansion|n|擴張|business expansion
+launch|n|上市；推出|a product launch
+feature|n|特色；功能|a useful feature
+advantage|n|優勢|a competitive advantage
+value|n|價值|good value
+service|n|服務|after-sales service
+support|n|支援|technical support
+inquiry|n|詢問|a customer inquiry
+complaint|n|抱怨；客訴|handle a complaint
+satisfaction|n|滿意度|customer satisfaction
+loyalty|n|忠誠|customer loyalty
+warranty|n|保固|a one-year warranty
+guarantee|n|保證|a money-back guarantee
+replacement|n|替代品；更換|a free replacement
+return|n|退貨；回報|a product return
+catalog|n|型錄|a product catalog
+brochure|n|小冊子|a company brochure
+leaflet|n|傳單|a promotional leaflet
+flyer|n|傳單|a sales flyer
+exhibition|n|展覽|an electronics exhibition
+booth|n|攤位|an exhibition booth
+demonstration|n|示範|a product demonstration
+subscription|n|訂閱|a monthly subscription
+membership|n|會員資格|renew a membership
+loyal|adj|忠誠的|loyal customers
+advertise|v|刊登廣告|advertise a product
+attract|v|吸引|attract customers
+retain|v|留住；保留|retain employees
+satisfy|v|使滿意；符合|satisfy requirements
+assist|v|協助|assist a customer
+serve|v|服務|serve clients
+handle|v|處理|handle complaints
+resolve|v|解決|resolve a dispute
+offer|v|提供|offer a discount
+provide|v|提供|provide assistance
+# 15 差旅與接待
+travel|n|旅行|business travel
+trip|n|旅程|a business trip
+journey|n|旅途|a long journey
+itinerary|n|行程表|review the itinerary
+reservation|n|預訂|make a reservation
+booking|n|預訂|confirm a booking
+ticket|n|票|a round-trip ticket
+fare|n|交通票價|a reduced fare
+flight|n|班機|a direct flight
+airline|n|航空公司|an international airline
+airport|n|機場|arrive at the airport
+departure|n|出發|the departure time
+arrival|n|抵達|the arrival gate
+passenger|n|乘客|a transit passenger
+boarding|n|登機|a boarding pass
+passport|n|護照|a valid passport
+visa|n|簽證|apply for a visa
+luggage|n|行李|carry-on luggage
+baggage|n|行李|checked baggage
+suitcase|n|行李箱|pack a suitcase
+accommodation|n|住宿|book accommodation
+hotel|n|旅館|a nearby hotel
+lobby|n|大廳|meet in the lobby
+reception|n|接待處；接待會|ask at reception
+room|n|房間；空間|a conference room
+suite|n|套房|a hotel suite
+elevator|n|電梯|take the elevator
+floor|n|樓層；地板|the third floor
+restaurant|n|餐廳|a local restaurant
+cafeteria|n|員工餐廳；自助餐廳|the staff cafeteria
+menu|n|菜單|read the menu
+meal|n|餐點|a complimentary meal
+beverage|n|飲料|hot beverages
+refreshment|n|茶點|light refreshments
+catering|n|餐飲外燴|a catering service
+shuttle|n|接駁車|an airport shuttle
+taxi|n|計程車|take a taxi
+rental|n|租用|a car rental
+vehicle|n|車輛|a company vehicle
+parking|n|停車|free parking
+book|v|預訂|book a room
+reserve|v|預留；預約|reserve a seat
+board|v|登上|board the plane
+depart|v|出發|depart from Taipei
+arrive|v|抵達|arrive at the station
+visit|v|拜訪|visit a factory
+accompany|v|陪同|accompany a visitor
+escort|v|陪同引導|escort guests to reception
+accommodate|v|容納；提供住宿|accommodate fifty guests
+commute|v|通勤|commute by train
+# 16 資訊與系統
+computer|n|電腦|a desktop computer
+laptop|n|筆記型電腦|a company laptop
+server|n|伺服器|a secure server
+network|n|網路|a wireless network
+internet|n|網際網路|internet access
+website|n|網站|the company website
+software|n|軟體|install software
+hardware|n|硬體|upgrade hardware
+program|n|程式；方案|a training program
+system|n|系統|an operating system
+platform|n|平台|an online platform
+interface|n|介面|a user interface
+screen|n|螢幕|a touch screen
+keyboard|n|鍵盤|a wireless keyboard
+mouse|n|滑鼠|a computer mouse
+printer|n|印表機|a network printer
+scanner|n|掃描器|a barcode scanner
+password|n|密碼|reset a password
+username|n|使用者名稱|enter your username
+access|n|存取；使用權|restricted access
+backup|n|備份|a daily backup
+update|n|更新|a software update
+upgrade|n|升級|a system upgrade
+setting|n|設定|change the settings
+configuration|n|組態|the default configuration
+connection|n|連線|a stable connection
+bandwidth|n|頻寬|limited bandwidth
+browser|n|瀏覽器|a web browser
+search|n|搜尋|an online search
+link|n|連結|click the link
+icon|n|圖示|a warning icon
+notification|n|通知|an email notification
+privacy|n|隱私|a privacy policy
+encryption|n|加密|data encryption
+firewall|n|防火牆|configure a firewall
+virus|n|病毒|a computer virus
+malware|n|惡意軟體|detect malware
+bug|n|程式錯誤|fix a bug
+patch|n|修補程式|a security patch
+permission|n|權限；許可|file permissions
+download|v|下載|download a file
+upload|v|上傳|upload a report
+delete|v|刪除|delete a file
+restore|v|復原|restore the backup
+enable|v|啟用；使能夠|enable notifications
+disable|v|停用|disable the account
+configure|v|設定組態|configure the system
+authenticate|v|驗證身分|authenticate a user
+troubleshoot|v|排除故障|troubleshoot the network
+synchronize|v|同步|synchronize the files
+# 17 常用動作與改變
+make|v|製作；做|make a decision
+do|v|做|do the work
+have|v|有；進行|have a meeting
+be|v|是；處於|be available
+get|v|取得；變得|get approval
+take|v|拿；花費|take action
+give|v|給予|give instructions
+put|v|放|put safety first
+set|v|設定|set a target
+keep|v|保持；保存|keep a record
+hold|v|舉行；持有|hold a meeting
+bring|v|帶來|bring your identification
+send|v|寄送|send a reminder
+find|v|找到|find a solution
+lose|v|失去|lose a document
+meet|v|符合；見面|meet a deadline
+run|v|運作；經營|run a test
+start|v|開始|start production
+begin|v|開始|begin the inspection
+finish|v|完成|finish the report
+complete|v|完成|complete the form
+stop|v|停止|stop the machine
+continue|v|繼續|continue working
+remain|v|保持；留下|remain stable
+become|v|變成|become available
+change|v|改變|change the schedule
+increase|v|增加|increase output
+decrease|v|減少|decrease costs
+improve|v|改善|improve quality
+develop|v|開發；發展|develop a product
+create|v|創造|create an account
+build|v|建造|build a factory
+construct|v|建造|construct a facility
+expand|v|擴張|expand capacity
+shrink|v|縮小|shrink in size
+rise|v|上升|prices rise
+raise|v|提高；提出|raise prices
+fall|v|下降；落下|costs fall
+drop|v|下降；掉落|drop sharply
+grow|v|成長|grow steadily
+move|v|移動；搬遷|move the equipment
+remove|v|移除|remove the cover
+add|v|增加|add a comment
+include|v|包含|include the details
+exclude|v|排除|exclude taxes
+separate|v|分開|separate the materials
+combine|v|結合|combine two methods
+compare|v|比較|compare the results
+select|v|選擇|select a supplier
+choose|v|選擇|choose an option
+# 18 思考與工作動詞
+know|v|知道|know the procedure
+understand|v|理解|understand the instructions
+learn|v|學習|learn a skill
+teach|v|教導|teach new employees
+remember|v|記得|remember to register
+forget|v|忘記|forget to attach a file
+think|v|思考；認為|think about the issue
+believe|v|相信|believe the explanation
+consider|v|考慮|consider buying equipment
+expect|v|預期|expect a delay
+anticipate|v|預期|anticipate demand
+assume|v|假設|assume responsibility
+realize|v|了解；實現|realize the importance
+recognize|v|認出；認可|recognize a problem
+notice|v|注意到|notice a change
+observe|v|觀察；遵守|observe safety rules
+monitor|v|監控|monitor temperature
+measure|v|測量|measure the voltage
+review|v|審閱|review the contract
+check|v|檢查|check the details
+read|v|閱讀|read the instructions
+write|v|書寫|write a report
+record|v|記錄|record the results
+list|v|列出|list the requirements
+collect|v|收集|collect samples
+gather|v|蒐集；聚集|gather information
+prepare|v|準備|prepare a report
+present|v|呈現；報告|present the findings
+submit|v|提交|submit an application
+attach|v|附上|attach the invoice
+enclose|v|隨函附上|enclose a copy
+sign|v|簽署|sign the agreement
+print|v|列印|print the document
+copy|v|複製|copy the file
+edit|v|編輯|edit the draft
+revise|v|修訂|revise the schedule
+publish|v|發布；出版|publish a report
+release|v|發布；釋出|release an update
+renew|v|續約；更新|renew a license
+request|n|請求|a written request
+require|v|需要；要求|require approval
+need|v|需要|need assistance
+want|v|想要|want to participate
+prefer|v|偏好|prefer a later date
+intend|v|打算|intend to expand
+attempt|v|嘗試|attempt to restart
+manage|v|管理；設法|manage to finish
+fail|v|未能；失敗|fail to respond
+succeed|v|成功|succeed in reducing costs
+ensure|v|確保|ensure compliance
+# 19 狀態與品質形容詞
+available|adj|可取得的；有空的|available resources
+accessible|adj|可存取的；易到達的|accessible information
+suitable|adj|合適的|a suitable candidate
+appropriate|adj|適當的|appropriate action
+relevant|adj|相關的|relevant experience
+necessary|adj|必要的|necessary repairs
+essential|adj|必要的；核心的|essential equipment
+important|adj|重要的|an important notice
+critical|adj|關鍵的；嚴重的|a critical component
+optional|adj|可選的|optional training
+mandatory|adj|強制的|mandatory attendance
+required|adj|必需的|required documents
+adequate|adj|足夠的|adequate ventilation
+sufficient|adj|充分的|sufficient time
+insufficient|adj|不足的|insufficient funds
+limited|adj|有限的|limited space
+unlimited|adj|無限制的|unlimited access
+accurate|adj|準確的|accurate data
+precise|adj|精確的|precise measurements
+correct|adj|正確的|the correct address
+incorrect|adj|不正確的|incorrect information
+reliable|adj|可靠的|a reliable supplier
+efficient|adj|有效率的|an efficient process
+effective|adj|有效的|an effective solution
+productive|adj|有生產力的|a productive meeting
+successful|adj|成功的|a successful project
+defective|adj|有缺陷的|defective products
+damaged|adj|受損的|damaged goods
+faulty|adj|有故障的|faulty wiring
+functional|adj|可運作的|a fully functional device
+stable|adj|穩定的|a stable system
+consistent|adj|一致的|consistent quality
+flexible|adj|彈性的|flexible working hours
+durable|adj|耐用的|durable materials
+fragile|adj|易碎的|fragile components
+safe|adj|安全的|a safe workplace
+hazardous|adj|有危害的|hazardous materials
+secure|adj|安全受保護的|a secure connection
+confidential|adj|機密的|confidential information
+sensitive|adj|敏感的|sensitive data
+public|adj|公開的；公共的|public transportation
+private|adj|私人的|a private meeting
+internal|adj|內部的|an internal audit
+external|adj|外部的|an external supplier
+local|adj|當地的|a local office
+global|adj|全球的|a global market
+domestic|adj|國內的|domestic sales
+international|adj|國際的|international trade
+technical|adj|技術的|technical support
+professional|adj|專業的|professional development
+# 20 比較與描述形容詞
+new|adj|新的|a new product
+old|adj|舊的|an old machine
+modern|adj|現代的|modern facilities
+advanced|adj|先進的|advanced technology
+basic|adj|基本的|basic skills
+complex|adj|複雜的|a complex process
+simple|adj|簡單的|simple instructions
+easy|adj|容易的|an easy task
+difficult|adj|困難的|a difficult decision
+major|adj|主要的；重大的|a major problem
+minor|adj|次要的；輕微的|a minor defect
+significant|adj|顯著的|a significant improvement
+substantial|adj|大量的；可觀的|substantial savings
+slight|adj|輕微的|a slight delay
+large|adj|大的|a large order
+small|adj|小的|a small sample
+high|adj|高的|high demand
+low|adj|低的|low costs
+long|adj|長的|a long delay
+short|adj|短的|a short break
+wide|adj|寬的；廣泛的|a wide range
+narrow|adj|狹窄的|a narrow gap
+heavy|adj|重的|heavy equipment
+light|adj|輕的|a light load
+strong|adj|強的|strong demand
+weak|adj|弱的|a weak signal
+fast|adj|快的|a fast response
+slow|adj|慢的|a slow connection
+expensive|adj|昂貴的|expensive equipment
+affordable|adj|負擔得起的|an affordable option
+competitive|adj|有競爭力的|competitive prices
+reasonable|adj|合理的|a reasonable price
+fair|adj|公平的；合理的|a fair decision
+unfair|adj|不公平的|unfair treatment
+equal|adj|相等的|equal opportunities
+similar|adj|相似的|similar results
+different|adj|不同的|different methods
+identical|adj|完全相同的|identical parts
+specific|adj|特定的|specific requirements
+general|adj|一般的|general information
+particular|adj|特定的|a particular concern
+various|adj|各種的|various options
+several|det|數個|several reasons
+each|det|每一個|each employee
+every|det|每一個|every department
+another|det|另一個|another option
+other|det|其他的|other suppliers
+additional|adj|額外的|additional costs
+extra|adj|額外的|extra time
+remaining|adj|剩餘的|the remaining balance
+# 21 副詞與邏輯
+carefully|adv|仔細地|read carefully
+accurately|adv|準確地|measure accurately
+efficiently|adv|有效率地|work efficiently
+effectively|adv|有效地|communicate effectively
+properly|adv|正確地|operate properly
+correctly|adv|正確地|answer correctly
+safely|adv|安全地|handle safely
+immediately|adv|立即|respond immediately
+promptly|adv|迅速地|reply promptly
+currently|adv|目前|currently available
+previously|adv|先前|previously approved
+recently|adv|最近|recently installed
+already|adv|已經|already completed
+yet|adv|尚未；已經嗎|not yet available
+still|adv|仍然|still waiting
+soon|adv|不久|arrive soon
+later|adv|稍後|call later
+early|adv|提早|arrive early
+late|adv|遲；晚|arrive late
+now|adv|現在|start now
+then|adv|然後；當時|then restart
+always|adv|總是|always check
+often|adv|經常|often used
+usually|adv|通常|usually open
+sometimes|adv|有時|sometimes delayed
+rarely|adv|很少|rarely fails
+seldom|adv|很少|seldom available
+never|adv|從不|never share passwords
+regularly|adv|定期地|inspect regularly
+frequently|adv|頻繁地|frequently asked
+occasionally|adv|偶爾|occasionally required
+annually|adv|每年|review annually
+eventually|adv|最終|eventually succeed
+finally|adv|最後；終於|finally approved
+initially|adv|起初|initially scheduled
+gradually|adv|逐漸地|gradually improve
+steadily|adv|穩定地|grow steadily
+sharply|adv|急劇地|rise sharply
+slightly|adv|些微地|slightly higher
+significantly|adv|顯著地|significantly reduce
+approximately|adv|大約|approximately ten minutes
+nearly|adv|幾乎|nearly complete
+almost|adv|幾乎|almost finished
+completely|adv|完全地|completely different
+entirely|adv|完全地|entirely new
+particularly|adv|尤其|particularly useful
+especially|adv|尤其|especially important
+however|adv|然而|however, demand fell
+therefore|adv|因此|therefore, we postponed it
+otherwise|adv|否則；在其他方面|otherwise, contact support
+# 22 連接詞介系詞與推論
+although|conj|雖然|although costs rose
+though|conj|雖然|though the task is difficult
+even|adv|甚至|even experienced engineers
+because|conj|因為|because the machine failed
+since|conj|因為；自從|since the office is closed
+as|conj|當…時；因為|as demand increases
+while|conj|當…時；然而|while the system restarts
+whereas|conj|然而；相較之下|whereas costs decreased
+unless|conj|除非|unless otherwise stated
+if|conj|如果|if you need help
+whether|conj|是否|whether the part fits
+until|prep|直到|until Friday
+before|prep|在…之前|before the meeting
+after|prep|在…之後|after lunch
+during|prep|在…期間|during the inspection
+for|prep|持續；為了|for two hours
+from|prep|從|from the supplier
+to|prep|到；對|to the office
+at|prep|在時間點或地點|at noon
+on|prep|在日期或表面|on Monday
+in|prep|在期間或內部|in October
+by|prep|不晚於；藉由|by Friday
+within|prep|在…之內|within three days
+throughout|prep|遍及；整個期間|throughout the year
+between|prep|在…之間|between two buildings
+among|prep|在…之中|among the employees
+across|prep|橫越；遍及|across all departments
+through|prep|穿過；透過|through the main entrance
+along|prep|沿著|along the corridor
+around|prep|圍繞；大約|around noon
+near|prep|靠近|near the entrance
+beside|prep|在…旁邊|beside the printer
+besides|prep|除了…之外還有|besides the basic fee
+beyond|prep|超出|beyond our control
+under|prep|在…下面；受…約束|under warranty
+over|prep|在…上方；超過|over ten years
+above|prep|在…上方；超過|above the limit
+below|prep|在…下方；低於|below the target
+with|prep|與；有|with the supervisor
+without|prep|沒有|without permission
+against|prep|反對；靠著|against company policy
+of|prep|…的|a copy of the report
+about|prep|關於|about the schedule
+despite|prep|儘管|despite the delay
+except|prep|除了…不包含|except the final page
+including|prep|包含|including delivery
+regarding|prep|關於|regarding your inquiry
+regardless|adv|不論|regardless of cost
+instead|adv|反而；代替|instead of waiting
+moreover|adv|此外|moreover, it saves time
+# 23 補充：推理與職場核心
+reason|n|理由|the main reason
+purpose|n|目的|the purpose of the email
+detail|n|細節|check the details
+information|n|資訊|additional information
+knowledge|n|知識|technical knowledge
+opinion|n|意見|express an opinion
+fact|n|事實|verify the facts
+assumption|n|假設|a reasonable assumption
+conclusion|n|結論|draw a conclusion
+implication|n|含意；可能影響|the implications of a change
+inference|n|推論|make an inference
+context|n|上下文；情境|understand the context
+sequence|n|順序|the correct sequence
+relationship|n|關係|a business relationship
+difference|n|差異|a significant difference
+similarity|n|相似處|a clear similarity
+exception|n|例外|an exception to the rule
+limitation|n|限制|a technical limitation
+restriction|n|限制規定|travel restrictions
+possibility|n|可能性|consider the possibility
+probability|n|機率|a high probability
+opportunity|n|機會|a job opportunity
+availability|n|可用性；供應情況|check availability
+eligibility|n|資格|confirm eligibility
+approval|n|核准|obtain approval
+assistance|n|協助|request assistance
+permission|n|准許|written permission
+awareness|n|意識；認知|safety awareness
+improvement|n|改善|continuous improvement
+reduction|n|減少|a cost reduction
+preparation|n|準備|careful preparation
+registration|n|登記；報名|online registration
+identification|n|身分證明；辨識|photo identification
+authorization|n|授權|written authorization
+obligation|n|義務|a contractual obligation
+dispute|n|爭議|resolve a dispute
+consequence|n|後果|a serious consequence
+circumstance|n|情況|under these circumstances
+condition|n|狀況|working conditions
+environment|n|環境|a safe environment
+technology|n|科技|advanced technology
+innovation|n|創新|encourage innovation
+research|n|研究|conduct research
+development|n|開發；發展|product development
+experiment|n|實驗|conduct an experiment
+discovery|n|發現|a scientific discovery
+method|n|方法|a testing method
+approach|n|方式|a practical approach
+technique|n|技巧；技術|a useful technique
+practice|n|做法；練習|standard practice

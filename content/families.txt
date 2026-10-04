@@ -1,0 +1,34 @@
+inspect|inspection|inspector|—|—|inspect the equipment|an inspection report|The inspector checked the pump.|檢查→檢查這件事→檢查的人；不要自行造 inspectly。
+produce|production / product|producer|productive|productively|produce chips|a production line|The team worked productively.|production 是生產；product 是產品；productive 是有產能或有成果。
+manufacture|manufacturing / manufacturer|manufacturer|manufactured|—|manufacture parts|a manufacturing plant|The manufacturer replaced the part.|manufacturer 是製造商；manufactured 作分詞形容詞意為製造出的。
+operate|operation|operator|operational|operationally|operate a machine|an operational system|The operator started the machine.|operator 是人；operation 是運作；operational 是可運作／營運上的。
+maintain|maintenance|—|—|—|maintain equipment|preventive maintenance|Maintenance is scheduled for Friday.|maintain 變 maintenance 拼法會改，不是 maintainance。
+repair|repair|repairer|repairable|—|repair the pump|a repairable fault|The pump is repairable.|repair 可名可動；repairable 可修復，不是已修好。
+rely|reliability|—|reliable|reliably|rely on data|a reliable supplier|The system works reliably.|rely on 整組記；可靠性 reliability。
+effect|effect / effectiveness|—|effective|effectively|effect a change|an effective solution|The new method works effectively.|effect 作動詞是使發生，較正式；常用 affect 才是影響；effect 常作名詞。
+affect|effect（常見語意關聯，非規則派生）|—|affected|—|affect production|an adverse effect|The delay affected production.|affect 影響＋受詞；have an effect on 是名詞用法。
+improve|improvement|—|improved|—|improve quality|continuous improvement|Quality has improved.|改善後 improved；improving 可表正在改善，非所有字都有常用副詞。
+reduce|reduction|—|reduced|—|reduce costs|a cost reduction|The store offers reduced prices.|reduce→reduction，搭配 cost 一起記。
+increase|increase|—|increased / increasing|increasingly|increase output|increasing demand|Demand is increasingly strong.|increased 已增加；increasing 正增加；increasingly 越來越。
+approve|approval|—|approved|—|approve a budget|written approval|Only approved vendors may bid.|approve 動詞＋受詞；approval 名詞；approved 核准的。
+apply|application|applicant|applicable|—|apply for a job|a qualified applicant|This rule is applicable to visitors.|applicant 申請人；application 申請／應用；applicable 適用的。
+employ|employment|employer / employee|employed / employable|—|employ staff|full employment|The employer hired two employees.|-er 雇主；-ee 員工；employable 可受僱的，不等於已受僱。
+qualify|qualification|—|qualified|—|qualify for a role|professional qualifications|She is qualified for the role.|qualified 合格的；quality 是品質，不是 qualify 的名詞。
+compete|competition|competitor|competitive|competitively|compete with suppliers|a competitive price|Our products are competitively priced.|競爭者 competitor；競爭 competition；competitive prices 有競爭力價格。
+decide|decision|—|decisive|decisively|decide to proceed|a final decision|The manager acted decisively.|decisive 果斷／決定性的，不等於已決定的 decided。
+respond|response|respondent|responsive|responsively|respond to a request|a prompt response|The support team is responsive.|respondent 常是問卷受訪者；response 是回應本身。
+notify|notification|—|notified|—|notify staff of changes|an email notification|All staff were notified yesterday.|通知動作 notify；一則通知 notification。
+prepare|preparation|—|prepared|—|prepare a report|careful preparation|We are prepared for the audit.|prepare for＋事件；prepared 準備好的。
+require|requirement|—|required|—|require approval|required documents|Approval is required before entry.|required 必需的；requirement 要求事項。
+assist|assistance|assistant|—|—|assist a colleague|technical assistance|The assistant offered assistance.|assistant 是助理；assistance 是不可數協助。
+protect|protection|protector|protective|protectively|protect workers|protective gloves|Wear protective clothing.|protective 描述提供保護的；protected 是受到保護的。
+prevent|prevention|—|preventive|—|prevent accidents|preventive maintenance|Prevention is better than repair.|預防保養 preventive maintenance 整組背。
+satisfy|satisfaction|—|satisfied / satisfactory / satisfying|satisfactorily|satisfy requirements|customer satisfaction|The machine is working satisfactorily.|satisfied 感到滿意；satisfactory 達到可接受標準；satisfying 令人滿足。
+consider|consideration|—|considerable / considerate|considerably / considerately|consider changing the plan|a considerable improvement|Costs fell considerably.|considerable 相當大的；considerate 體貼的；意思不能只靠字根猜。
+respect|respect|—|respectful / respective|respectfully / respectively|respect the rules|their respective roles|A and B cost 10 and 20 dollars, respectively.|respectively 分別地，順序一一對應；respectfully 恭敬地。
+succeed|success|—|successful|successfully|succeed in reducing waste|a successful test|The team completed the test successfully.|succeed 動詞；success 名詞；successful 形容詞；successfully 副詞。
+differ|difference|—|different|differently|differ from the original|a significant difference|The two systems work differently.|different from；difference between A and B。
+vary|variation / variety|—|various / variable|variably|vary by location|various options|Delivery times vary by location.|various 各種；variable 可變的；variety 多樣；variation 變異。
+communicate|communication|communicator|communicative|—|communicate with staff|clear communication|Clear communication prevents mistakes.|communication 常指溝通；communications 可指多次通訊或通訊領域。
+register|registration|registrant|registered|—|register for training|online registration|Registration closes on Friday.|register for 活動；registered 已登記的。
+inspect|inspection|inspector|inspected|—|inspect a sample|an inspected sample|The inspected samples were stored separately.|分詞形容詞 inspected 表已受檢，不等於正在檢查的 inspecting。

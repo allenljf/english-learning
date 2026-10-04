@@ -1,0 +1,27 @@
+# 單字分冊索引
+
+共 1139 個不重複 headwords。不同詞性、複數或時態形式不重複灌水計數；同一拼字不同義項合併。另有例句補充字不計入此數。
+
+- [01 工作與組織（50 字）](vocabulary/01.md)
+- [02 招募與職涯（50 字）](vocabulary/02.md)
+- [03 辦公與文件（50 字）](vocabulary/03.md)
+- [04 溝通動詞（50 字）](vocabulary/04.md)
+- [05 時間與排程（50 字）](vocabulary/05.md)
+- [06 會議與專案（50 字）](vocabulary/06.md)
+- [07 生產與製造（49 字）](vocabulary/07.md)
+- [08 半導體與電子（49 字）](vocabulary/08.md)
+- [09 設備與維護（50 字）](vocabulary/09.md)
+- [10 品質與分析（50 字）](vocabulary/10.md)
+- [11 安全與環境（50 字）](vocabulary/11.md)
+- [12 採購與物流（50 字）](vocabulary/12.md)
+- [13 財務與交易（50 字）](vocabulary/13.md)
+- [14 市場與客服（50 字）](vocabulary/14.md)
+- [15 差旅與接待（49 字）](vocabulary/15.md)
+- [16 資訊與系統（49 字）](vocabulary/16.md)
+- [17 常用動作與改變（50 字）](vocabulary/17.md)
+- [18 思考與工作動詞（45 字）](vocabulary/18.md)
+- [19 狀態與品質形容詞（50 字）](vocabulary/19.md)
+- [20 比較與描述形容詞（50 字）](vocabulary/20.md)
+- [21 副詞與邏輯（50 字）](vocabulary/21.md)
+- [22 連接詞介系詞與推論（50 字）](vocabulary/22.md)
+- [23 補充：推理與職場核心（48 字）](vocabulary/23.md)
