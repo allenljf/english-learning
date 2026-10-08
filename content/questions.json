@@ -18,7 +18,8 @@
       "此處要求既定名詞 inspection，不是動名詞搭配 a final inspecting。",
       "分詞本身不能作此處檢查這件事的名詞。"
     ],
-    "tip": "a / the + 形容詞 + 名詞。"
+    "tip": "a / the + 形容詞 + 名詞。",
+    "set": "填空練習 01"
   },
   {
     "id": "F02",
@@ -39,7 +40,8 @@
       "名詞或動詞，無法表此處方式。",
       "修飾 inspected 的方式，需副詞。"
     ],
-    "tip": "先問空格修飾誰。"
+    "tip": "先問空格修飾誰。",
+    "set": "填空練習 01"
   },
   {
     "id": "F03",
@@ -60,7 +62,8 @@
       "supplier 前需要形容詞。",
       "名詞可靠性，不是描述人的形容詞。"
     ],
-    "tip": "rely → reliable → reliability → reliably。"
+    "tip": "rely → reliable → reliability → reliably。",
+    "set": "填空練習 01"
   },
   {
     "id": "F04",
@@ -81,7 +84,8 @@
       "名詞不能表示此處方式。",
       "修飾 completed，要副詞。"
     ],
-    "tip": "successful project；complete successfully。"
+    "tip": "successful project；complete successfully。",
+    "set": "填空練習 01"
   },
   {
     "id": "F05",
@@ -102,7 +106,8 @@
       "形容詞，缺少名詞中心。",
       "分詞不能作這裡所指的申請人複數名詞。"
     ],
-    "tip": "applicant 是人；application 是申請。"
+    "tip": "applicant 是人；application 是申請。",
+    "set": "填空練習 01"
   },
   {
     "id": "F06",
@@ -123,7 +128,8 @@
       "競爭這個名詞不適合作此處描述價格。",
       "原形動詞無法修飾 prices。"
     ],
-    "tip": "competitive prices / competitively priced。"
+    "tip": "competitive prices / competitively priced。",
+    "set": "填空練習 01"
   },
   {
     "id": "F07",
@@ -144,7 +150,8 @@
       "動詞，不能當這裡的主詞中心。",
       "分詞形容詞，後面缺名詞。"
     ],
-    "tip": "approve a request；obtain approval。"
+    "tip": "approve a request；obtain approval。",
+    "set": "填空練習 01"
   },
   {
     "id": "F08",
@@ -165,7 +172,8 @@
       "works 後描述運作方式用副詞。",
       "形容詞；可說 is more efficient。"
     ],
-    "tip": "works efficiently；is efficient。"
+    "tip": "works efficiently；is efficient。",
+    "set": "填空練習 01"
   },
   {
     "id": "F09",
@@ -186,7 +194,8 @@
       "表從過去起點延續，與最晚提交不合。",
       "表持續到某時，不能用於此處一次性的交表期限。"
     ],
-    "tip": "submit by；remain closed until。"
+    "tip": "submit by；remain closed until。",
+    "set": "填空練習 01"
   },
   {
     "id": "F10",
@@ -207,7 +216,8 @@
       "by 表最晚發生，不表持續關閉到哪天。",
       "此處 will remain 指未來，since 不表未來終點。"
     ],
-    "tip": "問的是截止動作還是持續狀態？"
+    "tip": "問的是截止動作還是持續狀態？",
+    "set": "填空練習 01"
   },
   {
     "id": "F11",
@@ -228,7 +238,8 @@
       "on 通常接日期。",
       "for 表長度或目的，不能表此開始鐘點。"
     ],
-    "tip": "at 點、on 日、in 段。"
+    "tip": "at 點、on 日、in 段。",
+    "set": "填空練習 02"
   },
   {
     "id": "F12",
@@ -249,7 +260,8 @@
       "since 表延續的起點，不是此處排定的日期。",
       "只有泛指 in the morning；此處指定 Monday。"
     ],
-    "tip": "有 Monday，不能只看 morning。"
+    "tip": "有 Monday，不能只看 morning。",
+    "set": "填空練習 02"
   },
   {
     "id": "F13",
@@ -270,7 +282,8 @@
       "for 需要 two years 等長度。",
       "until 表終點，與 has worked here 的起點情境不同。"
     ],
-    "tip": "since 起點；for 長度。"
+    "tip": "since 起點；for 長度。",
+    "set": "填空練習 02"
   },
   {
     "id": "F14",
@@ -291,7 +304,8 @@
       "此處修飾數量 two hours 的副詞。",
       "since 表起點，不接兩小時長度。"
     ],
-    "tip": "take + 時間長度；不一定每個時間空格都填介系詞。"
+    "tip": "take + 時間長度；不一定每個時間空格都填介系詞。",
+    "set": "填空練習 02"
   },
   {
     "id": "F15",
@@ -312,7 +326,8 @@
       "不是此動詞的搭配。",
       "不說 comply to。"
     ],
-    "tip": "comply with 視為一個單位。"
+    "tip": "comply with 視為一個單位。",
+    "set": "填空練習 02"
   },
   {
     "id": "F16",
@@ -333,7 +348,8 @@
       "不表示回覆這封信。",
       "reply to + 訊息。"
     ],
-    "tip": "reply to a message；reply with an answer。"
+    "tip": "reply to a message；reply with an answer。",
+    "set": "填空練習 02"
   },
   {
     "id": "F17",
@@ -354,7 +370,8 @@
       "無此因果搭配。",
       "result in 後接結果，會顛倒因果。"
     ],
-    "tip": "原因 result in 結果；結果 result from 原因。"
+    "tip": "原因 result in 結果；結果 result from 原因。",
+    "set": "填空練習 02"
   },
   {
     "id": "F18",
@@ -375,7 +392,8 @@
       "後面是結果。",
       "不接在 resulted 後表結果。"
     ],
-    "tip": "同一事件換主詞，介系詞也變。"
+    "tip": "同一事件換主詞，介系詞也變。",
+    "set": "填空練習 02"
   },
   {
     "id": "F19",
@@ -396,7 +414,8 @@
       "此句不能用 provide 人 to 物。",
       "provide 人 with 物。"
     ],
-    "tip": "先看人、物的順序。"
+    "tip": "先看人、物的順序。",
+    "set": "填空練習 02"
   },
   {
     "id": "F20",
@@ -417,7 +436,8 @@
       "過去式不接此介系詞。",
       "不能因看到 to 就選原形。"
     ],
-    "tip": "look forward to + N / V-ing。"
+    "tip": "look forward to + N / V-ing。",
+    "set": "填空練習 02"
   },
   {
     "id": "F21",
@@ -438,7 +458,8 @@
       "不是 responsible 的此用法。",
       "responsible for + 工作事項。"
     ],
-    "tip": "for 事情；to 上級。"
+    "tip": "for 事情；to 上級。",
+    "set": "填空練習 03"
   },
   {
     "id": "F22",
@@ -459,7 +480,8 @@
       "不構成此被動的原因表達。",
       "此處需原因 by misuse。"
     ],
-    "tip": "不要被前方 damage 的另一搭配誤導。"
+    "tip": "不要被前方 damage 的另一搭配誤導。",
+    "set": "填空練習 03"
   },
   {
     "id": "F23",
@@ -480,7 +502,8 @@
       "out of office 指人不在辦公室，不配 item。",
       "out of control 是失控，與庫存情境不同。"
     ],
-    "tip": "stock 庫存；order 訂單／秩序。"
+    "tip": "stock 庫存；order 訂單／秩序。",
+    "set": "填空練習 03"
   },
   {
     "id": "F24",
@@ -501,7 +524,8 @@
       "attach A to B 表附上。",
       "出席，不表附檔。"
     ],
-    "tip": "attach → attachment。"
+    "tip": "attach → attachment。",
+    "set": "填空練習 03"
   },
   {
     "id": "F25",
@@ -522,7 +546,8 @@
       "議程與維修權益無關。",
       "庫存不代表免費維修資格。"
     ],
-    "tip": "under warranty 整組記。"
+    "tip": "under warranty 整組記。",
+    "set": "填空練習 03"
   },
   {
     "id": "F26",
@@ -543,7 +568,8 @@
       "升遷／推廣，不是改期。",
       "生產，語意不合。"
     ],
-    "tip": "postpone 動作；postponement 名詞。"
+    "tip": "postpone 動作；postponement 名詞。",
+    "set": "填空練習 03"
   },
   {
     "id": "F27",
@@ -564,7 +590,8 @@
       "升遷不是文中要求的入場許可。",
       "表現不能取得作為進入許可。"
     ],
-    "tip": "permission 是不可數名詞。"
+    "tip": "permission 是不可數名詞。",
+    "set": "填空練習 03"
   },
   {
     "id": "F28",
@@ -585,7 +612,8 @@
       "計算數值，不是校正儀表本身。",
       "合作，通常不直接接受詞儀表。"
     ],
-    "tip": "calibrate 儀器；calculate 數字。"
+    "tip": "calibrate 儀器；calculate 數字。",
+    "set": "填空練習 03"
   },
   {
     "id": "F29",
@@ -606,7 +634,8 @@
       "effect 作動詞是促成，不能表示影響供應商。",
       "副詞，缺動詞。"
     ],
-    "tip": "affect v.；effect n. 最常用。"
+    "tip": "affect v.；effect n. 最常用。",
+    "set": "填空練習 03"
   },
   {
     "id": "F30",
@@ -627,7 +656,8 @@
       "副詞不合結構。",
       "在此不是表示影響的名詞。"
     ],
-    "tip": "have an effect on。"
+    "tip": "have an effect on。",
+    "set": "填空練習 03"
   },
   {
     "id": "F31",
@@ -648,7 +678,8 @@
       "出現，不表提高某物。",
       "rise 不及物，不能直接帶 prices。"
     ],
-    "tip": "prices rise；we raise prices。"
+    "tip": "prices rise；we raise prices。",
+    "set": "填空練習 04"
   },
   {
     "id": "F32",
@@ -669,7 +700,8 @@
       "to 後此處要原形，不是過去式。",
       "raise 通常要受詞，此句無受詞。"
     ],
-    "tip": "rise–rose–risen。"
+    "tip": "rise–rose–risen。",
+    "set": "填空練習 04"
   },
   {
     "id": "F33",
@@ -690,7 +722,8 @@
       "後面應接子句，且因果不合。",
       "期間不符合前後克服延誤的邏輯。"
     ],
-    "tip": "despite N；although S V。"
+    "tip": "despite N；although S V。",
+    "set": "填空練習 04"
   },
   {
     "id": "F34",
@@ -711,7 +744,8 @@
       "介系詞，不能接此完整子句。",
       "後接完整原因子句。"
     ],
-    "tip": "because the supply failed；because of the failure。"
+    "tip": "because the supply failed；because of the failure。",
+    "set": "填空練習 04"
   },
   {
     "id": "F35",
@@ -732,7 +766,8 @@
       "儘管如此，表示讓步，邏輯不合。",
       "否則，缺少所對應條件。"
     ],
-    "tip": "分號後可用 therefore，再用逗號。"
+    "tip": "分號後可用 therefore，再用逗號。",
+    "set": "填空練習 04"
   },
   {
     "id": "F36",
@@ -753,7 +788,8 @@
       "not ... until 表直到完成才可。",
       "介系詞片語後需名詞。"
     ],
-    "tip": "not until 的 not 是重要限制。"
+    "tip": "not until 的 not 是重要限制。",
+    "set": "填空練習 04"
   },
   {
     "id": "G01",
@@ -774,7 +810,8 @@
       "分詞不能單獨當限定動詞。",
       "不因 sensors 是複數就用 have。"
     ],
-    "tip": "先刪掉 of the sensors。"
+    "tip": "先刪掉 of the sensors。",
+    "set": "文法練習 01"
   },
   {
     "id": "G02",
@@ -795,7 +832,8 @@
       "直述句缺適當時態與人稱。",
       "equipment 不用複數一致。"
     ],
-    "tip": "equipment 不是 equipments。"
+    "tip": "equipment 不是 equipments。",
+    "set": "文法練習 01"
   },
   {
     "id": "G03",
@@ -816,7 +854,8 @@
       "yesterday 指已結束過去，使用過去式。",
       "此處明確 finished past yesterday，不用現在完成。"
     ],
-    "tip": "昨天已發生，用過去。"
+    "tip": "昨天已發生，用過去。",
+    "set": "文法練習 01"
   },
   {
     "id": "G04",
@@ -837,7 +876,8 @@
       "did 後不加三單 s。",
       "did 後不能直接用 V-ing。"
     ],
-    "tip": "did / does / do + 原形。"
+    "tip": "did / does / do + 原形。",
+    "set": "文法練習 01"
   },
   {
     "id": "G05",
@@ -858,7 +898,8 @@
       "不能直接接 does not。",
       "does 已負責單數變化。"
     ],
-    "tip": "不是 does not approves。"
+    "tip": "不是 does not approves。",
+    "set": "文法練習 01"
   },
   {
     "id": "G06",
@@ -879,7 +920,8 @@
       "過去式不合此刻正在。",
       "完成式需 tested。"
     ],
-    "tip": "be + V-ing。"
+    "tip": "be + V-ing。",
+    "set": "文法練習 01"
   },
   {
     "id": "G07",
@@ -900,7 +942,8 @@
       "不是未來開始。",
       "過去起點延續現在，現在完成。"
     ],
-    "tip": "since + 起點，配合延續語意。"
+    "tip": "since + 起點，配合延續語意。",
+    "set": "文法練習 01"
   },
   {
     "id": "G08",
@@ -921,7 +964,8 @@
       "不能以現在完成標過去參考點之前。",
       "未來不合 yesterday。"
     ],
-    "tip": "過去的過去：had + p.p.。"
+    "tip": "過去的過去：had + p.p.。",
+    "set": "文法練習 01"
   },
   {
     "id": "G09",
@@ -942,7 +986,8 @@
       "以未來時間點回看已完成。",
       "此題明確未來完成語境。"
     ],
-    "tip": "will have + p.p.。"
+    "tip": "will have + p.p.。",
+    "set": "文法練習 01"
   },
   {
     "id": "G10",
@@ -963,7 +1008,8 @@
       "未來條件子句通常用現在式。",
       "與 will start 的真實未來條件不符。"
     ],
-    "tip": "if 現在，主句 will。"
+    "tip": "if 現在，主句 will。",
+    "set": "文法練習 01"
   },
   {
     "id": "G11",
@@ -984,7 +1030,8 @@
       "複數主詞、過去、被動。",
       "樣本複數，不能用 was。"
     ],
-    "tip": "時間＋數量＋語態三項一起查。"
+    "tip": "時間＋數量＋語態三項一起查。",
+    "set": "文法練習 02"
   },
   {
     "id": "G12",
@@ -1005,7 +1052,8 @@
       "must 後不可直接 been。",
       "must 後不能直接過去式／分詞。"
     ],
-    "tip": "modal + be + p.p.。"
+    "tip": "modal + be + p.p.。",
+    "set": "文法練習 02"
   },
   {
     "id": "G13",
@@ -1026,7 +1074,8 @@
       "is being repaired 表正在被修。",
       "is 後不能直接 be。"
     ],
-    "tip": "is being done 與 has been done 比較。"
+    "tip": "is being done 與 has been done 比較。",
+    "set": "文法練習 02"
   },
   {
     "id": "G14",
@@ -1047,7 +1096,8 @@
       "decide to + 原形。",
       "decide 不直接接動名詞。"
     ],
-    "tip": "decide / plan / hope to do。"
+    "tip": "decide / plan / hope to do。",
+    "set": "文法練習 02"
   },
   {
     "id": "G15",
@@ -1068,7 +1118,8 @@
       "過去式不符。",
       "avoid 後接動名詞。"
     ],
-    "tip": "avoid doing。"
+    "tip": "avoid doing。",
+    "set": "文法練習 02"
   },
   {
     "id": "G16",
@@ -1089,7 +1140,8 @@
       "此處不表被動或完整句。",
       "缺主詞的子句不能直接用 start。"
     ],
-    "tip": "before starting / before you start。"
+    "tip": "before starting / before you start。",
+    "set": "文法練習 02"
   },
   {
     "id": "G17",
@@ -1110,7 +1162,8 @@
       "主動使役 make 此處不加 to。",
       "主動 make + O + 原形。"
     ],
-    "tip": "被動另說 We were made to repeat the test.。"
+    "tip": "被動另說 We were made to repeat the test.。",
+    "set": "文法練習 02"
   },
   {
     "id": "G18",
@@ -1131,7 +1184,8 @@
       "to 是不定詞標記，後接原形。",
       "不構成受詞或子句。"
     ],
-    "tip": "remember saving 是回想曾儲存，不是此提醒。"
+    "tip": "remember saving 是回想曾儲存，不是此提醒。",
+    "set": "文法練習 02"
   },
   {
     "id": "G19",
@@ -1152,7 +1206,8 @@
       "used to + 原形表示過去習慣。",
       "be used to working 才是習慣於。"
     ],
-    "tip": "used to do vs. be used to doing。"
+    "tip": "used to do vs. be used to doing。",
+    "set": "文法練習 02"
   },
   {
     "id": "G20",
@@ -1173,7 +1228,8 @@
       "限定動詞不能放此。",
       "be used to 的 to 為介系詞。"
     ],
-    "tip": "多一個 is，結構與意思都不同。"
+    "tip": "多一個 is，結構與意思都不同。",
+    "set": "文法練習 02"
   },
   {
     "id": "G21",
@@ -1194,7 +1250,8 @@
       "不能直接用 an 計數。",
       "information 不可數。"
     ],
-    "tip": "a piece of information。"
+    "tip": "a piece of information。",
+    "set": "文法練習 03"
   },
   {
     "id": "G22",
@@ -1215,7 +1272,8 @@
       "主詞 you 與受詞不是同一群，無反身語意。",
       "主格不放介系詞後。"
     ],
-    "tip": "to us / for them / with her。"
+    "tip": "to us / for them / with her。",
+    "set": "文法練習 03"
   },
   {
     "id": "G23",
@@ -1236,7 +1294,8 @@
       "所有代名詞可獨立代表 their report。",
       "受格不表所有關係。"
     ],
-    "tip": "their report = theirs。"
+    "tip": "their report = theirs。",
+    "set": "文法練習 03"
   },
   {
     "id": "G24",
@@ -1257,7 +1316,8 @@
       "最高級不與 than 作此結構。",
       "原級不與 than 作此比較。"
     ],
-    "tip": "fast–faster–fastest。"
+    "tip": "fast–faster–fastest。",
+    "set": "文法練習 03"
   },
   {
     "id": "G25",
@@ -1278,7 +1338,8 @@
       "very 不直接修飾 more efficient。",
       "many 修飾可數複數。"
     ],
-    "tip": "much / far / slightly + 比較級。"
+    "tip": "much / far / slightly + 比較級。",
+    "set": "文法練習 03"
   },
   {
     "id": "G26",
@@ -1299,7 +1360,8 @@
       "形容詞後接 enough to。",
       "位置及接 to 結構都不對。"
     ],
-    "tip": "adj. enough；enough + 名詞。"
+    "tip": "adj. enough；enough + 名詞。",
+    "set": "文法練習 03"
   },
   {
     "id": "G27",
@@ -1320,7 +1382,8 @@
       "一般不用 which 指此人。",
       "作受詞，此空格是主詞。"
     ],
-    "tip": "看關係詞在子句裡做什麼。"
+    "tip": "看關係詞在子句裡做什麼。",
+    "set": "文法練習 03"
   },
   {
     "id": "G28",
@@ -1341,7 +1404,8 @@
       "缺動詞且錯用助動詞。",
       "缺限定動詞。"
     ],
-    "tip": "where + S + V。"
+    "tip": "where + S + V。",
+    "set": "文法練習 03"
   },
   {
     "id": "G29",
@@ -1362,7 +1426,8 @@
       "名詞不構成修飾子句。",
       "會與 is 形成未連接的雙動詞。"
     ],
-    "tip": "先還原關係子句。"
+    "tip": "先還原關係子句。",
+    "set": "文法練習 03"
   },
   {
     "id": "G30",
@@ -1383,7 +1448,8 @@
       "原形不放 were so 後。",
       "名詞不合形容程度結構。"
     ],
-    "tip": "事情令人…；人感到…，仍須看語意。"
+    "tip": "事情令人…；人感到…，仍須看語意。",
+    "set": "文法練習 03"
   },
   {
     "id": "G31",
@@ -1404,7 +1470,8 @@
       "表應該，意思相反。",
       "must not 明確表示禁止分享密碼，而非只是沒有義務分享。"
     ],
-    "tip": "must not ≠ do not have to。"
+    "tip": "must not ≠ do not have to。",
+    "set": "文法練習 04"
   },
   {
     "id": "G32",
@@ -1425,7 +1492,8 @@
       "would 後不能直接 V-ing。",
       "真實未來不合 had ordered 假設。"
     ],
-    "tip": "had p.p. → would have p.p.。"
+    "tip": "had p.p. → would have p.p.。",
+    "set": "文法練習 04"
   },
   {
     "id": "G33",
@@ -1446,7 +1514,8 @@
       "不在此 if 子句用未來。",
       "正式假設句 If I were you。"
     ],
-    "tip": "固定建議句：If I were you。"
+    "tip": "固定建議句：If I were you。",
+    "set": "文法練習 04"
   },
   {
     "id": "G34",
@@ -1467,7 +1536,8 @@
       "此處不是並列不定詞。",
       "與 inspecting、recording 並列 V-ing。"
     ],
-    "tip": "and 左右找同一層級。"
+    "tip": "and 左右找同一層級。",
+    "set": "文法練習 04"
   },
   {
     "id": "G35",
@@ -1488,7 +1558,8 @@
       "hour 單數，不能配 many。",
       "hour 開頭 h 不發音，以母音音素開始。"
     ],
-    "tip": "an hour；a university。"
+    "tip": "an hour；a university。",
+    "set": "文法練習 04"
   },
   {
     "id": "G36",
@@ -1509,6 +1580,2823 @@
       "真實條件使用現在式。",
       "後面 badge 名詞語意與結構不合。"
     ],
-    "tip": "only if 是必要條件，閱讀不能漏 only。"
+    "tip": "only if 是必要條件，閱讀不能漏 only。",
+    "set": "文法練習 04"
+  },
+  {
+    "id": "F37",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 04",
+    "stem": "The technician will ___ the the report before the afternoon shift.",
+    "zh": "The technician會在下午班前檢視報告。",
+    "options": [
+      "review",
+      "reviewed",
+      "reviews",
+      "reviewing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；reviewed與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reviews與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reviewing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F38",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 04",
+    "stem": "The purchasing team ___ the the equipment yesterday.",
+    "zh": "The purchasing team昨天檢查設備。",
+    "options": [
+      "inspect",
+      "inspected",
+      "inspects",
+      "inspecting"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；inspect與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；inspects與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；inspecting與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F39",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 04",
+    "stem": "Our supervisor has ___ the the delivery date already.",
+    "zh": "Our supervisor已經確認交貨日期。",
+    "options": [
+      "confirm",
+      "confirmed",
+      "confirms",
+      "confirming"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；confirm與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；confirms與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；confirming與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F40",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 04",
+    "stem": "The the schedule was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在更新時程。",
+    "options": [
+      "update",
+      "updated",
+      "updates",
+      "updating"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；update與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；updated與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；updates與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F41",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 05",
+    "stem": "The technician will ___ the the instrument before the afternoon shift.",
+    "zh": "The technician會在下午班前校正儀器。",
+    "options": [
+      "calibrate",
+      "calibrated",
+      "calibrates",
+      "calibrating"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；calibrated與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；calibrates與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；calibrating與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F42",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 05",
+    "stem": "The purchasing team ___ the the request yesterday.",
+    "zh": "The purchasing team昨天核准申請。",
+    "options": [
+      "approve",
+      "approved",
+      "approves",
+      "approving"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；approve與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；approves與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；approving與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F43",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 05",
+    "stem": "Our supervisor has ___ the the components already.",
+    "zh": "Our supervisor已經交付零件。",
+    "options": [
+      "deliver",
+      "delivered",
+      "delivers",
+      "delivering"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；deliver與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；delivers與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；delivering與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F44",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 05",
+    "stem": "The the meeting was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在出席會議。",
+    "options": [
+      "attend",
+      "attended",
+      "attends",
+      "attending"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；attend與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；attended與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；attends與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F45",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 05",
+    "stem": "The technician will ___ the the filter before the afternoon shift.",
+    "zh": "The technician會在下午班前更換濾網。",
+    "options": [
+      "replace",
+      "replaced",
+      "replaces",
+      "replacing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；replaced與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；replaces與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；replacing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F46",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 05",
+    "stem": "The purchasing team ___ the the result yesterday.",
+    "zh": "The purchasing team昨天記錄結果。",
+    "options": [
+      "record",
+      "recorded",
+      "records",
+      "recording"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；record與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；records與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；recording與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F47",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 05",
+    "stem": "Our supervisor has ___ the the supervisor already.",
+    "zh": "Our supervisor已經通知主管。",
+    "options": [
+      "notify",
+      "notified",
+      "notifies",
+      "notifying"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；notify與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；notifies與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；notifying與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F48",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 05",
+    "stem": "The the samples was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在準備樣本。",
+    "options": [
+      "prepare",
+      "prepared",
+      "prepares",
+      "preparing"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；prepare與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；prepared與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；prepares與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F49",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 05",
+    "stem": "The technician will ___ the a visit before the afternoon shift.",
+    "zh": "The technician會在下午班前安排訪視。",
+    "options": [
+      "arrange",
+      "arranged",
+      "arranges",
+      "arranging"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；arranged與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；arranges與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；arranging與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F50",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 05",
+    "stem": "The purchasing team ___ the the delay yesterday.",
+    "zh": "The purchasing team昨天減少延誤。",
+    "options": [
+      "reduce",
+      "reduced",
+      "reduces",
+      "reducing"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；reduce與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；reduces與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reducing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F51",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 06",
+    "stem": "Our supervisor has ___ the the order already.",
+    "zh": "Our supervisor已經寄送訂單。",
+    "options": [
+      "ship",
+      "shipped",
+      "ships",
+      "shipping"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；ship與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；ships與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；shipping與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F52",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 06",
+    "stem": "The the machine was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在維護機器。",
+    "options": [
+      "maintain",
+      "maintained",
+      "maintains",
+      "maintaining"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；maintain與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；maintained與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；maintains與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F53",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 06",
+    "stem": "The technician will ___ the the report before the afternoon shift.",
+    "zh": "The technician會在下午班前檢視報告。",
+    "options": [
+      "review",
+      "reviewed",
+      "reviews",
+      "reviewing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；reviewed與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reviews與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reviewing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F54",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 06",
+    "stem": "The purchasing team ___ the the equipment yesterday.",
+    "zh": "The purchasing team昨天檢查設備。",
+    "options": [
+      "inspect",
+      "inspected",
+      "inspects",
+      "inspecting"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；inspect與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；inspects與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；inspecting與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F55",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 06",
+    "stem": "Our supervisor has ___ the the delivery date already.",
+    "zh": "Our supervisor已經確認交貨日期。",
+    "options": [
+      "confirm",
+      "confirmed",
+      "confirms",
+      "confirming"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；confirm與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；confirms與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；confirming與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F56",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 06",
+    "stem": "The the schedule was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在更新時程。",
+    "options": [
+      "update",
+      "updated",
+      "updates",
+      "updating"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；update與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；updated與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；updates與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F57",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 06",
+    "stem": "The technician will ___ the the instrument before the afternoon shift.",
+    "zh": "The technician會在下午班前校正儀器。",
+    "options": [
+      "calibrate",
+      "calibrated",
+      "calibrates",
+      "calibrating"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；calibrated與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；calibrates與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；calibrating與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F58",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 06",
+    "stem": "The purchasing team ___ the the request yesterday.",
+    "zh": "The purchasing team昨天核准申請。",
+    "options": [
+      "approve",
+      "approved",
+      "approves",
+      "approving"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；approve與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；approves與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；approving與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F59",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 06",
+    "stem": "Our supervisor has ___ the the components already.",
+    "zh": "Our supervisor已經交付零件。",
+    "options": [
+      "deliver",
+      "delivered",
+      "delivers",
+      "delivering"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；deliver與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；delivers與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；delivering與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F60",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 06",
+    "stem": "The the meeting was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在出席會議。",
+    "options": [
+      "attend",
+      "attended",
+      "attends",
+      "attending"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；attend與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；attended與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；attends與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F61",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 07",
+    "stem": "The technician will ___ the the filter before the afternoon shift.",
+    "zh": "The technician會在下午班前更換濾網。",
+    "options": [
+      "replace",
+      "replaced",
+      "replaces",
+      "replacing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；replaced與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；replaces與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；replacing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F62",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 07",
+    "stem": "The purchasing team ___ the the result yesterday.",
+    "zh": "The purchasing team昨天記錄結果。",
+    "options": [
+      "record",
+      "recorded",
+      "records",
+      "recording"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；record與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；records與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；recording與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F63",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 07",
+    "stem": "Our supervisor has ___ the the supervisor already.",
+    "zh": "Our supervisor已經通知主管。",
+    "options": [
+      "notify",
+      "notified",
+      "notifies",
+      "notifying"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；notify與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；notifies與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；notifying與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F64",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 07",
+    "stem": "The the samples was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在準備樣本。",
+    "options": [
+      "prepare",
+      "prepared",
+      "prepares",
+      "preparing"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；prepare與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；prepared與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；prepares與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F65",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 07",
+    "stem": "The technician will ___ the a visit before the afternoon shift.",
+    "zh": "The technician會在下午班前安排訪視。",
+    "options": [
+      "arrange",
+      "arranged",
+      "arranges",
+      "arranging"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；arranged與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；arranges與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；arranging與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F66",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 07",
+    "stem": "The purchasing team ___ the the delay yesterday.",
+    "zh": "The purchasing team昨天減少延誤。",
+    "options": [
+      "reduce",
+      "reduced",
+      "reduces",
+      "reducing"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；reduce與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；reduces與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reducing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F67",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 07",
+    "stem": "Our supervisor has ___ the the order already.",
+    "zh": "Our supervisor已經寄送訂單。",
+    "options": [
+      "ship",
+      "shipped",
+      "ships",
+      "shipping"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；ship與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；ships與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；shipping與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F68",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 07",
+    "stem": "The the machine was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在維護機器。",
+    "options": [
+      "maintain",
+      "maintained",
+      "maintains",
+      "maintaining"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；maintain與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；maintained與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；maintains與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F69",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 07",
+    "stem": "The technician will ___ the the report before the afternoon shift.",
+    "zh": "The technician會在下午班前檢視報告。",
+    "options": [
+      "review",
+      "reviewed",
+      "reviews",
+      "reviewing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；reviewed與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reviews與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reviewing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F70",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 07",
+    "stem": "The purchasing team ___ the the equipment yesterday.",
+    "zh": "The purchasing team昨天檢查設備。",
+    "options": [
+      "inspect",
+      "inspected",
+      "inspects",
+      "inspecting"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；inspect與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；inspects與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；inspecting與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F71",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 08",
+    "stem": "Our supervisor has ___ the the delivery date already.",
+    "zh": "Our supervisor已經確認交貨日期。",
+    "options": [
+      "confirm",
+      "confirmed",
+      "confirms",
+      "confirming"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；confirm與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；confirms與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；confirming與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F72",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 08",
+    "stem": "The the schedule was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在更新時程。",
+    "options": [
+      "update",
+      "updated",
+      "updates",
+      "updating"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；update與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；updated與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；updates與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F73",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 08",
+    "stem": "The technician will ___ the the instrument before the afternoon shift.",
+    "zh": "The technician會在下午班前校正儀器。",
+    "options": [
+      "calibrate",
+      "calibrated",
+      "calibrates",
+      "calibrating"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；calibrated與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；calibrates與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；calibrating與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F74",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 08",
+    "stem": "The purchasing team ___ the the request yesterday.",
+    "zh": "The purchasing team昨天核准申請。",
+    "options": [
+      "approve",
+      "approved",
+      "approves",
+      "approving"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；approve與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；approves與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；approving與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F75",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 08",
+    "stem": "Our supervisor has ___ the the components already.",
+    "zh": "Our supervisor已經交付零件。",
+    "options": [
+      "deliver",
+      "delivered",
+      "delivers",
+      "delivering"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；deliver與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；delivers與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；delivering與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F76",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 08",
+    "stem": "The the meeting was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在出席會議。",
+    "options": [
+      "attend",
+      "attended",
+      "attends",
+      "attending"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；attend與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；attended與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；attends與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F77",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 08",
+    "stem": "The technician will ___ the the filter before the afternoon shift.",
+    "zh": "The technician會在下午班前更換濾網。",
+    "options": [
+      "replace",
+      "replaced",
+      "replaces",
+      "replacing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；replaced與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；replaces與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；replacing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F78",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 08",
+    "stem": "The purchasing team ___ the the result yesterday.",
+    "zh": "The purchasing team昨天記錄結果。",
+    "options": [
+      "record",
+      "recorded",
+      "records",
+      "recording"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；record與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；records與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；recording與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F79",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 08",
+    "stem": "Our supervisor has ___ the the supervisor already.",
+    "zh": "Our supervisor已經通知主管。",
+    "options": [
+      "notify",
+      "notified",
+      "notifies",
+      "notifying"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；notify與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；notifies與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；notifying與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F80",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 08",
+    "stem": "The the samples was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在準備樣本。",
+    "options": [
+      "prepare",
+      "prepared",
+      "prepares",
+      "preparing"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；prepare與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；prepared與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；prepares與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F81",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 09",
+    "stem": "The technician will ___ the a visit before the afternoon shift.",
+    "zh": "The technician會在下午班前安排訪視。",
+    "options": [
+      "arrange",
+      "arranged",
+      "arranges",
+      "arranging"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；arranged與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；arranges與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；arranging與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F82",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 09",
+    "stem": "The purchasing team ___ the the delay yesterday.",
+    "zh": "The purchasing team昨天減少延誤。",
+    "options": [
+      "reduce",
+      "reduced",
+      "reduces",
+      "reducing"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；reduce與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；reduces與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reducing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F83",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 09",
+    "stem": "Our supervisor has ___ the the order already.",
+    "zh": "Our supervisor已經寄送訂單。",
+    "options": [
+      "ship",
+      "shipped",
+      "ships",
+      "shipping"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；ship與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；ships與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；shipping與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F84",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 09",
+    "stem": "The the machine was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在維護機器。",
+    "options": [
+      "maintain",
+      "maintained",
+      "maintains",
+      "maintaining"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；maintain與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；maintained與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；maintains與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F85",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 09",
+    "stem": "The technician will ___ the the report before the afternoon shift.",
+    "zh": "The technician會在下午班前檢視報告。",
+    "options": [
+      "review",
+      "reviewed",
+      "reviews",
+      "reviewing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；reviewed與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reviews與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reviewing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F86",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 09",
+    "stem": "The purchasing team ___ the the equipment yesterday.",
+    "zh": "The purchasing team昨天檢查設備。",
+    "options": [
+      "inspect",
+      "inspected",
+      "inspects",
+      "inspecting"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；inspect與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；inspects與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；inspecting與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F87",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 09",
+    "stem": "Our supervisor has ___ the the delivery date already.",
+    "zh": "Our supervisor已經確認交貨日期。",
+    "options": [
+      "confirm",
+      "confirmed",
+      "confirms",
+      "confirming"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；confirm與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；confirms與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；confirming與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F88",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 09",
+    "stem": "The the schedule was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在更新時程。",
+    "options": [
+      "update",
+      "updated",
+      "updates",
+      "updating"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；update與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；updated與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；updates與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F89",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 09",
+    "stem": "The technician will ___ the the instrument before the afternoon shift.",
+    "zh": "The technician會在下午班前校正儀器。",
+    "options": [
+      "calibrate",
+      "calibrated",
+      "calibrates",
+      "calibrating"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；calibrated與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；calibrates與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；calibrating與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F90",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 09",
+    "stem": "The purchasing team ___ the the request yesterday.",
+    "zh": "The purchasing team昨天核准申請。",
+    "options": [
+      "approve",
+      "approved",
+      "approves",
+      "approving"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；approve與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；approves與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；approving與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F91",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 10",
+    "stem": "Our supervisor has ___ the the components already.",
+    "zh": "Our supervisor已經交付零件。",
+    "options": [
+      "deliver",
+      "delivered",
+      "delivers",
+      "delivering"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；deliver與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；delivers與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；delivering與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F92",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 10",
+    "stem": "The the meeting was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在出席會議。",
+    "options": [
+      "attend",
+      "attended",
+      "attends",
+      "attending"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；attend與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；attended與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；attends與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F93",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 10",
+    "stem": "The technician will ___ the the filter before the afternoon shift.",
+    "zh": "The technician會在下午班前更換濾網。",
+    "options": [
+      "replace",
+      "replaced",
+      "replaces",
+      "replacing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；replaced與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；replaces與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；replacing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F94",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 10",
+    "stem": "The purchasing team ___ the the result yesterday.",
+    "zh": "The purchasing team昨天記錄結果。",
+    "options": [
+      "record",
+      "recorded",
+      "records",
+      "recording"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；record與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；records與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；recording與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F95",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 10",
+    "stem": "Our supervisor has ___ the the supervisor already.",
+    "zh": "Our supervisor已經通知主管。",
+    "options": [
+      "notify",
+      "notified",
+      "notifies",
+      "notifying"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；notify與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；notifies與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；notifying與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F96",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 10",
+    "stem": "The the samples was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在準備樣本。",
+    "options": [
+      "prepare",
+      "prepared",
+      "prepares",
+      "preparing"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；prepare與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；prepared與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；prepares與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "F97",
+    "kind": "填空",
+    "topic": "時態線索",
+    "set": "填空練習 10",
+    "stem": "The technician will ___ the a visit before the afternoon shift.",
+    "zh": "The technician會在下午班前安排訪視。",
+    "options": [
+      "arrange",
+      "arranged",
+      "arranges",
+      "arranging"
+    ],
+    "answer": 0,
+    "reasons": [
+      "will 後接原形動詞。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；arranged與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；arranges與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；arranging與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "will 後接原形動詞。"
+  },
+  {
+    "id": "F98",
+    "kind": "填空",
+    "topic": "動詞形式",
+    "set": "填空練習 10",
+    "stem": "The purchasing team ___ the the delay yesterday.",
+    "zh": "The purchasing team昨天減少延誤。",
+    "options": [
+      "reduce",
+      "reduced",
+      "reduces",
+      "reducing"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；reduce與句中的助動詞或時間線索不合。",
+      "yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；reduces與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；reducing與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "yesterday 指已結束的過去，動詞用過去式。"
+  },
+  {
+    "id": "F99",
+    "kind": "填空",
+    "topic": "主被動",
+    "set": "填空練習 10",
+    "stem": "Our supervisor has ___ the the order already.",
+    "zh": "Our supervisor已經寄送訂單。",
+    "options": [
+      "ship",
+      "shipped",
+      "ships",
+      "shipping"
+    ],
+    "answer": 1,
+    "reasons": [
+      "此處需要另一種動詞形式；ship與句中的助動詞或時間線索不合。",
+      "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。",
+      "此處需要另一種動詞形式；ships與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；shipping與句中的助動詞或時間線索不合。"
+    ],
+    "tip": "has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。"
+  },
+  {
+    "id": "F100",
+    "kind": "填空",
+    "topic": "句型搭配",
+    "set": "填空練習 10",
+    "stem": "The the machine was ___ by the quality engineer this morning.",
+    "zh": "今天早上，The quality engineer有在維護機器。",
+    "options": [
+      "maintain",
+      "maintained",
+      "maintains",
+      "maintaining"
+    ],
+    "answer": 3,
+    "reasons": [
+      "此處需要另一種動詞形式；maintain與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；maintained與句中的助動詞或時間線索不合。",
+      "此處需要另一種動詞形式；maintains與句中的助動詞或時間線索不合。",
+      "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。"
+    ],
+    "tip": "was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。"
+  },
+  {
+    "id": "G37",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 04",
+    "stem": "The engineers ___ the equipment every Friday.",
+    "zh": "The engineers每週五檢視報告。",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。",
+      "reviews 不符合句中的文法或固定搭配。",
+      "reviewed 不符合句中的文法或固定搭配。",
+      "reviewing 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。"
+  },
+  {
+    "id": "G38",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 04",
+    "stem": "Ms. Lin ___ the equipment last Friday.",
+    "zh": "Ms. Lin上週五檢查設備。",
+    "options": [
+      "inspect",
+      "inspects",
+      "inspected",
+      "inspecting"
+    ],
+    "answer": 2,
+    "reasons": [
+      "inspect 不符合句中的文法或固定搭配。",
+      "inspects 不符合句中的文法或固定搭配。",
+      "last Friday 是結束的過去時間，使用過去式。",
+      "inspecting 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "last Friday 是結束的過去時間，使用過去式。"
+  },
+  {
+    "id": "G39",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 04",
+    "stem": "The production team is ___ the equipment now.",
+    "zh": "The production team現在正在確認交貨日期。",
+    "options": [
+      "confirm",
+      "confirms",
+      "confirmed",
+      "confirming"
+    ],
+    "answer": 3,
+    "reasons": [
+      "confirm 不符合句中的文法或固定搭配。",
+      "confirms 不符合句中的文法或固定搭配。",
+      "confirmed 不符合句中的文法或固定搭配。",
+      "be + V-ing 表示此刻進行中的動作。"
+    ],
+    "tip": "be + V-ing 表示此刻進行中的動作。"
+  },
+  {
+    "id": "G40",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 04",
+    "stem": "The equipment ___ before shipment yesterday.",
+    "zh": "設備昨天在出貨前被更新時程。",
+    "options": [
+      "was update",
+      "was updated",
+      "is updated",
+      "did update"
+    ],
+    "answer": 1,
+    "reasons": [
+      "was update 不符合句中的文法或固定搭配。",
+      "被動句用 be + 過去分詞；yesterday 決定過去式 was。",
+      "is updated 不符合句中的文法或固定搭配。",
+      "did update 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "被動句用 be + 過去分詞；yesterday 決定過去式 was。"
+  },
+  {
+    "id": "G41",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 05",
+    "stem": "The engineers has ___ the equipment already.",
+    "zh": "The engineers已經校正儀器設備。",
+    "options": [
+      "calibrate",
+      "calibrated",
+      "calibrates",
+      "calibrating"
+    ],
+    "answer": 1,
+    "reasons": [
+      "calibrate 不符合句中的文法或固定搭配。",
+      "has + 過去分詞；already 常提示已完成且與現在相關。",
+      "calibrates 不符合句中的文法或固定搭配。",
+      "calibrating 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "has + 過去分詞；already 常提示已完成且與現在相關。"
+  },
+  {
+    "id": "G42",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 05",
+    "stem": "The team is responsible ___ checking the samples.",
+    "zh": "團隊負責檢查樣本。",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "固定搭配 be responsible for + 名詞或 V-ing。",
+      "to 不符合句中的文法或固定搭配。",
+      "at 不符合句中的文法或固定搭配。",
+      "with 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "固定搭配 be responsible for + 名詞或 V-ing。"
+  },
+  {
+    "id": "G43",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 05",
+    "stem": "The production team ___ not receive the revised schedule yet.",
+    "zh": "The production team還沒有收到修訂後的時程。",
+    "options": [
+      "has",
+      "have",
+      "does",
+      "is"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。",
+      "have 不符合句中的文法或固定搭配。",
+      "does 不符合句中的文法或固定搭配。",
+      "is 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。"
+  },
+  {
+    "id": "G44",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 05",
+    "stem": "Please send the signed form ___ the HR department.",
+    "zh": "請把簽好的表格寄給人資部門。",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "reasons": [
+      "send something to a recipient；to 引出接收者。",
+      "for 不符合句中的文法或固定搭配。",
+      "by 不符合句中的文法或固定搭配。",
+      "from 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "send something to a recipient；to 引出接收者。"
+  },
+  {
+    "id": "G45",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 05",
+    "stem": "The engineers ___ the equipment every Friday.",
+    "zh": "The engineers每週五更換濾網。",
+    "options": [
+      "replace",
+      "replaces",
+      "replaced",
+      "replacing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。",
+      "replaces 不符合句中的文法或固定搭配。",
+      "replaced 不符合句中的文法或固定搭配。",
+      "replacing 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。"
+  },
+  {
+    "id": "G46",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 05",
+    "stem": "Ms. Lin ___ the equipment last Friday.",
+    "zh": "Ms. Lin上週五記錄結果。",
+    "options": [
+      "record",
+      "records",
+      "recorded",
+      "recording"
+    ],
+    "answer": 2,
+    "reasons": [
+      "record 不符合句中的文法或固定搭配。",
+      "records 不符合句中的文法或固定搭配。",
+      "last Friday 是結束的過去時間，使用過去式。",
+      "recording 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "last Friday 是結束的過去時間，使用過去式。"
+  },
+  {
+    "id": "G47",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 05",
+    "stem": "The production team is ___ the equipment now.",
+    "zh": "The production team現在正在通知主管。",
+    "options": [
+      "notify",
+      "notifies",
+      "notified",
+      "notifying"
+    ],
+    "answer": 3,
+    "reasons": [
+      "notify 不符合句中的文法或固定搭配。",
+      "notifies 不符合句中的文法或固定搭配。",
+      "notified 不符合句中的文法或固定搭配。",
+      "be + V-ing 表示此刻進行中的動作。"
+    ],
+    "tip": "be + V-ing 表示此刻進行中的動作。"
+  },
+  {
+    "id": "G48",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 05",
+    "stem": "The equipment ___ before shipment yesterday.",
+    "zh": "設備昨天在出貨前被準備樣本。",
+    "options": [
+      "was prepare",
+      "was prepared",
+      "is prepared",
+      "did prepare"
+    ],
+    "answer": 1,
+    "reasons": [
+      "was prepare 不符合句中的文法或固定搭配。",
+      "被動句用 be + 過去分詞；yesterday 決定過去式 was。",
+      "is prepared 不符合句中的文法或固定搭配。",
+      "did prepare 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "被動句用 be + 過去分詞；yesterday 決定過去式 was。"
+  },
+  {
+    "id": "G49",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 05",
+    "stem": "The engineers has ___ the equipment already.",
+    "zh": "The engineers已經安排訪視設備。",
+    "options": [
+      "arrange",
+      "arranged",
+      "arranges",
+      "arranging"
+    ],
+    "answer": 1,
+    "reasons": [
+      "arrange 不符合句中的文法或固定搭配。",
+      "has + 過去分詞；already 常提示已完成且與現在相關。",
+      "arranges 不符合句中的文法或固定搭配。",
+      "arranging 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "has + 過去分詞；already 常提示已完成且與現在相關。"
+  },
+  {
+    "id": "G50",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 05",
+    "stem": "The team is responsible ___ checking the samples.",
+    "zh": "團隊負責檢查樣本。",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "固定搭配 be responsible for + 名詞或 V-ing。",
+      "to 不符合句中的文法或固定搭配。",
+      "at 不符合句中的文法或固定搭配。",
+      "with 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "固定搭配 be responsible for + 名詞或 V-ing。"
+  },
+  {
+    "id": "G51",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 06",
+    "stem": "The production team ___ not receive the revised schedule yet.",
+    "zh": "The production team還沒有收到修訂後的時程。",
+    "options": [
+      "has",
+      "have",
+      "does",
+      "is"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。",
+      "have 不符合句中的文法或固定搭配。",
+      "does 不符合句中的文法或固定搭配。",
+      "is 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。"
+  },
+  {
+    "id": "G52",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 06",
+    "stem": "Please send the signed form ___ the HR department.",
+    "zh": "請把簽好的表格寄給人資部門。",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "reasons": [
+      "send something to a recipient；to 引出接收者。",
+      "for 不符合句中的文法或固定搭配。",
+      "by 不符合句中的文法或固定搭配。",
+      "from 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "send something to a recipient；to 引出接收者。"
+  },
+  {
+    "id": "G53",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 06",
+    "stem": "The engineers ___ the equipment every Friday.",
+    "zh": "The engineers每週五檢視報告。",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。",
+      "reviews 不符合句中的文法或固定搭配。",
+      "reviewed 不符合句中的文法或固定搭配。",
+      "reviewing 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。"
+  },
+  {
+    "id": "G54",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 06",
+    "stem": "Ms. Lin ___ the equipment last Friday.",
+    "zh": "Ms. Lin上週五檢查設備。",
+    "options": [
+      "inspect",
+      "inspects",
+      "inspected",
+      "inspecting"
+    ],
+    "answer": 2,
+    "reasons": [
+      "inspect 不符合句中的文法或固定搭配。",
+      "inspects 不符合句中的文法或固定搭配。",
+      "last Friday 是結束的過去時間，使用過去式。",
+      "inspecting 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "last Friday 是結束的過去時間，使用過去式。"
+  },
+  {
+    "id": "G55",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 06",
+    "stem": "The production team is ___ the equipment now.",
+    "zh": "The production team現在正在確認交貨日期。",
+    "options": [
+      "confirm",
+      "confirms",
+      "confirmed",
+      "confirming"
+    ],
+    "answer": 3,
+    "reasons": [
+      "confirm 不符合句中的文法或固定搭配。",
+      "confirms 不符合句中的文法或固定搭配。",
+      "confirmed 不符合句中的文法或固定搭配。",
+      "be + V-ing 表示此刻進行中的動作。"
+    ],
+    "tip": "be + V-ing 表示此刻進行中的動作。"
+  },
+  {
+    "id": "G56",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 06",
+    "stem": "The equipment ___ before shipment yesterday.",
+    "zh": "設備昨天在出貨前被更新時程。",
+    "options": [
+      "was update",
+      "was updated",
+      "is updated",
+      "did update"
+    ],
+    "answer": 1,
+    "reasons": [
+      "was update 不符合句中的文法或固定搭配。",
+      "被動句用 be + 過去分詞；yesterday 決定過去式 was。",
+      "is updated 不符合句中的文法或固定搭配。",
+      "did update 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "被動句用 be + 過去分詞；yesterday 決定過去式 was。"
+  },
+  {
+    "id": "G57",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 06",
+    "stem": "The engineers has ___ the equipment already.",
+    "zh": "The engineers已經校正儀器設備。",
+    "options": [
+      "calibrate",
+      "calibrated",
+      "calibrates",
+      "calibrating"
+    ],
+    "answer": 1,
+    "reasons": [
+      "calibrate 不符合句中的文法或固定搭配。",
+      "has + 過去分詞；already 常提示已完成且與現在相關。",
+      "calibrates 不符合句中的文法或固定搭配。",
+      "calibrating 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "has + 過去分詞；already 常提示已完成且與現在相關。"
+  },
+  {
+    "id": "G58",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 06",
+    "stem": "The team is responsible ___ checking the samples.",
+    "zh": "團隊負責檢查樣本。",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "固定搭配 be responsible for + 名詞或 V-ing。",
+      "to 不符合句中的文法或固定搭配。",
+      "at 不符合句中的文法或固定搭配。",
+      "with 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "固定搭配 be responsible for + 名詞或 V-ing。"
+  },
+  {
+    "id": "G59",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 06",
+    "stem": "The production team ___ not receive the revised schedule yet.",
+    "zh": "The production team還沒有收到修訂後的時程。",
+    "options": [
+      "has",
+      "have",
+      "does",
+      "is"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。",
+      "have 不符合句中的文法或固定搭配。",
+      "does 不符合句中的文法或固定搭配。",
+      "is 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。"
+  },
+  {
+    "id": "G60",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 06",
+    "stem": "Please send the signed form ___ the HR department.",
+    "zh": "請把簽好的表格寄給人資部門。",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "reasons": [
+      "send something to a recipient；to 引出接收者。",
+      "for 不符合句中的文法或固定搭配。",
+      "by 不符合句中的文法或固定搭配。",
+      "from 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "send something to a recipient；to 引出接收者。"
+  },
+  {
+    "id": "G61",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 07",
+    "stem": "The engineers ___ the equipment every Friday.",
+    "zh": "The engineers每週五更換濾網。",
+    "options": [
+      "replace",
+      "replaces",
+      "replaced",
+      "replacing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。",
+      "replaces 不符合句中的文法或固定搭配。",
+      "replaced 不符合句中的文法或固定搭配。",
+      "replacing 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。"
+  },
+  {
+    "id": "G62",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 07",
+    "stem": "Ms. Lin ___ the equipment last Friday.",
+    "zh": "Ms. Lin上週五記錄結果。",
+    "options": [
+      "record",
+      "records",
+      "recorded",
+      "recording"
+    ],
+    "answer": 2,
+    "reasons": [
+      "record 不符合句中的文法或固定搭配。",
+      "records 不符合句中的文法或固定搭配。",
+      "last Friday 是結束的過去時間，使用過去式。",
+      "recording 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "last Friday 是結束的過去時間，使用過去式。"
+  },
+  {
+    "id": "G63",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 07",
+    "stem": "The production team is ___ the equipment now.",
+    "zh": "The production team現在正在通知主管。",
+    "options": [
+      "notify",
+      "notifies",
+      "notified",
+      "notifying"
+    ],
+    "answer": 3,
+    "reasons": [
+      "notify 不符合句中的文法或固定搭配。",
+      "notifies 不符合句中的文法或固定搭配。",
+      "notified 不符合句中的文法或固定搭配。",
+      "be + V-ing 表示此刻進行中的動作。"
+    ],
+    "tip": "be + V-ing 表示此刻進行中的動作。"
+  },
+  {
+    "id": "G64",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 07",
+    "stem": "The equipment ___ before shipment yesterday.",
+    "zh": "設備昨天在出貨前被準備樣本。",
+    "options": [
+      "was prepare",
+      "was prepared",
+      "is prepared",
+      "did prepare"
+    ],
+    "answer": 1,
+    "reasons": [
+      "was prepare 不符合句中的文法或固定搭配。",
+      "被動句用 be + 過去分詞；yesterday 決定過去式 was。",
+      "is prepared 不符合句中的文法或固定搭配。",
+      "did prepare 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "被動句用 be + 過去分詞；yesterday 決定過去式 was。"
+  },
+  {
+    "id": "G65",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 07",
+    "stem": "The engineers has ___ the equipment already.",
+    "zh": "The engineers已經安排訪視設備。",
+    "options": [
+      "arrange",
+      "arranged",
+      "arranges",
+      "arranging"
+    ],
+    "answer": 1,
+    "reasons": [
+      "arrange 不符合句中的文法或固定搭配。",
+      "has + 過去分詞；already 常提示已完成且與現在相關。",
+      "arranges 不符合句中的文法或固定搭配。",
+      "arranging 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "has + 過去分詞；already 常提示已完成且與現在相關。"
+  },
+  {
+    "id": "G66",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 07",
+    "stem": "The team is responsible ___ checking the samples.",
+    "zh": "團隊負責檢查樣本。",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "固定搭配 be responsible for + 名詞或 V-ing。",
+      "to 不符合句中的文法或固定搭配。",
+      "at 不符合句中的文法或固定搭配。",
+      "with 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "固定搭配 be responsible for + 名詞或 V-ing。"
+  },
+  {
+    "id": "G67",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 07",
+    "stem": "The production team ___ not receive the revised schedule yet.",
+    "zh": "The production team還沒有收到修訂後的時程。",
+    "options": [
+      "has",
+      "have",
+      "does",
+      "is"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。",
+      "have 不符合句中的文法或固定搭配。",
+      "does 不符合句中的文法或固定搭配。",
+      "is 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。"
+  },
+  {
+    "id": "G68",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 07",
+    "stem": "Please send the signed form ___ the HR department.",
+    "zh": "請把簽好的表格寄給人資部門。",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "reasons": [
+      "send something to a recipient；to 引出接收者。",
+      "for 不符合句中的文法或固定搭配。",
+      "by 不符合句中的文法或固定搭配。",
+      "from 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "send something to a recipient；to 引出接收者。"
+  },
+  {
+    "id": "G69",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 07",
+    "stem": "The engineers ___ the equipment every Friday.",
+    "zh": "The engineers每週五檢視報告。",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。",
+      "reviews 不符合句中的文法或固定搭配。",
+      "reviewed 不符合句中的文法或固定搭配。",
+      "reviewing 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。"
+  },
+  {
+    "id": "G70",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 07",
+    "stem": "Ms. Lin ___ the equipment last Friday.",
+    "zh": "Ms. Lin上週五檢查設備。",
+    "options": [
+      "inspect",
+      "inspects",
+      "inspected",
+      "inspecting"
+    ],
+    "answer": 2,
+    "reasons": [
+      "inspect 不符合句中的文法或固定搭配。",
+      "inspects 不符合句中的文法或固定搭配。",
+      "last Friday 是結束的過去時間，使用過去式。",
+      "inspecting 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "last Friday 是結束的過去時間，使用過去式。"
+  },
+  {
+    "id": "G71",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 08",
+    "stem": "The production team is ___ the equipment now.",
+    "zh": "The production team現在正在確認交貨日期。",
+    "options": [
+      "confirm",
+      "confirms",
+      "confirmed",
+      "confirming"
+    ],
+    "answer": 3,
+    "reasons": [
+      "confirm 不符合句中的文法或固定搭配。",
+      "confirms 不符合句中的文法或固定搭配。",
+      "confirmed 不符合句中的文法或固定搭配。",
+      "be + V-ing 表示此刻進行中的動作。"
+    ],
+    "tip": "be + V-ing 表示此刻進行中的動作。"
+  },
+  {
+    "id": "G72",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 08",
+    "stem": "The equipment ___ before shipment yesterday.",
+    "zh": "設備昨天在出貨前被更新時程。",
+    "options": [
+      "was update",
+      "was updated",
+      "is updated",
+      "did update"
+    ],
+    "answer": 1,
+    "reasons": [
+      "was update 不符合句中的文法或固定搭配。",
+      "被動句用 be + 過去分詞；yesterday 決定過去式 was。",
+      "is updated 不符合句中的文法或固定搭配。",
+      "did update 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "被動句用 be + 過去分詞；yesterday 決定過去式 was。"
+  },
+  {
+    "id": "G73",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 08",
+    "stem": "The engineers has ___ the equipment already.",
+    "zh": "The engineers已經校正儀器設備。",
+    "options": [
+      "calibrate",
+      "calibrated",
+      "calibrates",
+      "calibrating"
+    ],
+    "answer": 1,
+    "reasons": [
+      "calibrate 不符合句中的文法或固定搭配。",
+      "has + 過去分詞；already 常提示已完成且與現在相關。",
+      "calibrates 不符合句中的文法或固定搭配。",
+      "calibrating 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "has + 過去分詞；already 常提示已完成且與現在相關。"
+  },
+  {
+    "id": "G74",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 08",
+    "stem": "The team is responsible ___ checking the samples.",
+    "zh": "團隊負責檢查樣本。",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "固定搭配 be responsible for + 名詞或 V-ing。",
+      "to 不符合句中的文法或固定搭配。",
+      "at 不符合句中的文法或固定搭配。",
+      "with 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "固定搭配 be responsible for + 名詞或 V-ing。"
+  },
+  {
+    "id": "G75",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 08",
+    "stem": "The production team ___ not receive the revised schedule yet.",
+    "zh": "The production team還沒有收到修訂後的時程。",
+    "options": [
+      "has",
+      "have",
+      "does",
+      "is"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。",
+      "have 不符合句中的文法或固定搭配。",
+      "does 不符合句中的文法或固定搭配。",
+      "is 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。"
+  },
+  {
+    "id": "G76",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 08",
+    "stem": "Please send the signed form ___ the HR department.",
+    "zh": "請把簽好的表格寄給人資部門。",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "reasons": [
+      "send something to a recipient；to 引出接收者。",
+      "for 不符合句中的文法或固定搭配。",
+      "by 不符合句中的文法或固定搭配。",
+      "from 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "send something to a recipient；to 引出接收者。"
+  },
+  {
+    "id": "G77",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 08",
+    "stem": "The engineers ___ the equipment every Friday.",
+    "zh": "The engineers每週五更換濾網。",
+    "options": [
+      "replace",
+      "replaces",
+      "replaced",
+      "replacing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。",
+      "replaces 不符合句中的文法或固定搭配。",
+      "replaced 不符合句中的文法或固定搭配。",
+      "replacing 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。"
+  },
+  {
+    "id": "G78",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 08",
+    "stem": "Ms. Lin ___ the equipment last Friday.",
+    "zh": "Ms. Lin上週五記錄結果。",
+    "options": [
+      "record",
+      "records",
+      "recorded",
+      "recording"
+    ],
+    "answer": 2,
+    "reasons": [
+      "record 不符合句中的文法或固定搭配。",
+      "records 不符合句中的文法或固定搭配。",
+      "last Friday 是結束的過去時間，使用過去式。",
+      "recording 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "last Friday 是結束的過去時間，使用過去式。"
+  },
+  {
+    "id": "G79",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 08",
+    "stem": "The production team is ___ the equipment now.",
+    "zh": "The production team現在正在通知主管。",
+    "options": [
+      "notify",
+      "notifies",
+      "notified",
+      "notifying"
+    ],
+    "answer": 3,
+    "reasons": [
+      "notify 不符合句中的文法或固定搭配。",
+      "notifies 不符合句中的文法或固定搭配。",
+      "notified 不符合句中的文法或固定搭配。",
+      "be + V-ing 表示此刻進行中的動作。"
+    ],
+    "tip": "be + V-ing 表示此刻進行中的動作。"
+  },
+  {
+    "id": "G80",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 08",
+    "stem": "The equipment ___ before shipment yesterday.",
+    "zh": "設備昨天在出貨前被準備樣本。",
+    "options": [
+      "was prepare",
+      "was prepared",
+      "is prepared",
+      "did prepare"
+    ],
+    "answer": 1,
+    "reasons": [
+      "was prepare 不符合句中的文法或固定搭配。",
+      "被動句用 be + 過去分詞；yesterday 決定過去式 was。",
+      "is prepared 不符合句中的文法或固定搭配。",
+      "did prepare 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "被動句用 be + 過去分詞；yesterday 決定過去式 was。"
+  },
+  {
+    "id": "G81",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 09",
+    "stem": "The engineers has ___ the equipment already.",
+    "zh": "The engineers已經安排訪視設備。",
+    "options": [
+      "arrange",
+      "arranged",
+      "arranges",
+      "arranging"
+    ],
+    "answer": 1,
+    "reasons": [
+      "arrange 不符合句中的文法或固定搭配。",
+      "has + 過去分詞；already 常提示已完成且與現在相關。",
+      "arranges 不符合句中的文法或固定搭配。",
+      "arranging 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "has + 過去分詞；already 常提示已完成且與現在相關。"
+  },
+  {
+    "id": "G82",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 09",
+    "stem": "The team is responsible ___ checking the samples.",
+    "zh": "團隊負責檢查樣本。",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "固定搭配 be responsible for + 名詞或 V-ing。",
+      "to 不符合句中的文法或固定搭配。",
+      "at 不符合句中的文法或固定搭配。",
+      "with 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "固定搭配 be responsible for + 名詞或 V-ing。"
+  },
+  {
+    "id": "G83",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 09",
+    "stem": "The production team ___ not receive the revised schedule yet.",
+    "zh": "The production team還沒有收到修訂後的時程。",
+    "options": [
+      "has",
+      "have",
+      "does",
+      "is"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。",
+      "have 不符合句中的文法或固定搭配。",
+      "does 不符合句中的文法或固定搭配。",
+      "is 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。"
+  },
+  {
+    "id": "G84",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 09",
+    "stem": "Please send the signed form ___ the HR department.",
+    "zh": "請把簽好的表格寄給人資部門。",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "reasons": [
+      "send something to a recipient；to 引出接收者。",
+      "for 不符合句中的文法或固定搭配。",
+      "by 不符合句中的文法或固定搭配。",
+      "from 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "send something to a recipient；to 引出接收者。"
+  },
+  {
+    "id": "G85",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 09",
+    "stem": "The engineers ___ the equipment every Friday.",
+    "zh": "The engineers每週五檢視報告。",
+    "options": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。",
+      "reviews 不符合句中的文法或固定搭配。",
+      "reviewed 不符合句中的文法或固定搭配。",
+      "reviewing 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。"
+  },
+  {
+    "id": "G86",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 09",
+    "stem": "Ms. Lin ___ the equipment last Friday.",
+    "zh": "Ms. Lin上週五檢查設備。",
+    "options": [
+      "inspect",
+      "inspects",
+      "inspected",
+      "inspecting"
+    ],
+    "answer": 2,
+    "reasons": [
+      "inspect 不符合句中的文法或固定搭配。",
+      "inspects 不符合句中的文法或固定搭配。",
+      "last Friday 是結束的過去時間，使用過去式。",
+      "inspecting 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "last Friday 是結束的過去時間，使用過去式。"
+  },
+  {
+    "id": "G87",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 09",
+    "stem": "The production team is ___ the equipment now.",
+    "zh": "The production team現在正在確認交貨日期。",
+    "options": [
+      "confirm",
+      "confirms",
+      "confirmed",
+      "confirming"
+    ],
+    "answer": 3,
+    "reasons": [
+      "confirm 不符合句中的文法或固定搭配。",
+      "confirms 不符合句中的文法或固定搭配。",
+      "confirmed 不符合句中的文法或固定搭配。",
+      "be + V-ing 表示此刻進行中的動作。"
+    ],
+    "tip": "be + V-ing 表示此刻進行中的動作。"
+  },
+  {
+    "id": "G88",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 09",
+    "stem": "The equipment ___ before shipment yesterday.",
+    "zh": "設備昨天在出貨前被更新時程。",
+    "options": [
+      "was update",
+      "was updated",
+      "is updated",
+      "did update"
+    ],
+    "answer": 1,
+    "reasons": [
+      "was update 不符合句中的文法或固定搭配。",
+      "被動句用 be + 過去分詞；yesterday 決定過去式 was。",
+      "is updated 不符合句中的文法或固定搭配。",
+      "did update 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "被動句用 be + 過去分詞；yesterday 決定過去式 was。"
+  },
+  {
+    "id": "G89",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 09",
+    "stem": "The engineers has ___ the equipment already.",
+    "zh": "The engineers已經校正儀器設備。",
+    "options": [
+      "calibrate",
+      "calibrated",
+      "calibrates",
+      "calibrating"
+    ],
+    "answer": 1,
+    "reasons": [
+      "calibrate 不符合句中的文法或固定搭配。",
+      "has + 過去分詞；already 常提示已完成且與現在相關。",
+      "calibrates 不符合句中的文法或固定搭配。",
+      "calibrating 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "has + 過去分詞；already 常提示已完成且與現在相關。"
+  },
+  {
+    "id": "G90",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 09",
+    "stem": "The team is responsible ___ checking the samples.",
+    "zh": "團隊負責檢查樣本。",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "固定搭配 be responsible for + 名詞或 V-ing。",
+      "to 不符合句中的文法或固定搭配。",
+      "at 不符合句中的文法或固定搭配。",
+      "with 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "固定搭配 be responsible for + 名詞或 V-ing。"
+  },
+  {
+    "id": "G91",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 10",
+    "stem": "The production team ___ not receive the revised schedule yet.",
+    "zh": "The production team還沒有收到修訂後的時程。",
+    "options": [
+      "has",
+      "have",
+      "does",
+      "is"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。",
+      "have 不符合句中的文法或固定搭配。",
+      "does 不符合句中的文法或固定搭配。",
+      "is 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。"
+  },
+  {
+    "id": "G92",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 10",
+    "stem": "Please send the signed form ___ the HR department.",
+    "zh": "請把簽好的表格寄給人資部門。",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "reasons": [
+      "send something to a recipient；to 引出接收者。",
+      "for 不符合句中的文法或固定搭配。",
+      "by 不符合句中的文法或固定搭配。",
+      "from 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "send something to a recipient；to 引出接收者。"
+  },
+  {
+    "id": "G93",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 10",
+    "stem": "The engineers ___ the equipment every Friday.",
+    "zh": "The engineers每週五更換濾網。",
+    "options": [
+      "replace",
+      "replaces",
+      "replaced",
+      "replacing"
+    ],
+    "answer": 0,
+    "reasons": [
+      "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。",
+      "replaces 不符合句中的文法或固定搭配。",
+      "replaced 不符合句中的文法或固定搭配。",
+      "replacing 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。"
+  },
+  {
+    "id": "G94",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 10",
+    "stem": "Ms. Lin ___ the equipment last Friday.",
+    "zh": "Ms. Lin上週五記錄結果。",
+    "options": [
+      "record",
+      "records",
+      "recorded",
+      "recording"
+    ],
+    "answer": 2,
+    "reasons": [
+      "record 不符合句中的文法或固定搭配。",
+      "records 不符合句中的文法或固定搭配。",
+      "last Friday 是結束的過去時間，使用過去式。",
+      "recording 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "last Friday 是結束的過去時間，使用過去式。"
+  },
+  {
+    "id": "G95",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 10",
+    "stem": "The production team is ___ the equipment now.",
+    "zh": "The production team現在正在通知主管。",
+    "options": [
+      "notify",
+      "notifies",
+      "notified",
+      "notifying"
+    ],
+    "answer": 3,
+    "reasons": [
+      "notify 不符合句中的文法或固定搭配。",
+      "notifies 不符合句中的文法或固定搭配。",
+      "notified 不符合句中的文法或固定搭配。",
+      "be + V-ing 表示此刻進行中的動作。"
+    ],
+    "tip": "be + V-ing 表示此刻進行中的動作。"
+  },
+  {
+    "id": "G96",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 10",
+    "stem": "The equipment ___ before shipment yesterday.",
+    "zh": "設備昨天在出貨前被準備樣本。",
+    "options": [
+      "was prepare",
+      "was prepared",
+      "is prepared",
+      "did prepare"
+    ],
+    "answer": 1,
+    "reasons": [
+      "was prepare 不符合句中的文法或固定搭配。",
+      "被動句用 be + 過去分詞；yesterday 決定過去式 was。",
+      "is prepared 不符合句中的文法或固定搭配。",
+      "did prepare 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "被動句用 be + 過去分詞；yesterday 決定過去式 was。"
+  },
+  {
+    "id": "G97",
+    "kind": "文法",
+    "topic": "時態",
+    "set": "文法練習 10",
+    "stem": "The engineers has ___ the equipment already.",
+    "zh": "The engineers已經安排訪視設備。",
+    "options": [
+      "arrange",
+      "arranged",
+      "arranges",
+      "arranging"
+    ],
+    "answer": 1,
+    "reasons": [
+      "arrange 不符合句中的文法或固定搭配。",
+      "has + 過去分詞；already 常提示已完成且與現在相關。",
+      "arranges 不符合句中的文法或固定搭配。",
+      "arranging 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "has + 過去分詞；already 常提示已完成且與現在相關。"
+  },
+  {
+    "id": "G98",
+    "kind": "文法",
+    "topic": "被動語態",
+    "set": "文法練習 10",
+    "stem": "The team is responsible ___ checking the samples.",
+    "zh": "團隊負責檢查樣本。",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "reasons": [
+      "固定搭配 be responsible for + 名詞或 V-ing。",
+      "to 不符合句中的文法或固定搭配。",
+      "at 不符合句中的文法或固定搭配。",
+      "with 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "固定搭配 be responsible for + 名詞或 V-ing。"
+  },
+  {
+    "id": "G99",
+    "kind": "文法",
+    "topic": "介系詞",
+    "set": "文法練習 10",
+    "stem": "The production team ___ not receive the revised schedule yet.",
+    "zh": "The production team還沒有收到修訂後的時程。",
+    "options": [
+      "has",
+      "have",
+      "does",
+      "is"
+    ],
+    "answer": 0,
+    "reasons": [
+      "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。",
+      "have 不符合句中的文法或固定搭配。",
+      "does 不符合句中的文法或固定搭配。",
+      "is 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。"
+  },
+  {
+    "id": "G100",
+    "kind": "文法",
+    "topic": "完成式",
+    "set": "文法練習 10",
+    "stem": "Please send the signed form ___ the HR department.",
+    "zh": "請把簽好的表格寄給人資部門。",
+    "options": [
+      "to",
+      "for",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "reasons": [
+      "send something to a recipient；to 引出接收者。",
+      "for 不符合句中的文法或固定搭配。",
+      "by 不符合句中的文法或固定搭配。",
+      "from 不符合句中的文法或固定搭配。"
+    ],
+    "tip": "send something to a recipient；to 引出接收者。"
   }
 ]

@@ -1,4 +1,4 @@
-# 閱讀與段落填空：12 題組、48 題
+# 閱讀與段落填空：25 個閱讀題組、100 題閱讀、8 題段落填空
 
 原創教學情境，非真實公司公告。先讀英文作答，再看翻譯與證據；每題四選一。
 
@@ -1714,5 +1714,2090 @@ D. Your order was delivered in full last week.
 - D：與今天不能全寄矛盾。
 
 記法：yesterday 管第一空；因此管第二空；your reply 需要前面的回覆請求。
+
+</details>
+
+## R11 Equipment Maintenance
+
+基礎 · Maintenance notice
+
+The packaging line will stop at 6:00 p.m. on Thursday for scheduled maintenance. Technicians will replace the conveyor belt and test the emergency stop. The line is expected to reopen at 9:00 p.m. Production staff should move unfinished cartons to Line 2 before 5:30 p.m. Contact Mei Chen if the shutdown affects an urgent order.
+
+<details>
+<summary>查看全文中文</summary>
+
+週四下午六點包裝線將因定期維護停機。技術員會更換輸送帶並測試緊急停止裝置，預計晚上九點恢復。生產人員應在五點半前把未完成紙箱移到二號線。若停機影響急件，請聯絡陳美。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R11-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. model AB-9
+
+B. Thursday
+
+C. Tuesday
+
+D. the south gate
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · Thursday
+
+- A：原文沒有提到「model AB-9」。
+
+- B：原文直接提到「Thursday」。
+
+- C：原文沒有提到「Tuesday」。
+
+- D：原文沒有提到「the south gate」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R11-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. Line 2
+
+B. the finance director
+
+C. six business days
+
+D. Line 4
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · Line 2
+
+- A：原文直接提到「Line 2」。
+
+- B：原文沒有提到「the finance director」。
+
+- C：原文沒有提到「six business days」。
+
+- D：原文沒有提到「Line 4」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R11-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. Room F
+
+B. the procurement office
+
+C. 12:30 p.m.
+
+D. 9:00 p.m.
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · 9:00 p.m.
+
+- A：原文沒有提到「Room F」。
+
+- B：原文沒有提到「the procurement office」。
+
+- C：原文沒有提到「12:30 p.m.」。
+
+- D：原文直接提到「9:00 p.m.」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R11-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. the west lot
+
+B. a second inspection
+
+C. Mei Chen
+
+D. $750
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · Mei Chen
+
+- A：原文沒有提到「the west lot」。
+
+- B：原文沒有提到「a second inspection」。
+
+- C：原文直接提到「Mei Chen」。
+
+- D：原文沒有提到「$750」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R12 Supplier Delivery
+
+基礎 · Delivery update
+
+Bright Components has moved order BC-4821 from Monday to Wednesday, October 14. The shipment contains 240 optical sensors and will arrive at the north receiving dock between 10:00 and 11:00 a.m. The receiving team must compare the packing list with the purchase order before signing. Report damaged cartons to the driver and the buyer on duty.
+
+<details>
+<summary>查看全文中文</summary>
+
+Bright Components 將 BC-4821 訂單從週一改至 10 月 14 日週三。貨物包含 240 個光學感測器，將於上午十點至十一點抵達北側收貨碼頭。收貨組簽收前必須核對裝箱單與採購單。若紙箱受損，請通知司機與值班採購員。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R12-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. October 14
+
+B. Tuesday
+
+C. the south gate
+
+D. model AB-9
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · October 14
+
+- A：原文直接提到「October 14」。
+
+- B：原文沒有提到「Tuesday」。
+
+- C：原文沒有提到「the south gate」。
+
+- D：原文沒有提到「model AB-9」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R12-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. the finance director
+
+B. six business days
+
+C. Line 4
+
+D. 240 optical sensors
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · 240 optical sensors
+
+- A：原文沒有提到「the finance director」。
+
+- B：原文沒有提到「six business days」。
+
+- C：原文沒有提到「Line 4」。
+
+- D：原文直接提到「240 optical sensors」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R12-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. the procurement office
+
+B. 12:30 p.m.
+
+C. north receiving dock
+
+D. Room F
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · north receiving dock
+
+- A：原文沒有提到「the procurement office」。
+
+- B：原文沒有提到「12:30 p.m.」。
+
+- C：原文直接提到「north receiving dock」。
+
+- D：原文沒有提到「Room F」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R12-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. a second inspection
+
+B. the buyer on duty
+
+C. $750
+
+D. the west lot
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · the buyer on duty
+
+- A：原文沒有提到「a second inspection」。
+
+- B：原文直接提到「the buyer on duty」。
+
+- C：原文沒有提到「$750」。
+
+- D：原文沒有提到「the west lot」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R13 Training Session
+
+基礎 · Training email
+
+A safety refresher will be held in Conference Room B on Tuesday, November 3, from 2:00 to 3:30 p.m. All new operators must attend. Experienced staff may join online using the link in the calendar invitation. Participants should bring their badge but do not need safety shoes because the session is classroom-based. Registration closes at noon on Friday.
+
+<details>
+<summary>查看全文中文</summary>
+
+安全複訓將於 11 月 3 日週二下午兩點至三點半在 B 會議室舉行。所有新進操作員都必須參加。資深員工可使用行事曆邀請中的連結線上參加。參加者應帶識別證；因為是教室課程，不需要安全鞋。週五中午截止報名。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R13-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. the south gate
+
+B. model AB-9
+
+C. the finance director
+
+D. November 3
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · November 3
+
+- A：原文沒有提到「the south gate」。
+
+- B：原文沒有提到「model AB-9」。
+
+- C：原文沒有提到「the finance director」。
+
+- D：原文直接提到「November 3」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R13-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. Line 4
+
+B. Room F
+
+C. Conference Room B
+
+D. six business days
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · Conference Room B
+
+- A：原文沒有提到「Line 4」。
+
+- B：原文沒有提到「Room F」。
+
+- C：原文直接提到「Conference Room B」。
+
+- D：原文沒有提到「six business days」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R13-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. $750
+
+B. new operators
+
+C. the procurement office
+
+D. 12:30 p.m.
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · new operators
+
+- A：原文沒有提到「$750」。
+
+- B：原文直接提到「new operators」。
+
+- C：原文沒有提到「the procurement office」。
+
+- D：原文沒有提到「12:30 p.m.」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R13-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. Friday at noon
+
+B. the west lot
+
+C. a second inspection
+
+D. a ten-minute break
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · Friday at noon
+
+- A：原文直接提到「Friday at noon」。
+
+- B：原文沒有提到「the west lot」。
+
+- C：原文沒有提到「a second inspection」。
+
+- D：原文沒有提到「a ten-minute break」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R14 Visitor Access
+
+基礎 · Visitor instructions
+
+Visitors entering Building 5 must check in at the west lobby and show a photo ID. Their host will meet them there at 8:45 a.m. Safety glasses are available at reception. The cleanroom tour begins at 9:00 a.m. and lasts 40 minutes. Visitors may take notes, but photography is not allowed. Late arrivals should call extension 224.
+
+<details>
+<summary>查看全文中文</summary>
+
+進入五號樓的訪客必須在西側大廳登記並出示有照片的證件。接待人會在上午八點四十五分於此會合。櫃台備有護目鏡。無塵室導覽九點開始，為時四十分鐘。訪客可以做筆記，但不可拍照。遲到者請打分機 224。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R14-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. the south gate
+
+B. model AB-9
+
+C. west lobby
+
+D. Tuesday
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · west lobby
+
+- A：原文沒有提到「the south gate」。
+
+- B：原文沒有提到「model AB-9」。
+
+- C：原文直接提到「west lobby」。
+
+- D：原文沒有提到「Tuesday」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R14-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. Line 4
+
+B. 8:45 a.m.
+
+C. the finance director
+
+D. six business days
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · 8:45 a.m.
+
+- A：原文沒有提到「Line 4」。
+
+- B：原文直接提到「8:45 a.m.」。
+
+- C：原文沒有提到「the finance director」。
+
+- D：原文沒有提到「six business days」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R14-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. 40 minutes
+
+B. Room F
+
+C. the procurement office
+
+D. 12:30 p.m.
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · 40 minutes
+
+- A：原文直接提到「40 minutes」。
+
+- B：原文沒有提到「Room F」。
+
+- C：原文沒有提到「the procurement office」。
+
+- D：原文沒有提到「12:30 p.m.」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R14-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. $750
+
+B. the west lot
+
+C. a second inspection
+
+D. extension 224
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · extension 224
+
+- A：原文沒有提到「$750」。
+
+- B：原文沒有提到「the west lot」。
+
+- C：原文沒有提到「a second inspection」。
+
+- D：原文直接提到「extension 224」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R15 Inventory Count
+
+基礎 · Inventory memo
+
+The annual inventory count for electronic components starts on Saturday, December 12. Teams A and B will count storage zones 1 through 4; Team C will check finished goods. Each team must scan the item label and record the quantity in the shared spreadsheet. Do not move boxes during the count. The warehouse closes at 4:00 p.m., and the report is due to Finance on Monday.
+
+<details>
+<summary>查看全文中文</summary>
+
+電子零件年度盤點將於 12 月 12 日週六開始。A、B 組盤點一至四區；C 組檢查成品。各組必須掃描品項標籤，並將數量記錄在共用試算表中。盤點期間不可移動箱子。倉庫下午四點關閉，報告須於週一交給財務部。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R15-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. model AB-9
+
+B. December 12
+
+C. Tuesday
+
+D. the south gate
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · December 12
+
+- A：原文沒有提到「model AB-9」。
+
+- B：原文直接提到「December 12」。
+
+- C：原文沒有提到「Tuesday」。
+
+- D：原文沒有提到「the south gate」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R15-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. Teams A and B
+
+B. the finance director
+
+C. six business days
+
+D. Line 4
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · Teams A and B
+
+- A：原文直接提到「Teams A and B」。
+
+- B：原文沒有提到「the finance director」。
+
+- C：原文沒有提到「six business days」。
+
+- D：原文沒有提到「Line 4」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R15-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. Room F
+
+B. the procurement office
+
+C. 12:30 p.m.
+
+D. shared spreadsheet
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · shared spreadsheet
+
+- A：原文沒有提到「Room F」。
+
+- B：原文沒有提到「the procurement office」。
+
+- C：原文沒有提到「12:30 p.m.」。
+
+- D：原文直接提到「shared spreadsheet」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R15-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. the west lot
+
+B. a second inspection
+
+C. Monday
+
+D. $750
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · Monday
+
+- A：原文沒有提到「the west lot」。
+
+- B：原文沒有提到「a second inspection」。
+
+- C：原文直接提到「Monday」。
+
+- D：原文沒有提到「$750」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R16 Quality Alert
+
+基礎 · Quality bulletin
+
+Quality staff found scratches on 18 aluminum housings from lot AH-77. The affected units are stored on shelf Q3 and must not be sent to assembly. The supplier will inspect the remaining 62 housings on Wednesday. Until the inspection is complete, use lot AH-81 for urgent production. Send photographs of any additional defects to quality@fab.example.
+
+<details>
+<summary>查看全文中文</summary>
+
+品管人員在 AH-77 批次的 18 個鋁外殼上發現刮痕。受影響的品項存放於 Q3 架，不得送往組裝。供應商將於週三檢查其餘 62 個外殼。檢查完成前，急件生產請使用 AH-81 批次。若發現其他瑕疵，請將照片寄至 quality@fab.example。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R16-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. 18 aluminum housings
+
+B. Tuesday
+
+C. the south gate
+
+D. model AB-9
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · 18 aluminum housings
+
+- A：原文直接提到「18 aluminum housings」。
+
+- B：原文沒有提到「Tuesday」。
+
+- C：原文沒有提到「the south gate」。
+
+- D：原文沒有提到「model AB-9」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R16-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. the finance director
+
+B. six business days
+
+C. Line 4
+
+D. shelf Q3
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · shelf Q3
+
+- A：原文沒有提到「the finance director」。
+
+- B：原文沒有提到「six business days」。
+
+- C：原文沒有提到「Line 4」。
+
+- D：原文直接提到「shelf Q3」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R16-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. the procurement office
+
+B. 12:30 p.m.
+
+C. Wednesday
+
+D. Room F
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · Wednesday
+
+- A：原文沒有提到「the procurement office」。
+
+- B：原文沒有提到「12:30 p.m.」。
+
+- C：原文直接提到「Wednesday」。
+
+- D：原文沒有提到「Room F」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R16-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. a second inspection
+
+B. AH-81
+
+C. $750
+
+D. the west lot
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · AH-81
+
+- A：原文沒有提到「a second inspection」。
+
+- B：原文直接提到「AH-81」。
+
+- C：原文沒有提到「$750」。
+
+- D：原文沒有提到「the west lot」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R17 Office Relocation
+
+基礎 · Relocation notice
+
+The purchasing department will move to the second floor on August 1. Employees should pack personal items by July 29; labeled boxes will be moved by the facilities team. The department phone number will remain unchanged. For two days, visitors should use the temporary meeting area beside Reception. Updated desk assignments are posted on the intranet.
+
+<details>
+<summary>查看全文中文</summary>
+
+採購部將於 8 月 1 日搬至二樓。員工應於 7 月 29 日前整理個人物品，設施組會搬運貼好標籤的箱子。部門電話號碼不變。兩天期間，訪客請使用接待處旁的臨時會議區。更新後的座位安排已公告於內部網站。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R17-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. Tuesday
+
+B. the south gate
+
+C. model AB-9
+
+D. August 1
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · August 1
+
+- A：原文沒有提到「Tuesday」。
+
+- B：原文沒有提到「the south gate」。
+
+- C：原文沒有提到「model AB-9」。
+
+- D：原文直接提到「August 1」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R17-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. six business days
+
+B. Line 4
+
+C. July 29
+
+D. the finance director
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · July 29
+
+- A：原文沒有提到「six business days」。
+
+- B：原文沒有提到「Line 4」。
+
+- C：原文直接提到「July 29」。
+
+- D：原文沒有提到「the finance director」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R17-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. 12:30 p.m.
+
+B. facilities team
+
+C. Room F
+
+D. the procurement office
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · facilities team
+
+- A：原文沒有提到「12:30 p.m.」。
+
+- B：原文直接提到「facilities team」。
+
+- C：原文沒有提到「Room F」。
+
+- D：原文沒有提到「the procurement office」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R17-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. the intranet
+
+B. $750
+
+C. the west lot
+
+D. a second inspection
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · the intranet
+
+- A：原文直接提到「the intranet」。
+
+- B：原文沒有提到「$750」。
+
+- C：原文沒有提到「the west lot」。
+
+- D：原文沒有提到「a second inspection」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R18 Travel Policy
+
+基礎 · Travel policy update
+
+Beginning next month, employees traveling more than 80 kilometers may request a company car. Requests must be submitted to Administration at least three business days before departure. Taxi fares require a receipt, and meal costs are reimbursed up to NT$500 per day. Hotel reservations should use the approved booking portal. Contact Daniel Wu with policy questions.
+
+<details>
+<summary>查看全文中文</summary>
+
+從下個月起，出差距離超過 80 公里的員工可申請公司車。申請須在出發前三個工作天送交行政部。計程車費須附收據，每日餐費最高補助新台幣 500 元。飯店訂房應使用核准的預訂入口網站。政策問題請聯絡吳丹尼爾。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R18-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. the south gate
+
+B. model AB-9
+
+C. 80 kilometers
+
+D. Tuesday
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · 80 kilometers
+
+- A：原文沒有提到「the south gate」。
+
+- B：原文沒有提到「model AB-9」。
+
+- C：原文直接提到「80 kilometers」。
+
+- D：原文沒有提到「Tuesday」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R18-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. Line 4
+
+B. three business days
+
+C. the finance director
+
+D. six business days
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · three business days
+
+- A：原文沒有提到「Line 4」。
+
+- B：原文直接提到「three business days」。
+
+- C：原文沒有提到「the finance director」。
+
+- D：原文沒有提到「six business days」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R18-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. NT$500 per day
+
+B. Room F
+
+C. the procurement office
+
+D. 12:30 p.m.
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · NT$500 per day
+
+- A：原文直接提到「NT$500 per day」。
+
+- B：原文沒有提到「Room F」。
+
+- C：原文沒有提到「the procurement office」。
+
+- D：原文沒有提到「12:30 p.m.」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R18-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. $750
+
+B. the west lot
+
+C. a second inspection
+
+D. Daniel Wu
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · Daniel Wu
+
+- A：原文沒有提到「$750」。
+
+- B：原文沒有提到「the west lot」。
+
+- C：原文沒有提到「a second inspection」。
+
+- D：原文直接提到「Daniel Wu」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R19 Production Schedule
+
+基礎 · Shift schedule
+
+On Monday, Assembly Line 3 will run the Model K units from 7:00 a.m. until 3:00 p.m. The afternoon shift will assemble Model M. Line 2 is reserved for urgent repairs and will not run new orders. Team leaders should confirm staffing by Friday and report shortages to Operations. A revised schedule will be posted near the time clock.
+
+<details>
+<summary>查看全文中文</summary>
+
+週一，三號組裝線將於上午七點至下午三點生產 K 型產品。下午班組裝 M 型產品。二號線保留給緊急維修，不會生產新訂單。組長應於週五前確認人力，並向營運部回報缺額。修訂後的時程會張貼在打卡鐘旁。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R19-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. model AB-9
+
+B. Model K units
+
+C. Tuesday
+
+D. the south gate
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · Model K units
+
+- A：原文沒有提到「model AB-9」。
+
+- B：原文直接提到「Model K units」。
+
+- C：原文沒有提到「Tuesday」。
+
+- D：原文沒有提到「the south gate」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R19-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. Model M
+
+B. the finance director
+
+C. six business days
+
+D. Line 4
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · Model M
+
+- A：原文直接提到「Model M」。
+
+- B：原文沒有提到「the finance director」。
+
+- C：原文沒有提到「six business days」。
+
+- D：原文沒有提到「Line 4」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R19-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. Room F
+
+B. the procurement office
+
+C. 12:30 p.m.
+
+D. urgent repairs
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · urgent repairs
+
+- A：原文沒有提到「Room F」。
+
+- B：原文沒有提到「the procurement office」。
+
+- C：原文沒有提到「12:30 p.m.」。
+
+- D：原文直接提到「urgent repairs」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R19-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. the west lot
+
+B. a second inspection
+
+C. Friday
+
+D. $750
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · Friday
+
+- A：原文沒有提到「the west lot」。
+
+- B：原文沒有提到「a second inspection」。
+
+- C：原文直接提到「Friday」。
+
+- D：原文沒有提到「$750」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R20 Expense Claims
+
+基礎 · Finance reminder
+
+Expense claims for September are due by October 5. Employees must attach digital receipts and select the correct project code. Claims over NT$10,000 require a manager’s approval. Finance will return incomplete forms within two business days. Reimbursements are scheduled for October 20. Questions about the online system should be sent to the Finance help desk.
+
+<details>
+<summary>查看全文中文</summary>
+
+九月份費用申請須於 10 月 5 日前送出。員工必須附上電子收據並選擇正確的專案代碼。超過新台幣 10,000 元的申請需要主管核准。財務部會在兩個工作天內退回未填完整的表單。款項預計 10 月 20 日支付。線上系統問題請洽財務服務台。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R20-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. October 5
+
+B. Tuesday
+
+C. the south gate
+
+D. model AB-9
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · October 5
+
+- A：原文直接提到「October 5」。
+
+- B：原文沒有提到「Tuesday」。
+
+- C：原文沒有提到「the south gate」。
+
+- D：原文沒有提到「model AB-9」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R20-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. the finance director
+
+B. six business days
+
+C. Line 4
+
+D. digital receipts
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · digital receipts
+
+- A：原文沒有提到「the finance director」。
+
+- B：原文沒有提到「six business days」。
+
+- C：原文沒有提到「Line 4」。
+
+- D：原文直接提到「digital receipts」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R20-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. the procurement office
+
+B. 12:30 p.m.
+
+C. NT$10,000
+
+D. Room F
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · NT$10,000
+
+- A：原文沒有提到「the procurement office」。
+
+- B：原文沒有提到「12:30 p.m.」。
+
+- C：原文直接提到「NT$10,000」。
+
+- D：原文沒有提到「Room F」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R20-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. a second inspection
+
+B. October 20
+
+C. $750
+
+D. the west lot
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · October 20
+
+- A：原文沒有提到「a second inspection」。
+
+- B：原文直接提到「October 20」。
+
+- C：原文沒有提到「$750」。
+
+- D：原文沒有提到「the west lot」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R21 Document Control
+
+基礎 · Document control email
+
+Revision 6 of procedure QC-14 is available in the document portal. It replaces Revision 5, which should be removed from workstations by Friday. The new version adds a step for recording calibration results. Supervisors must brief their teams before the next audit. Printed copies are uncontrolled; always check the portal for the current revision.
+
+<details>
+<summary>查看全文中文</summary>
+
+文件入口網站已提供 QC-14 程序第六版，取代第五版；第五版應於週五前從工作站移除。新版新增記錄校正結果的步驟。主管必須在下次稽核前向團隊說明。紙本副本不受控，請務必至入口網站確認目前版本。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R21-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. Tuesday
+
+B. the south gate
+
+C. model AB-9
+
+D. Revision 6
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · Revision 6
+
+- A：原文沒有提到「Tuesday」。
+
+- B：原文沒有提到「the south gate」。
+
+- C：原文沒有提到「model AB-9」。
+
+- D：原文直接提到「Revision 6」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R21-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. six business days
+
+B. Line 4
+
+C. Friday
+
+D. the finance director
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · Friday
+
+- A：原文沒有提到「six business days」。
+
+- B：原文沒有提到「Line 4」。
+
+- C：原文直接提到「Friday」。
+
+- D：原文沒有提到「the finance director」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R21-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. 12:30 p.m.
+
+B. calibration results
+
+C. Room F
+
+D. the procurement office
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · calibration results
+
+- A：原文沒有提到「12:30 p.m.」。
+
+- B：原文直接提到「calibration results」。
+
+- C：原文沒有提到「Room F」。
+
+- D：原文沒有提到「the procurement office」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R21-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. the document portal
+
+B. $750
+
+C. the west lot
+
+D. a second inspection
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · the document portal
+
+- A：原文直接提到「the document portal」。
+
+- B：原文沒有提到「$750」。
+
+- C：原文沒有提到「the west lot」。
+
+- D：原文沒有提到「a second inspection」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R22 Parking Notice
+
+基礎 · Facility notice
+
+The east parking lot will be closed from May 10 through May 12 for resurfacing. Employees may park in the visitor lot after 6:00 p.m. or use the shuttle from Gate 2. The shuttle leaves every 15 minutes during the morning shift. Bicycles should be placed in the covered rack near the cafeteria. The lot reopens at 7:00 a.m. on May 13.
+
+<details>
+<summary>查看全文中文</summary>
+
+東側停車場將於 5 月 10 日至 12 日因重新鋪面而關閉。員工可在下午六點後停入訪客停車場，或從二號門搭乘接駁車。早班期間接駁車每 15 分鐘一班。腳踏車請停在餐廳附近的有遮棚車架。停車場於 5 月 13 日上午七點重新開放。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R22-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. the south gate
+
+B. model AB-9
+
+C. May 10 through May 12
+
+D. Tuesday
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · May 10 through May 12
+
+- A：原文沒有提到「the south gate」。
+
+- B：原文沒有提到「model AB-9」。
+
+- C：原文直接提到「May 10 through May 12」。
+
+- D：原文沒有提到「Tuesday」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R22-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. Line 4
+
+B. visitor lot
+
+C. the finance director
+
+D. six business days
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · visitor lot
+
+- A：原文沒有提到「Line 4」。
+
+- B：原文直接提到「visitor lot」。
+
+- C：原文沒有提到「the finance director」。
+
+- D：原文沒有提到「six business days」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R22-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. every 15 minutes
+
+B. Room F
+
+C. the procurement office
+
+D. 12:30 p.m.
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · every 15 minutes
+
+- A：原文直接提到「every 15 minutes」。
+
+- B：原文沒有提到「Room F」。
+
+- C：原文沒有提到「the procurement office」。
+
+- D：原文沒有提到「12:30 p.m.」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R22-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. $750
+
+B. the west lot
+
+C. a second inspection
+
+D. May 13
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · May 13
+
+- A：原文沒有提到「$750」。
+
+- B：原文沒有提到「the west lot」。
+
+- C：原文沒有提到「a second inspection」。
+
+- D：原文直接提到「May 13」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R23 Customer Visit
+
+基礎 · Visit agenda
+
+A customer audit is scheduled for Thursday, April 16. The visitors will arrive at 9:30 a.m. and review the incoming inspection process before lunch. The afternoon session covers corrective actions and will take place in Meeting Room 4. Please send the latest defect trend chart to the account manager by Wednesday. Lunch will be provided in the cafeteria.
+
+<details>
+<summary>查看全文中文</summary>
+
+客戶稽核訂於 4 月 16 日週四。訪客上午九點半抵達，午餐前檢視進料檢驗流程。下午場次討論矯正措施，地點為四號會議室。請於週三前將最新瑕疵趨勢圖寄給客戶經理。午餐在餐廳提供。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R23-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. model AB-9
+
+B. Thursday, April 16
+
+C. Tuesday
+
+D. the south gate
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · Thursday, April 16
+
+- A：原文沒有提到「model AB-9」。
+
+- B：原文直接提到「Thursday, April 16」。
+
+- C：原文沒有提到「Tuesday」。
+
+- D：原文沒有提到「the south gate」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R23-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. 9:30 a.m.
+
+B. the finance director
+
+C. six business days
+
+D. Line 4
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · 9:30 a.m.
+
+- A：原文直接提到「9:30 a.m.」。
+
+- B：原文沒有提到「the finance director」。
+
+- C：原文沒有提到「six business days」。
+
+- D：原文沒有提到「Line 4」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R23-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. Room F
+
+B. the procurement office
+
+C. 12:30 p.m.
+
+D. Meeting Room 4
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · Meeting Room 4
+
+- A：原文沒有提到「Room F」。
+
+- B：原文沒有提到「the procurement office」。
+
+- C：原文沒有提到「12:30 p.m.」。
+
+- D：原文直接提到「Meeting Room 4」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R23-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. the west lot
+
+B. a second inspection
+
+C. Wednesday
+
+D. $750
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · Wednesday
+
+- A：原文沒有提到「the west lot」。
+
+- B：原文沒有提到「a second inspection」。
+
+- C：原文直接提到「Wednesday」。
+
+- D：原文沒有提到「$750」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R24 Cleanroom Supplies
+
+基礎 · Supply update
+
+A shipment of gloves and masks arrived this morning. The gloves are stored in cabinet C-12, while masks are available at each cleanroom entrance. The current glove size M stock is low, so supervisors should request additional boxes by 2:00 p.m. The next supply delivery is expected on Friday. Used protective clothing must be placed in the marked collection bins.
+
+<details>
+<summary>查看全文中文</summary>
+
+一批手套與口罩今天早上送達。手套存放於 C-12 櫃，口罩放在各無塵室入口。M 號手套庫存偏低，主管應於下午兩點前申請補充箱數。下一批物資預計週五送達。使用過的防護衣必須放入標示的回收箱。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R24-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. cabinet C-12
+
+B. Tuesday
+
+C. the south gate
+
+D. model AB-9
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · cabinet C-12
+
+- A：原文直接提到「cabinet C-12」。
+
+- B：原文沒有提到「Tuesday」。
+
+- C：原文沒有提到「the south gate」。
+
+- D：原文沒有提到「model AB-9」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R24-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. the finance director
+
+B. six business days
+
+C. Line 4
+
+D. each cleanroom entrance
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · each cleanroom entrance
+
+- A：原文沒有提到「the finance director」。
+
+- B：原文沒有提到「six business days」。
+
+- C：原文沒有提到「Line 4」。
+
+- D：原文直接提到「each cleanroom entrance」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R24-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. the procurement office
+
+B. 12:30 p.m.
+
+C. 2:00 p.m.
+
+D. Room F
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · 2:00 p.m.
+
+- A：原文沒有提到「the procurement office」。
+
+- B：原文沒有提到「12:30 p.m.」。
+
+- C：原文直接提到「2:00 p.m.」。
+
+- D：原文沒有提到「Room F」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R24-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. a second inspection
+
+B. Friday
+
+C. $750
+
+D. the west lot
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · Friday
+
+- A：原文沒有提到「a second inspection」。
+
+- B：原文直接提到「Friday」。
+
+- C：原文沒有提到「$750」。
+
+- D：原文沒有提到「the west lot」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+## R25 Network Maintenance
+
+基礎 · IT announcement
+
+The company network will be unavailable from 11:00 p.m. Saturday until 1:00 a.m. Sunday while IT installs a security update. Email and the production dashboard will be affected; machine controls will continue to operate locally. Save open work before leaving on Saturday. For urgent access during the outage, call the IT duty number listed on the intranet.
+
+<details>
+<summary>查看全文中文</summary>
+
+資訊部將於週六晚上十一點至週日凌晨一點安裝安全更新，期間公司網路將無法使用。電子郵件與生產儀表板會受影響；機台控制仍會在本機運作。週六離開前請儲存未完成工作。若停機期間有緊急存取需求，請撥打內部網站上的資訊值班電話。
+
+</details>
+
+策略：先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。
+
+### R25-1 · 日期與時間
+
+Which specific detail appears in the notice?
+
+A. Tuesday
+
+B. the south gate
+
+C. model AB-9
+
+D. 11:00 p.m. Saturday
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：D · 11:00 p.m. Saturday
+
+- A：原文沒有提到「Tuesday」。
+
+- B：原文沒有提到「the south gate」。
+
+- C：原文沒有提到「model AB-9」。
+
+- D：原文直接提到「11:00 p.m. Saturday」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R25-2 · 細節定位
+
+Which information can the reader confirm from the message?
+
+A. six business days
+
+B. Line 4
+
+C. 1:00 a.m. Sunday
+
+D. the finance director
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：C · 1:00 a.m. Sunday
+
+- A：原文沒有提到「six business days」。
+
+- B：原文沒有提到「Line 4」。
+
+- C：原文直接提到「1:00 a.m. Sunday」。
+
+- D：原文沒有提到「the finance director」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R25-3 · 行動與限制
+
+Which item or instruction is mentioned in the passage?
+
+A. 12:30 p.m.
+
+B. machine controls
+
+C. Room F
+
+D. the procurement office
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：B · machine controls
+
+- A：原文沒有提到「12:30 p.m.」。
+
+- B：原文直接提到「machine controls」。
+
+- C：原文沒有提到「Room F」。
+
+- D：原文沒有提到「the procurement office」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
+
+</details>
+
+### R25-4 · 文件目的
+
+Which statement is supported by the text?
+
+A. the IT duty number
+
+B. $750
+
+C. the west lot
+
+D. a second inspection
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：根據文章，哪一項資訊有明確提及？
+
+答案：A · the IT duty number
+
+- A：原文直接提到「the IT duty number」。
+
+- B：原文沒有提到「$750」。
+
+- C：原文沒有提到「the west lot」。
+
+- D：原文沒有提到「a second inspection」。
+
+記法：回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。
 
 </details>

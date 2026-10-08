@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "L1-01",
+    "part": 1,
+    "scene": "Scene 01: A worker stands by a panel in a laboratory.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A technician is checking a control panel in the test laboratory."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A technician is adjusting a machine guard beside the production line."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A technician is labeling sample containers at the inspection bench."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A technician is pushing a supply cart in the warehouse aisle."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A technician is checking a control panel in the test laboratory.",
+      "A technician is adjusting a machine guard beside the production line.",
+      "A technician is labeling sample containers at the inspection bench.",
+      "A technician is pushing a supply cart in the warehouse aisle."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「A technician is checking a control panel in the test laboratory.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-02",
+    "part": 1,
+    "scene": "Scene 02: A person is beside a guarded machine on the production floor.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An operator is labeling sample containers in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An operator is pushing a supply cart in the meeting room."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An operator is reviewing a printed chart in the test laboratory."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An operator is adjusting a machine guard at the inspection bench."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An operator is labeling sample containers in the warehouse aisle.",
+      "An operator is pushing a supply cart in the meeting room.",
+      "An operator is reviewing a printed chart in the test laboratory.",
+      "An operator is adjusting a machine guard at the inspection bench."
+    ],
+    "answer": 3,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「An operator is adjusting a machine guard at the inspection bench.」。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-03",
+    "part": 1,
+    "scene": "Scene 03: Small containers and labels are laid out on a workbench.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A quality engineer is reviewing a printed chart beside the production line."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A quality engineer is checking a control panel at the inspection bench."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A quality engineer is labeling sample containers in the meeting room."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A quality engineer is pushing a supply cart in the test laboratory."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A quality engineer is reviewing a printed chart beside the production line.",
+      "A quality engineer is checking a control panel at the inspection bench.",
+      "A quality engineer is labeling sample containers in the meeting room.",
+      "A quality engineer is pushing a supply cart in the test laboratory."
+    ],
+    "answer": 2,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A quality engineer is labeling sample containers in the meeting room.」。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-04",
+    "part": 1,
+    "scene": "Scene 04: A loaded cart is visible in a storage aisle.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A warehouse worker is adjusting a machine guard in the meeting room."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A warehouse worker is pushing a supply cart beside the production line."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A warehouse worker is reviewing a printed chart at the inspection bench."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A warehouse worker is checking a control panel in the warehouse aisle."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A warehouse worker is adjusting a machine guard in the meeting room.",
+      "A warehouse worker is pushing a supply cart beside the production line.",
+      "A warehouse worker is reviewing a printed chart at the inspection bench.",
+      "A warehouse worker is checking a control panel in the warehouse aisle."
+    ],
+    "answer": 1,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A warehouse worker is pushing a supply cart beside the production line.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-05",
+    "part": 1,
+    "scene": "Scene 05: A large chart is spread across a table in a meeting room.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An office assistant is reviewing a printed chart in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An office assistant is checking a control panel in the meeting room."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An office assistant is adjusting a machine guard in the test laboratory."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An office assistant is labeling sample containers beside the production line."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An office assistant is reviewing a printed chart in the warehouse aisle.",
+      "An office assistant is checking a control panel in the meeting room.",
+      "An office assistant is adjusting a machine guard in the test laboratory.",
+      "An office assistant is labeling sample containers beside the production line."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「An office assistant is reviewing a printed chart in the warehouse aisle.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-06",
+    "part": 1,
+    "scene": "Scene 06: A person is beside a guarded machine on the production floor.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A technician is labeling sample containers at the inspection bench."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A technician is pushing a supply cart in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A technician is reviewing a printed chart in the meeting room."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A technician is adjusting a machine guard beside the production line."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A technician is labeling sample containers at the inspection bench.",
+      "A technician is pushing a supply cart in the warehouse aisle.",
+      "A technician is reviewing a printed chart in the meeting room.",
+      "A technician is adjusting a machine guard beside the production line."
+    ],
+    "answer": 3,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A technician is adjusting a machine guard beside the production line.」。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-07",
+    "part": 1,
+    "scene": "Scene 07: Small containers and labels are laid out on a workbench.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An operator is reviewing a printed chart in the test laboratory."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An operator is checking a control panel beside the production line."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An operator is labeling sample containers in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An operator is pushing a supply cart in the meeting room."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An operator is reviewing a printed chart in the test laboratory.",
+      "An operator is checking a control panel beside the production line.",
+      "An operator is labeling sample containers in the warehouse aisle.",
+      "An operator is pushing a supply cart in the meeting room."
+    ],
+    "answer": 2,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「An operator is labeling sample containers in the warehouse aisle.」。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-08",
+    "part": 1,
+    "scene": "Scene 08: A loaded cart is visible in a storage aisle.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A quality engineer is adjusting a machine guard in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A quality engineer is pushing a supply cart in the test laboratory."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A quality engineer is reviewing a printed chart beside the production line."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A quality engineer is checking a control panel at the inspection bench."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A quality engineer is adjusting a machine guard in the warehouse aisle.",
+      "A quality engineer is pushing a supply cart in the test laboratory.",
+      "A quality engineer is reviewing a printed chart beside the production line.",
+      "A quality engineer is checking a control panel at the inspection bench."
+    ],
+    "answer": 1,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A quality engineer is pushing a supply cart in the test laboratory.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-09",
+    "part": 1,
+    "scene": "Scene 09: A large chart is spread across a table in a meeting room.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A warehouse worker is reviewing a printed chart at the inspection bench."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A warehouse worker is checking a control panel in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A warehouse worker is adjusting a machine guard in the meeting room."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A warehouse worker is labeling sample containers in the test laboratory."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A warehouse worker is reviewing a printed chart at the inspection bench.",
+      "A warehouse worker is checking a control panel in the warehouse aisle.",
+      "A warehouse worker is adjusting a machine guard in the meeting room.",
+      "A warehouse worker is labeling sample containers in the test laboratory."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「A warehouse worker is reviewing a printed chart at the inspection bench.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-10",
+    "part": 1,
+    "scene": "Scene 10: A worker stands by a panel in a laboratory.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An office assistant is adjusting a machine guard in the test laboratory."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An office assistant is labeling sample containers beside the production line."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An office assistant is pushing a supply cart at the inspection bench."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An office assistant is checking a control panel in the meeting room."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An office assistant is adjusting a machine guard in the test laboratory.",
+      "An office assistant is labeling sample containers beside the production line.",
+      "An office assistant is pushing a supply cart at the inspection bench.",
+      "An office assistant is checking a control panel in the meeting room."
+    ],
+    "answer": 3,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「An office assistant is checking a control panel in the meeting room.」。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-11",
+    "part": 1,
+    "scene": "Scene 11: Small containers and labels are laid out on a workbench.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A technician is reviewing a printed chart in the meeting room."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A technician is checking a control panel in the test laboratory."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A technician is labeling sample containers at the inspection bench."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A technician is pushing a supply cart in the warehouse aisle."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A technician is reviewing a printed chart in the meeting room.",
+      "A technician is checking a control panel in the test laboratory.",
+      "A technician is labeling sample containers at the inspection bench.",
+      "A technician is pushing a supply cart in the warehouse aisle."
+    ],
+    "answer": 2,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A technician is labeling sample containers at the inspection bench.」。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-12",
+    "part": 1,
+    "scene": "Scene 12: A loaded cart is visible in a storage aisle.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An operator is adjusting a machine guard at the inspection bench."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An operator is pushing a supply cart in the meeting room."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An operator is reviewing a printed chart in the test laboratory."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An operator is checking a control panel beside the production line."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An operator is adjusting a machine guard at the inspection bench.",
+      "An operator is pushing a supply cart in the meeting room.",
+      "An operator is reviewing a printed chart in the test laboratory.",
+      "An operator is checking a control panel beside the production line."
+    ],
+    "answer": 1,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "錄音線索支持「An operator is pushing a supply cart in the meeting room.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-13",
+    "part": 1,
+    "scene": "Scene 13: A large chart is spread across a table in a meeting room.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A quality engineer is reviewing a printed chart beside the production line."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A quality engineer is checking a control panel at the inspection bench."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A quality engineer is adjusting a machine guard in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A quality engineer is labeling sample containers in the meeting room."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A quality engineer is reviewing a printed chart beside the production line.",
+      "A quality engineer is checking a control panel at the inspection bench.",
+      "A quality engineer is adjusting a machine guard in the warehouse aisle.",
+      "A quality engineer is labeling sample containers in the meeting room."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「A quality engineer is reviewing a printed chart beside the production line.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-14",
+    "part": 1,
+    "scene": "Scene 14: A worker stands by a panel in a laboratory.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A warehouse worker is adjusting a machine guard in the meeting room."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A warehouse worker is labeling sample containers in the test laboratory."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A warehouse worker is pushing a supply cart beside the production line."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A warehouse worker is checking a control panel in the warehouse aisle."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A warehouse worker is adjusting a machine guard in the meeting room.",
+      "A warehouse worker is labeling sample containers in the test laboratory.",
+      "A warehouse worker is pushing a supply cart beside the production line.",
+      "A warehouse worker is checking a control panel in the warehouse aisle."
+    ],
+    "answer": 3,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A warehouse worker is checking a control panel in the warehouse aisle.」。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-15",
+    "part": 1,
+    "scene": "Scene 15: A person is beside a guarded machine on the production floor.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An office assistant is pushing a supply cart at the inspection bench."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An office assistant is reviewing a printed chart in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An office assistant is adjusting a machine guard in the test laboratory."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An office assistant is labeling sample containers beside the production line."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An office assistant is pushing a supply cart at the inspection bench.",
+      "An office assistant is reviewing a printed chart in the warehouse aisle.",
+      "An office assistant is adjusting a machine guard in the test laboratory.",
+      "An office assistant is labeling sample containers beside the production line."
+    ],
+    "answer": 2,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「An office assistant is adjusting a machine guard in the test laboratory.」。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-16",
+    "part": 1,
+    "scene": "Scene 16: A loaded cart is visible in a storage aisle.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A technician is adjusting a machine guard beside the production line."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A technician is pushing a supply cart in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A technician is reviewing a printed chart in the meeting room."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A technician is checking a control panel in the test laboratory."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A technician is adjusting a machine guard beside the production line.",
+      "A technician is pushing a supply cart in the warehouse aisle.",
+      "A technician is reviewing a printed chart in the meeting room.",
+      "A technician is checking a control panel in the test laboratory."
+    ],
+    "answer": 1,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A technician is pushing a supply cart in the warehouse aisle.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-17",
+    "part": 1,
+    "scene": "Scene 17: A large chart is spread across a table in a meeting room.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An operator is reviewing a printed chart in the test laboratory."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An operator is checking a control panel beside the production line."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An operator is adjusting a machine guard at the inspection bench."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An operator is labeling sample containers in the warehouse aisle."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An operator is reviewing a printed chart in the test laboratory.",
+      "An operator is checking a control panel beside the production line.",
+      "An operator is adjusting a machine guard at the inspection bench.",
+      "An operator is labeling sample containers in the warehouse aisle."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「An operator is reviewing a printed chart in the test laboratory.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-18",
+    "part": 1,
+    "scene": "Scene 18: A worker stands by a panel in a laboratory.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A quality engineer is adjusting a machine guard in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A quality engineer is labeling sample containers in the meeting room."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A quality engineer is pushing a supply cart in the test laboratory."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A quality engineer is checking a control panel at the inspection bench."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A quality engineer is adjusting a machine guard in the warehouse aisle.",
+      "A quality engineer is labeling sample containers in the meeting room.",
+      "A quality engineer is pushing a supply cart in the test laboratory.",
+      "A quality engineer is checking a control panel at the inspection bench."
+    ],
+    "answer": 3,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A quality engineer is checking a control panel at the inspection bench.」。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-19",
+    "part": 1,
+    "scene": "Scene 19: A person is beside a guarded machine on the production floor.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A warehouse worker is pushing a supply cart beside the production line."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A warehouse worker is reviewing a printed chart at the inspection bench."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A warehouse worker is adjusting a machine guard in the meeting room."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A warehouse worker is labeling sample containers in the test laboratory."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A warehouse worker is pushing a supply cart beside the production line.",
+      "A warehouse worker is reviewing a printed chart at the inspection bench.",
+      "A warehouse worker is adjusting a machine guard in the meeting room.",
+      "A warehouse worker is labeling sample containers in the test laboratory."
+    ],
+    "answer": 2,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A warehouse worker is adjusting a machine guard in the meeting room.」。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-20",
+    "part": 1,
+    "scene": "Scene 20: Small containers and labels are laid out on a workbench.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An office assistant is checking a control panel in the meeting room."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An office assistant is labeling sample containers beside the production line."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An office assistant is pushing a supply cart at the inspection bench."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An office assistant is reviewing a printed chart in the warehouse aisle."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An office assistant is checking a control panel in the meeting room.",
+      "An office assistant is labeling sample containers beside the production line.",
+      "An office assistant is pushing a supply cart at the inspection bench.",
+      "An office assistant is reviewing a printed chart in the warehouse aisle."
+    ],
+    "answer": 1,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "錄音線索支持「An office assistant is labeling sample containers beside the production line.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-21",
+    "part": 1,
+    "scene": "Scene 21: A large chart is spread across a table in a meeting room.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A technician is reviewing a printed chart in the meeting room."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A technician is checking a control panel in the test laboratory."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A technician is adjusting a machine guard beside the production line."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A technician is labeling sample containers at the inspection bench."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A technician is reviewing a printed chart in the meeting room.",
+      "A technician is checking a control panel in the test laboratory.",
+      "A technician is adjusting a machine guard beside the production line.",
+      "A technician is labeling sample containers at the inspection bench."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「A technician is reviewing a printed chart in the meeting room.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-22",
+    "part": 1,
+    "scene": "Scene 22: A worker stands by a panel in a laboratory.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An operator is adjusting a machine guard at the inspection bench."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An operator is labeling sample containers in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An operator is pushing a supply cart in the meeting room."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An operator is checking a control panel beside the production line."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An operator is adjusting a machine guard at the inspection bench.",
+      "An operator is labeling sample containers in the warehouse aisle.",
+      "An operator is pushing a supply cart in the meeting room.",
+      "An operator is checking a control panel beside the production line."
+    ],
+    "answer": 3,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「An operator is checking a control panel beside the production line.」。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-23",
+    "part": 1,
+    "scene": "Scene 23: A person is beside a guarded machine on the production floor.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A quality engineer is pushing a supply cart in the test laboratory."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A quality engineer is reviewing a printed chart beside the production line."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A quality engineer is adjusting a machine guard in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A quality engineer is labeling sample containers in the meeting room."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A quality engineer is pushing a supply cart in the test laboratory.",
+      "A quality engineer is reviewing a printed chart beside the production line.",
+      "A quality engineer is adjusting a machine guard in the warehouse aisle.",
+      "A quality engineer is labeling sample containers in the meeting room."
+    ],
+    "answer": 2,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A quality engineer is adjusting a machine guard in the warehouse aisle.」。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-24",
+    "part": 1,
+    "scene": "Scene 24: Small containers and labels are laid out on a workbench.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "A warehouse worker is checking a control panel in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "A warehouse worker is labeling sample containers in the test laboratory."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "A warehouse worker is pushing a supply cart beside the production line."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "A warehouse worker is reviewing a printed chart at the inspection bench."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "A warehouse worker is checking a control panel in the warehouse aisle.",
+      "A warehouse worker is labeling sample containers in the test laboratory.",
+      "A warehouse worker is pushing a supply cart beside the production line.",
+      "A warehouse worker is reviewing a printed chart at the inspection bench."
+    ],
+    "answer": 1,
+    "reasons": [
+      "這個描述不符合場景提示。",
+      "錄音線索支持「A warehouse worker is labeling sample containers in the test laboratory.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L1-25",
+    "part": 1,
+    "scene": "Scene 25: A loaded cart is visible in a storage aisle.",
+    "segments": [
+      {
+        "speaker": "Narrator",
+        "kind": "prompt",
+        "text": "Look at the scene. Which description is correct?"
+      },
+      {
+        "speaker": "Choice A",
+        "kind": "choice",
+        "text": "An office assistant is pushing a supply cart at the inspection bench."
+      },
+      {
+        "speaker": "Choice B",
+        "kind": "choice",
+        "text": "An office assistant is reviewing a printed chart in the warehouse aisle."
+      },
+      {
+        "speaker": "Choice C",
+        "kind": "choice",
+        "text": "An office assistant is checking a control panel in the meeting room."
+      },
+      {
+        "speaker": "Choice D",
+        "kind": "choice",
+        "text": "An office assistant is adjusting a machine guard in the test laboratory."
+      }
+    ],
+    "stem": "Which description best matches the scene?",
+    "zh": "聽四個描述，選出符合場景的一句。",
+    "options": [
+      "An office assistant is pushing a supply cart at the inspection bench.",
+      "An office assistant is reviewing a printed chart in the warehouse aisle.",
+      "An office assistant is checking a control panel in the meeting room.",
+      "An office assistant is adjusting a machine guard in the test laboratory."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「An office assistant is pushing a supply cart at the inspection bench.」。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。",
+      "這個描述不符合場景提示。"
+    ],
+    "tip": "先聽人物、動作與位置，再比對場景中的物品。"
+  },
+  {
+    "id": "L2-01",
+    "part": 2,
+    "scene": "Question-response situation 1",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "When will the optical sensors for lot 410 arrive?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "They are scheduled for Monday morning."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "In Room A."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "The quality manager approved them."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "Because a damaged cable was reported."
+      }
+    ],
+    "stem": "When will the optical sensors for lot 410 arrive?",
+    "zh": "optical sensors何時送達？預計週Monday上午。",
+    "options": [
+      "They are scheduled for Monday morning.",
+      "In Room A.",
+      "The quality manager approved them.",
+      "Because a damaged cable was reported."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「They are scheduled for Monday morning.」。",
+      "錄音沒有支持「In Room A.」這個回應。",
+      "錄音沒有支持「The quality manager approved them.」這個回應。",
+      "錄音沒有支持「Because a damaged cable was reported.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-02",
+    "part": 2,
+    "scene": "Question-response situation 2",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Where is the supplier briefing for project A?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It covers optical sensors."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "In Room A."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "It begins on Monday."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "The quality manager will lead it."
+      }
+    ],
+    "stem": "Where is the supplier briefing for project A?",
+    "zh": "供應商簡報在哪裡舉行？在Room A。",
+    "options": [
+      "It covers optical sensors.",
+      "In Room A.",
+      "It begins on Monday.",
+      "The quality manager will lead it."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「It covers optical sensors.」這個回應。",
+      "錄音線索支持「In Room A.」。",
+      "錄音沒有支持「It begins on Monday.」這個回應。",
+      "錄音沒有支持「The quality manager will lead it.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-03",
+    "part": 2,
+    "scene": "Question-response situation 3",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Who will approve purchase order PO-620?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It is for optical sensors."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "At Room A."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "The quality manager will sign it."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "It is due on Monday."
+      }
+    ],
+    "stem": "Who will approve purchase order PO-620?",
+    "zh": "誰會核准採購單？the quality manager會簽核。",
+    "options": [
+      "It is for optical sensors.",
+      "At Room A.",
+      "The quality manager will sign it.",
+      "It is due on Monday."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「It is for optical sensors.」這個回應。",
+      "錄音沒有支持「At Room A.」這個回應。",
+      "錄音線索支持「The quality manager will sign it.」。",
+      "錄音沒有支持「It is due on Monday.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-04",
+    "part": 2,
+    "scene": "Question-response situation 4",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Why did machine M-1 stop?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It will restart on Monday."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "It is beside Room A."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "The quality manager ordered optical sensors."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "Because a damaged cable needs attention."
+      }
+    ],
+    "stem": "Why did machine M-1 stop?",
+    "zh": "機器為什麼停下來？因為a damaged cable需要處理。",
+    "options": [
+      "It will restart on Monday.",
+      "It is beside Room A.",
+      "The quality manager ordered optical sensors.",
+      "Because a damaged cable needs attention."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「It will restart on Monday.」這個回應。",
+      "錄音沒有支持「It is beside Room A.」這個回應。",
+      "錄音沒有支持「The quality manager ordered optical sensors.」這個回應。",
+      "錄音線索支持「Because a damaged cable needs attention.」。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-05",
+    "part": 2,
+    "scene": "Question-response situation 5",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "How many optical sensors are needed for order 730?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "Please prepare 12."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "At Room A."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "On Monday morning."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "The quality manager will prepare them."
+      }
+    ],
+    "stem": "How many optical sensors are needed for order 730?",
+    "zh": "訂單需要多少optical sensors？請準備12個。",
+    "options": [
+      "Please prepare 12.",
+      "At Room A.",
+      "On Monday morning.",
+      "The quality manager will prepare them."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「Please prepare 12.」。",
+      "錄音沒有支持「At Room A.」這個回應。",
+      "錄音沒有支持「On Monday morning.」這個回應。",
+      "錄音沒有支持「The quality manager will prepare them.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-06",
+    "part": 2,
+    "scene": "Question-response situation 6",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "When will the replacement filters for lot 411 arrive?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "Because a low oil level was reported."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "They are scheduled for Tuesday morning."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "In Room B."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "The shift supervisor approved them."
+      }
+    ],
+    "stem": "When will the replacement filters for lot 411 arrive?",
+    "zh": "replacement filters何時送達？預計週Tuesday上午。",
+    "options": [
+      "Because a low oil level was reported.",
+      "They are scheduled for Tuesday morning.",
+      "In Room B.",
+      "The shift supervisor approved them."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「Because a low oil level was reported.」這個回應。",
+      "錄音線索支持「They are scheduled for Tuesday morning.」。",
+      "錄音沒有支持「In Room B.」這個回應。",
+      "錄音沒有支持「The shift supervisor approved them.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-07",
+    "part": 2,
+    "scene": "Question-response situation 7",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Where is the supplier briefing for project B?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "The shift supervisor will lead it."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "It covers replacement filters."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "In Room B."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "It begins on Tuesday."
+      }
+    ],
+    "stem": "Where is the supplier briefing for project B?",
+    "zh": "供應商簡報在哪裡舉行？在Room B。",
+    "options": [
+      "The shift supervisor will lead it.",
+      "It covers replacement filters.",
+      "In Room B.",
+      "It begins on Tuesday."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「The shift supervisor will lead it.」這個回應。",
+      "錄音沒有支持「It covers replacement filters.」這個回應。",
+      "錄音線索支持「In Room B.」。",
+      "錄音沒有支持「It begins on Tuesday.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-08",
+    "part": 2,
+    "scene": "Question-response situation 8",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Who will approve purchase order PO-621?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It is due on Tuesday."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "It is for replacement filters."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "At Room B."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "The shift supervisor will sign it."
+      }
+    ],
+    "stem": "Who will approve purchase order PO-621?",
+    "zh": "誰會核准採購單？the shift supervisor會簽核。",
+    "options": [
+      "It is due on Tuesday.",
+      "It is for replacement filters.",
+      "At Room B.",
+      "The shift supervisor will sign it."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「It is due on Tuesday.」這個回應。",
+      "錄音沒有支持「It is for replacement filters.」這個回應。",
+      "錄音沒有支持「At Room B.」這個回應。",
+      "錄音線索支持「The shift supervisor will sign it.」。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-09",
+    "part": 2,
+    "scene": "Question-response situation 9",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Why did machine M-2 stop?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "Because a low oil level needs attention."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "It will restart on Tuesday."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "It is beside Room B."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "The shift supervisor ordered replacement filters."
+      }
+    ],
+    "stem": "Why did machine M-2 stop?",
+    "zh": "機器為什麼停下來？因為a low oil level需要處理。",
+    "options": [
+      "Because a low oil level needs attention.",
+      "It will restart on Tuesday.",
+      "It is beside Room B.",
+      "The shift supervisor ordered replacement filters."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「Because a low oil level needs attention.」。",
+      "錄音沒有支持「It will restart on Tuesday.」這個回應。",
+      "錄音沒有支持「It is beside Room B.」這個回應。",
+      "錄音沒有支持「The shift supervisor ordered replacement filters.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-10",
+    "part": 2,
+    "scene": "Question-response situation 10",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "How many replacement filters are needed for order 731?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "The shift supervisor will prepare them."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "Please prepare 16."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "At Room B."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "On Tuesday morning."
+      }
+    ],
+    "stem": "How many replacement filters are needed for order 731?",
+    "zh": "訂單需要多少replacement filters？請準備16個。",
+    "options": [
+      "The shift supervisor will prepare them.",
+      "Please prepare 16.",
+      "At Room B.",
+      "On Tuesday morning."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「The shift supervisor will prepare them.」這個回應。",
+      "錄音線索支持「Please prepare 16.」。",
+      "錄音沒有支持「At Room B.」這個回應。",
+      "錄音沒有支持「On Tuesday morning.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-11",
+    "part": 2,
+    "scene": "Question-response situation 11",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "When will the circuit boards for lot 412 arrive?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "The buyer approved them."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "Because a blocked air filter was reported."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "They are scheduled for Wednesday morning."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "In Room C."
+      }
+    ],
+    "stem": "When will the circuit boards for lot 412 arrive?",
+    "zh": "circuit boards何時送達？預計週Wednesday上午。",
+    "options": [
+      "The buyer approved them.",
+      "Because a blocked air filter was reported.",
+      "They are scheduled for Wednesday morning.",
+      "In Room C."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「The buyer approved them.」這個回應。",
+      "錄音沒有支持「Because a blocked air filter was reported.」這個回應。",
+      "錄音線索支持「They are scheduled for Wednesday morning.」。",
+      "錄音沒有支持「In Room C.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-12",
+    "part": 2,
+    "scene": "Question-response situation 12",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Where is the supplier briefing for project C?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It begins on Wednesday."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "The buyer will lead it."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "It covers circuit boards."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "In Room C."
+      }
+    ],
+    "stem": "Where is the supplier briefing for project C?",
+    "zh": "供應商簡報在哪裡舉行？在Room C。",
+    "options": [
+      "It begins on Wednesday.",
+      "The buyer will lead it.",
+      "It covers circuit boards.",
+      "In Room C."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「It begins on Wednesday.」這個回應。",
+      "錄音沒有支持「The buyer will lead it.」這個回應。",
+      "錄音沒有支持「It covers circuit boards.」這個回應。",
+      "錄音線索支持「In Room C.」。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-13",
+    "part": 2,
+    "scene": "Question-response situation 13",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Who will approve purchase order PO-622?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "The buyer will sign it."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "It is due on Wednesday."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "It is for circuit boards."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "At Room C."
+      }
+    ],
+    "stem": "Who will approve purchase order PO-622?",
+    "zh": "誰會核准採購單？the buyer會簽核。",
+    "options": [
+      "The buyer will sign it.",
+      "It is due on Wednesday.",
+      "It is for circuit boards.",
+      "At Room C."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「The buyer will sign it.」。",
+      "錄音沒有支持「It is due on Wednesday.」這個回應。",
+      "錄音沒有支持「It is for circuit boards.」這個回應。",
+      "錄音沒有支持「At Room C.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-14",
+    "part": 2,
+    "scene": "Question-response situation 14",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Why did machine M-3 stop?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "The buyer ordered circuit boards."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "Because a blocked air filter needs attention."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "It will restart on Wednesday."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "It is beside Room C."
+      }
+    ],
+    "stem": "Why did machine M-3 stop?",
+    "zh": "機器為什麼停下來？因為a blocked air filter需要處理。",
+    "options": [
+      "The buyer ordered circuit boards.",
+      "Because a blocked air filter needs attention.",
+      "It will restart on Wednesday.",
+      "It is beside Room C."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「The buyer ordered circuit boards.」這個回應。",
+      "錄音線索支持「Because a blocked air filter needs attention.」。",
+      "錄音沒有支持「It will restart on Wednesday.」這個回應。",
+      "錄音沒有支持「It is beside Room C.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-15",
+    "part": 2,
+    "scene": "Question-response situation 15",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "How many circuit boards are needed for order 732?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "On Wednesday morning."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "The buyer will prepare them."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "Please prepare 20."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "At Room C."
+      }
+    ],
+    "stem": "How many circuit boards are needed for order 732?",
+    "zh": "訂單需要多少circuit boards？請準備20個。",
+    "options": [
+      "On Wednesday morning.",
+      "The buyer will prepare them.",
+      "Please prepare 20.",
+      "At Room C."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「On Wednesday morning.」這個回應。",
+      "錄音沒有支持「The buyer will prepare them.」這個回應。",
+      "錄音線索支持「Please prepare 20.」。",
+      "錄音沒有支持「At Room C.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-16",
+    "part": 2,
+    "scene": "Question-response situation 16",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "When will the packing materials for lot 413 arrive?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "In Room D."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "The lab technician approved them."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "Because a loose connector was reported."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "They are scheduled for Thursday morning."
+      }
+    ],
+    "stem": "When will the packing materials for lot 413 arrive?",
+    "zh": "packing materials何時送達？預計週Thursday上午。",
+    "options": [
+      "In Room D.",
+      "The lab technician approved them.",
+      "Because a loose connector was reported.",
+      "They are scheduled for Thursday morning."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「In Room D.」這個回應。",
+      "錄音沒有支持「The lab technician approved them.」這個回應。",
+      "錄音沒有支持「Because a loose connector was reported.」這個回應。",
+      "錄音線索支持「They are scheduled for Thursday morning.」。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-17",
+    "part": 2,
+    "scene": "Question-response situation 17",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Where is the supplier briefing for project D?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "In Room D."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "It begins on Thursday."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "The lab technician will lead it."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "It covers packing materials."
+      }
+    ],
+    "stem": "Where is the supplier briefing for project D?",
+    "zh": "供應商簡報在哪裡舉行？在Room D。",
+    "options": [
+      "In Room D.",
+      "It begins on Thursday.",
+      "The lab technician will lead it.",
+      "It covers packing materials."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「In Room D.」。",
+      "錄音沒有支持「It begins on Thursday.」這個回應。",
+      "錄音沒有支持「The lab technician will lead it.」這個回應。",
+      "錄音沒有支持「It covers packing materials.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-18",
+    "part": 2,
+    "scene": "Question-response situation 18",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Who will approve purchase order PO-623?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "At Room D."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "The lab technician will sign it."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "It is due on Thursday."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "It is for packing materials."
+      }
+    ],
+    "stem": "Who will approve purchase order PO-623?",
+    "zh": "誰會核准採購單？the lab technician會簽核。",
+    "options": [
+      "At Room D.",
+      "The lab technician will sign it.",
+      "It is due on Thursday.",
+      "It is for packing materials."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「At Room D.」這個回應。",
+      "錄音線索支持「The lab technician will sign it.」。",
+      "錄音沒有支持「It is due on Thursday.」這個回應。",
+      "錄音沒有支持「It is for packing materials.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-19",
+    "part": 2,
+    "scene": "Question-response situation 19",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Why did machine M-4 stop?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It is beside Room D."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "The lab technician ordered packing materials."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "Because a loose connector needs attention."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "It will restart on Thursday."
+      }
+    ],
+    "stem": "Why did machine M-4 stop?",
+    "zh": "機器為什麼停下來？因為a loose connector需要處理。",
+    "options": [
+      "It is beside Room D.",
+      "The lab technician ordered packing materials.",
+      "Because a loose connector needs attention.",
+      "It will restart on Thursday."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「It is beside Room D.」這個回應。",
+      "錄音沒有支持「The lab technician ordered packing materials.」這個回應。",
+      "錄音線索支持「Because a loose connector needs attention.」。",
+      "錄音沒有支持「It will restart on Thursday.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-20",
+    "part": 2,
+    "scene": "Question-response situation 20",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "How many packing materials are needed for order 733?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "At Room D."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "On Thursday morning."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "The lab technician will prepare them."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "Please prepare 24."
+      }
+    ],
+    "stem": "How many packing materials are needed for order 733?",
+    "zh": "訂單需要多少packing materials？請準備24個。",
+    "options": [
+      "At Room D.",
+      "On Thursday morning.",
+      "The lab technician will prepare them.",
+      "Please prepare 24."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「At Room D.」這個回應。",
+      "錄音沒有支持「On Thursday morning.」這個回應。",
+      "錄音沒有支持「The lab technician will prepare them.」這個回應。",
+      "錄音線索支持「Please prepare 24.」。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-21",
+    "part": 2,
+    "scene": "Question-response situation 21",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "When will the test probes for lot 414 arrive?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "They are scheduled for Friday morning."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "In Room E."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "The project coordinator approved them."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "Because an overheated motor was reported."
+      }
+    ],
+    "stem": "When will the test probes for lot 414 arrive?",
+    "zh": "test probes何時送達？預計週Friday上午。",
+    "options": [
+      "They are scheduled for Friday morning.",
+      "In Room E.",
+      "The project coordinator approved them.",
+      "Because an overheated motor was reported."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「They are scheduled for Friday morning.」。",
+      "錄音沒有支持「In Room E.」這個回應。",
+      "錄音沒有支持「The project coordinator approved them.」這個回應。",
+      "錄音沒有支持「Because an overheated motor was reported.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-22",
+    "part": 2,
+    "scene": "Question-response situation 22",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Where is the supplier briefing for project E?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It covers test probes."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "In Room E."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "It begins on Friday."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "The project coordinator will lead it."
+      }
+    ],
+    "stem": "Where is the supplier briefing for project E?",
+    "zh": "供應商簡報在哪裡舉行？在Room E。",
+    "options": [
+      "It covers test probes.",
+      "In Room E.",
+      "It begins on Friday.",
+      "The project coordinator will lead it."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「It covers test probes.」這個回應。",
+      "錄音線索支持「In Room E.」。",
+      "錄音沒有支持「It begins on Friday.」這個回應。",
+      "錄音沒有支持「The project coordinator will lead it.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-23",
+    "part": 2,
+    "scene": "Question-response situation 23",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Who will approve purchase order PO-624?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It is for test probes."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "At Room E."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "The project coordinator will sign it."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "It is due on Friday."
+      }
+    ],
+    "stem": "Who will approve purchase order PO-624?",
+    "zh": "誰會核准採購單？the project coordinator會簽核。",
+    "options": [
+      "It is for test probes.",
+      "At Room E.",
+      "The project coordinator will sign it.",
+      "It is due on Friday."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「It is for test probes.」這個回應。",
+      "錄音沒有支持「At Room E.」這個回應。",
+      "錄音線索支持「The project coordinator will sign it.」。",
+      "錄音沒有支持「It is due on Friday.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-24",
+    "part": 2,
+    "scene": "Question-response situation 24",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "Why did machine M-5 stop?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "It will restart on Friday."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "It is beside Room E."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "The project coordinator ordered test probes."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "Because an overheated motor needs attention."
+      }
+    ],
+    "stem": "Why did machine M-5 stop?",
+    "zh": "機器為什麼停下來？因為an overheated motor需要處理。",
+    "options": [
+      "It will restart on Friday.",
+      "It is beside Room E.",
+      "The project coordinator ordered test probes.",
+      "Because an overheated motor needs attention."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「It will restart on Friday.」這個回應。",
+      "錄音沒有支持「It is beside Room E.」這個回應。",
+      "錄音沒有支持「The project coordinator ordered test probes.」這個回應。",
+      "錄音線索支持「Because an overheated motor needs attention.」。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L2-25",
+    "part": 2,
+    "scene": "Question-response situation 25",
+    "segments": [
+      {
+        "speaker": "Speaker 1",
+        "kind": "prompt",
+        "text": "How many test probes are needed for order 734?"
+      },
+      {
+        "speaker": "Speaker 2, choice A",
+        "kind": "choice",
+        "text": "Please prepare 28."
+      },
+      {
+        "speaker": "Speaker 2, choice B",
+        "kind": "choice",
+        "text": "At Room E."
+      },
+      {
+        "speaker": "Speaker 2, choice C",
+        "kind": "choice",
+        "text": "On Friday morning."
+      },
+      {
+        "speaker": "Speaker 2, choice D",
+        "kind": "choice",
+        "text": "The project coordinator will prepare them."
+      }
+    ],
+    "stem": "How many test probes are needed for order 734?",
+    "zh": "訂單需要多少test probes？請準備28個。",
+    "options": [
+      "Please prepare 28.",
+      "At Room E.",
+      "On Friday morning.",
+      "The project coordinator will prepare them."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「Please prepare 28.」。",
+      "錄音沒有支持「At Room E.」這個回應。",
+      "錄音沒有支持「On Friday morning.」這個回應。",
+      "錄音沒有支持「The project coordinator will prepare them.」這個回應。"
+    ],
+    "tip": "先聽疑問詞：when 問時間、where 問地點、who 問人物、why 問原因、how many 問數量。"
+  },
+  {
+    "id": "L3-01",
+    "part": 3,
+    "scene": "Workplace conversation 1",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The inspection of the sensor is set for Monday morning."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have a supplier call then. Could we move it to Tuesday?"
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "That works. I will update the calendar."
+      }
+    ],
+    "stem": "What will the woman do?",
+    "zh": "女子會把sensor檢查改到週Tuesday並更新行事曆。",
+    "options": [
+      "Cancel the inspection.",
+      "Order another machine.",
+      "Update the calendar.",
+      "Call the supplier on Monday."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「Cancel the inspection.」這個回應。",
+      "錄音沒有支持「Order another machine.」這個回應。",
+      "錄音線索支持「Update the calendar.」。",
+      "錄音沒有支持「Call the supplier on Monday.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-02",
+    "part": 3,
+    "scene": "Workplace conversation 2",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "We received only six of the ten sensor units."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "I will compare the delivery with the packing list."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "Contact the vendor if the remaining units are missing."
+      }
+    ],
+    "stem": "What does the man ask the woman to do?",
+    "zh": "男子請女子核對裝箱單，若sensor仍短少就聯絡供應商。",
+    "options": [
+      "Cancel the next shift.",
+      "Contact the vendor if units are missing.",
+      "Move the units to the cleanroom.",
+      "Approve the invoice."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「Cancel the next shift.」這個回應。",
+      "錄音線索支持「Contact the vendor if units are missing.」。",
+      "錄音沒有支持「Move the units to the cleanroom.」這個回應。",
+      "錄音沒有支持「Approve the invoice.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-03",
+    "part": 3,
+    "scene": "Workplace conversation 3",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The training room is unavailable on Monday."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I can reserve Room B for the team."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Please send everyone the new location."
+      }
+    ],
+    "stem": "Where will the team meet?",
+    "zh": "團隊會改在Room B集合。",
+    "options": [
+      "In Room B.",
+      "At the east entrance.",
+      "In the cafeteria.",
+      "At the receiving dock."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「In Room B.」。",
+      "錄音沒有支持「At the east entrance.」這個回應。",
+      "錄音沒有支持「In the cafeteria.」這個回應。",
+      "錄音沒有支持「At the receiving dock.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-04",
+    "part": 3,
+    "scene": "Workplace conversation 4",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "The sensor is making an unusual noise."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Stop the line and submit a maintenance request."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have notified the shift supervisor."
+      }
+    ],
+    "stem": "What problem are they discussing?",
+    "zh": "他們正在討論sensor發出異音。",
+    "options": [
+      "A missing visitor badge.",
+      "A late customer payment.",
+      "An incorrect travel booking.",
+      "A noisy sensor."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「A missing visitor badge.」這個回應。",
+      "錄音沒有支持「A late customer payment.」這個回應。",
+      "錄音沒有支持「An incorrect travel booking.」這個回應。",
+      "錄音線索支持「A noisy sensor.」。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-05",
+    "part": 3,
+    "scene": "Workplace conversation 5",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The report for the sensor is complete, but its chart is missing."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I will ask Mina to send the latest version."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Finance needs the file by noon."
+      }
+    ],
+    "stem": "Who will be asked to send the chart?",
+    "zh": "男子會請Mina傳送sensor圖表，財務部中午前需要檔案。",
+    "options": [
+      "The receptionist.",
+      "The maintenance crew.",
+      "Mina.",
+      "The supplier."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「The receptionist.」這個回應。",
+      "錄音沒有支持「The maintenance crew.」這個回應。",
+      "錄音線索支持「Mina.」。",
+      "錄音沒有支持「The supplier.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-06",
+    "part": 3,
+    "scene": "Workplace conversation 6",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The inspection of the filter is set for Tuesday morning."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have a supplier call then. Could we move it to Wednesday?"
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "That works. I will update the calendar."
+      }
+    ],
+    "stem": "What will the woman do?",
+    "zh": "女子會把filter檢查改到週Wednesday並更新行事曆。",
+    "options": [
+      "Order another machine.",
+      "Update the calendar.",
+      "Call the supplier on Tuesday.",
+      "Cancel the inspection."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「Order another machine.」這個回應。",
+      "錄音線索支持「Update the calendar.」。",
+      "錄音沒有支持「Call the supplier on Tuesday.」這個回應。",
+      "錄音沒有支持「Cancel the inspection.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-07",
+    "part": 3,
+    "scene": "Workplace conversation 7",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "We received only six of the ten filter units."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "I will compare the delivery with the packing list."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "Contact the vendor if the remaining units are missing."
+      }
+    ],
+    "stem": "What does the man ask the woman to do?",
+    "zh": "男子請女子核對裝箱單，若filter仍短少就聯絡供應商。",
+    "options": [
+      "Contact the vendor if units are missing.",
+      "Move the units to the cleanroom.",
+      "Approve the invoice.",
+      "Cancel the next shift."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「Contact the vendor if units are missing.」。",
+      "錄音沒有支持「Move the units to the cleanroom.」這個回應。",
+      "錄音沒有支持「Approve the invoice.」這個回應。",
+      "錄音沒有支持「Cancel the next shift.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-08",
+    "part": 3,
+    "scene": "Workplace conversation 8",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The training room is unavailable on Tuesday."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I can reserve Room C for the team."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Please send everyone the new location."
+      }
+    ],
+    "stem": "Where will the team meet?",
+    "zh": "團隊會改在Room C集合。",
+    "options": [
+      "At the east entrance.",
+      "In the cafeteria.",
+      "At the receiving dock.",
+      "In Room C."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「At the east entrance.」這個回應。",
+      "錄音沒有支持「In the cafeteria.」這個回應。",
+      "錄音沒有支持「At the receiving dock.」這個回應。",
+      "錄音線索支持「In Room C.」。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-09",
+    "part": 3,
+    "scene": "Workplace conversation 9",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "The filter is making an unusual noise."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Stop the line and submit a maintenance request."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have notified the shift supervisor."
+      }
+    ],
+    "stem": "What problem are they discussing?",
+    "zh": "他們正在討論filter發出異音。",
+    "options": [
+      "A late customer payment.",
+      "An incorrect travel booking.",
+      "A noisy filter.",
+      "A missing visitor badge."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「A late customer payment.」這個回應。",
+      "錄音沒有支持「An incorrect travel booking.」這個回應。",
+      "錄音線索支持「A noisy filter.」。",
+      "錄音沒有支持「A missing visitor badge.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-10",
+    "part": 3,
+    "scene": "Workplace conversation 10",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The report for the filter is complete, but its chart is missing."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I will ask Leo to send the latest version."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Finance needs the file by noon."
+      }
+    ],
+    "stem": "Who will be asked to send the chart?",
+    "zh": "男子會請Leo傳送filter圖表，財務部中午前需要檔案。",
+    "options": [
+      "The maintenance crew.",
+      "Leo.",
+      "The supplier.",
+      "The receptionist."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「The maintenance crew.」這個回應。",
+      "錄音線索支持「Leo.」。",
+      "錄音沒有支持「The supplier.」這個回應。",
+      "錄音沒有支持「The receptionist.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-11",
+    "part": 3,
+    "scene": "Workplace conversation 11",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The inspection of the pump is set for Wednesday morning."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have a supplier call then. Could we move it to Thursday?"
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "That works. I will update the calendar."
+      }
+    ],
+    "stem": "What will the woman do?",
+    "zh": "女子會把pump檢查改到週Thursday並更新行事曆。",
+    "options": [
+      "Update the calendar.",
+      "Call the supplier on Wednesday.",
+      "Cancel the inspection.",
+      "Order another machine."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「Update the calendar.」。",
+      "錄音沒有支持「Call the supplier on Wednesday.」這個回應。",
+      "錄音沒有支持「Cancel the inspection.」這個回應。",
+      "錄音沒有支持「Order another machine.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-12",
+    "part": 3,
+    "scene": "Workplace conversation 12",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "We received only six of the ten pump units."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "I will compare the delivery with the packing list."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "Contact the vendor if the remaining units are missing."
+      }
+    ],
+    "stem": "What does the man ask the woman to do?",
+    "zh": "男子請女子核對裝箱單，若pump仍短少就聯絡供應商。",
+    "options": [
+      "Move the units to the cleanroom.",
+      "Approve the invoice.",
+      "Cancel the next shift.",
+      "Contact the vendor if units are missing."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「Move the units to the cleanroom.」這個回應。",
+      "錄音沒有支持「Approve the invoice.」這個回應。",
+      "錄音沒有支持「Cancel the next shift.」這個回應。",
+      "錄音線索支持「Contact the vendor if units are missing.」。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-13",
+    "part": 3,
+    "scene": "Workplace conversation 13",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The training room is unavailable on Wednesday."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I can reserve Room D for the team."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Please send everyone the new location."
+      }
+    ],
+    "stem": "Where will the team meet?",
+    "zh": "團隊會改在Room D集合。",
+    "options": [
+      "In the cafeteria.",
+      "At the receiving dock.",
+      "In Room D.",
+      "At the east entrance."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「In the cafeteria.」這個回應。",
+      "錄音沒有支持「At the receiving dock.」這個回應。",
+      "錄音線索支持「In Room D.」。",
+      "錄音沒有支持「At the east entrance.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-14",
+    "part": 3,
+    "scene": "Workplace conversation 14",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "The pump is making an unusual noise."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Stop the line and submit a maintenance request."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have notified the shift supervisor."
+      }
+    ],
+    "stem": "What problem are they discussing?",
+    "zh": "他們正在討論pump發出異音。",
+    "options": [
+      "An incorrect travel booking.",
+      "A noisy pump.",
+      "A missing visitor badge.",
+      "A late customer payment."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「An incorrect travel booking.」這個回應。",
+      "錄音線索支持「A noisy pump.」。",
+      "錄音沒有支持「A missing visitor badge.」這個回應。",
+      "錄音沒有支持「A late customer payment.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-15",
+    "part": 3,
+    "scene": "Workplace conversation 15",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The report for the pump is complete, but its chart is missing."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I will ask Grace to send the latest version."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Finance needs the file by noon."
+      }
+    ],
+    "stem": "Who will be asked to send the chart?",
+    "zh": "男子會請Grace傳送pump圖表，財務部中午前需要檔案。",
+    "options": [
+      "Grace.",
+      "The supplier.",
+      "The receptionist.",
+      "The maintenance crew."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「Grace.」。",
+      "錄音沒有支持「The supplier.」這個回應。",
+      "錄音沒有支持「The receptionist.」這個回應。",
+      "錄音沒有支持「The maintenance crew.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-16",
+    "part": 3,
+    "scene": "Workplace conversation 16",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The inspection of the circuit board is set for Thursday morning."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have a supplier call then. Could we move it to Friday?"
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "That works. I will update the calendar."
+      }
+    ],
+    "stem": "What will the woman do?",
+    "zh": "女子會把circuit board檢查改到週Friday並更新行事曆。",
+    "options": [
+      "Call the supplier on Thursday.",
+      "Cancel the inspection.",
+      "Order another machine.",
+      "Update the calendar."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「Call the supplier on Thursday.」這個回應。",
+      "錄音沒有支持「Cancel the inspection.」這個回應。",
+      "錄音沒有支持「Order another machine.」這個回應。",
+      "錄音線索支持「Update the calendar.」。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-17",
+    "part": 3,
+    "scene": "Workplace conversation 17",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "We received only six of the ten circuit board units."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "I will compare the delivery with the packing list."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "Contact the vendor if the remaining units are missing."
+      }
+    ],
+    "stem": "What does the man ask the woman to do?",
+    "zh": "男子請女子核對裝箱單，若circuit board仍短少就聯絡供應商。",
+    "options": [
+      "Approve the invoice.",
+      "Cancel the next shift.",
+      "Contact the vendor if units are missing.",
+      "Move the units to the cleanroom."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「Approve the invoice.」這個回應。",
+      "錄音沒有支持「Cancel the next shift.」這個回應。",
+      "錄音線索支持「Contact the vendor if units are missing.」。",
+      "錄音沒有支持「Move the units to the cleanroom.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-18",
+    "part": 3,
+    "scene": "Workplace conversation 18",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The training room is unavailable on Thursday."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I can reserve Room E for the team."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Please send everyone the new location."
+      }
+    ],
+    "stem": "Where will the team meet?",
+    "zh": "團隊會改在Room E集合。",
+    "options": [
+      "At the receiving dock.",
+      "In Room E.",
+      "At the east entrance.",
+      "In the cafeteria."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「At the receiving dock.」這個回應。",
+      "錄音線索支持「In Room E.」。",
+      "錄音沒有支持「At the east entrance.」這個回應。",
+      "錄音沒有支持「In the cafeteria.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-19",
+    "part": 3,
+    "scene": "Workplace conversation 19",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "The circuit board is making an unusual noise."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Stop the line and submit a maintenance request."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have notified the shift supervisor."
+      }
+    ],
+    "stem": "What problem are they discussing?",
+    "zh": "他們正在討論circuit board發出異音。",
+    "options": [
+      "A noisy circuit board.",
+      "A missing visitor badge.",
+      "A late customer payment.",
+      "An incorrect travel booking."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「A noisy circuit board.」。",
+      "錄音沒有支持「A missing visitor badge.」這個回應。",
+      "錄音沒有支持「A late customer payment.」這個回應。",
+      "錄音沒有支持「An incorrect travel booking.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-20",
+    "part": 3,
+    "scene": "Workplace conversation 20",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The report for the circuit board is complete, but its chart is missing."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I will ask Daniel to send the latest version."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Finance needs the file by noon."
+      }
+    ],
+    "stem": "Who will be asked to send the chart?",
+    "zh": "男子會請Daniel傳送circuit board圖表，財務部中午前需要檔案。",
+    "options": [
+      "The supplier.",
+      "The receptionist.",
+      "The maintenance crew.",
+      "Daniel."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「The supplier.」這個回應。",
+      "錄音沒有支持「The receptionist.」這個回應。",
+      "錄音沒有支持「The maintenance crew.」這個回應。",
+      "錄音線索支持「Daniel.」。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-21",
+    "part": 3,
+    "scene": "Workplace conversation 21",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The inspection of the shipping label is set for Friday morning."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have a supplier call then. Could we move it to Monday?"
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "That works. I will update the calendar."
+      }
+    ],
+    "stem": "What will the woman do?",
+    "zh": "女子會把shipping label檢查改到週Monday並更新行事曆。",
+    "options": [
+      "Cancel the inspection.",
+      "Order another machine.",
+      "Update the calendar.",
+      "Call the supplier on Friday."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「Cancel the inspection.」這個回應。",
+      "錄音沒有支持「Order another machine.」這個回應。",
+      "錄音線索支持「Update the calendar.」。",
+      "錄音沒有支持「Call the supplier on Friday.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-22",
+    "part": 3,
+    "scene": "Workplace conversation 22",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "We received only six of the ten shipping label units."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "I will compare the delivery with the packing list."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "Contact the vendor if the remaining units are missing."
+      }
+    ],
+    "stem": "What does the man ask the woman to do?",
+    "zh": "男子請女子核對裝箱單，若shipping label仍短少就聯絡供應商。",
+    "options": [
+      "Cancel the next shift.",
+      "Contact the vendor if units are missing.",
+      "Move the units to the cleanroom.",
+      "Approve the invoice."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「Cancel the next shift.」這個回應。",
+      "錄音線索支持「Contact the vendor if units are missing.」。",
+      "錄音沒有支持「Move the units to the cleanroom.」這個回應。",
+      "錄音沒有支持「Approve the invoice.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-23",
+    "part": 3,
+    "scene": "Workplace conversation 23",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The training room is unavailable on Friday."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I can reserve Room A for the team."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Please send everyone the new location."
+      }
+    ],
+    "stem": "Where will the team meet?",
+    "zh": "團隊會改在Room A集合。",
+    "options": [
+      "In Room A.",
+      "At the east entrance.",
+      "In the cafeteria.",
+      "At the receiving dock."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「In Room A.」。",
+      "錄音沒有支持「At the east entrance.」這個回應。",
+      "錄音沒有支持「In the cafeteria.」這個回應。",
+      "錄音沒有支持「At the receiving dock.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-24",
+    "part": 3,
+    "scene": "Workplace conversation 24",
+    "segments": [
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "The shipping label is making an unusual noise."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Stop the line and submit a maintenance request."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I have notified the shift supervisor."
+      }
+    ],
+    "stem": "What problem are they discussing?",
+    "zh": "他們正在討論shipping label發出異音。",
+    "options": [
+      "A missing visitor badge.",
+      "A late customer payment.",
+      "An incorrect travel booking.",
+      "A noisy shipping label."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「A missing visitor badge.」這個回應。",
+      "錄音沒有支持「A late customer payment.」這個回應。",
+      "錄音沒有支持「An incorrect travel booking.」這個回應。",
+      "錄音線索支持「A noisy shipping label.」。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L3-25",
+    "part": 3,
+    "scene": "Workplace conversation 25",
+    "segments": [
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "The report for the shipping label is complete, but its chart is missing."
+      },
+      {
+        "speaker": "Man",
+        "kind": "dialogue",
+        "text": "I will ask Ivy to send the latest version."
+      },
+      {
+        "speaker": "Woman",
+        "kind": "dialogue",
+        "text": "Finance needs the file by noon."
+      }
+    ],
+    "stem": "Who will be asked to send the chart?",
+    "zh": "男子會請Ivy傳送shipping label圖表，財務部中午前需要檔案。",
+    "options": [
+      "The receptionist.",
+      "The maintenance crew.",
+      "Ivy.",
+      "The supplier."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「The receptionist.」這個回應。",
+      "錄音沒有支持「The maintenance crew.」這個回應。",
+      "錄音線索支持「Ivy.」。",
+      "錄音沒有支持「The supplier.」這個回應。"
+    ],
+    "tip": "先抓對話目的與最後決定；代名詞、時間和下一步常是答案線索。"
+  },
+  {
+    "id": "L4-01",
+    "part": 4,
+    "scene": "Workplace announcement 1",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The east entrance will close at 6 p.m. on Monday for a safety inspection. Use the main entrance after that time. It will reopen the next morning."
+      }
+    ],
+    "stem": "When will the east entrance reopen?",
+    "zh": "東側入口週Monday下午六點關閉，隔天早上重新開放。",
+    "options": [
+      "At 6 p.m. on the same day.",
+      "The following Friday afternoon.",
+      "After the annual inventory.",
+      "The morning after the closure."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「At 6 p.m. on the same day.」這個回應。",
+      "錄音沒有支持「The following Friday afternoon.」這個回應。",
+      "錄音沒有支持「After the annual inventory.」這個回應。",
+      "錄音線索支持「The morning after the closure.」。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-02",
+    "part": 4,
+    "scene": "Workplace announcement 2",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The safety briefing begins at 9:30 a.m. on Monday in Room A. Bring your employee badge. The session will last one hour."
+      }
+    ],
+    "stem": "Where will the safety briefing take place?",
+    "zh": "安全簡報週Monday上午九點半在Room A舉行。",
+    "options": [
+      "In the cafeteria.",
+      "At the loading dock.",
+      "In Room A.",
+      "At the east entrance."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「In the cafeteria.」這個回應。",
+      "錄音沒有支持「At the loading dock.」這個回應。",
+      "錄音線索支持「In Room A.」。",
+      "錄音沒有支持「At the east entrance.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-03",
+    "part": 4,
+    "scene": "Workplace announcement 3",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The cafeteria will offer a reduced menu on Monday while kitchen equipment is serviced. Hot meals remain available, but the salad bar will be closed. Normal service resumes the next day."
+      }
+    ],
+    "stem": "What will be unavailable on that day?",
+    "zh": "週Monday廚房設備維修期間，沙拉吧暫停供應，熱食仍照常供應。",
+    "options": [
+      "The kitchen service team.",
+      "The salad bar.",
+      "Hot meals.",
+      "The cafeteria building."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「The kitchen service team.」這個回應。",
+      "錄音線索支持「The salad bar.」。",
+      "錄音沒有支持「Hot meals.」這個回應。",
+      "錄音沒有支持「The cafeteria building.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-04",
+    "part": 4,
+    "scene": "Workplace announcement 4",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The shuttle from Gate 2 leaves every 15 minutes during the morning shift on Monday. Arrive five minutes before departure. The afternoon schedule is unchanged."
+      }
+    ],
+    "stem": "How often will the shuttle leave?",
+    "zh": "週Monday早班期間，二號門接駁車每15分鐘一班。",
+    "options": [
+      "Every 15 minutes.",
+      "Every five minutes.",
+      "Once per hour.",
+      "Only in the afternoon."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「Every 15 minutes.」。",
+      "錄音沒有支持「Every five minutes.」這個回應。",
+      "錄音沒有支持「Once per hour.」這個回應。",
+      "錄音沒有支持「Only in the afternoon.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-05",
+    "part": 4,
+    "scene": "Workplace announcement 5",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The new document portal opens June 1. Staff may use their usual login. The old shared drive remains available until June 15, after which it will be removed."
+      }
+    ],
+    "stem": "When will the old shared drive be removed?",
+    "zh": "文件入口網站於June 1啟用；舊共用磁碟於June 15後移除。",
+    "options": [
+      "On June 1.",
+      "On the first Monday in June.",
+      "After the next audit.",
+      "After June 15."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「On June 1.」這個回應。",
+      "錄音沒有支持「On the first Monday in June.」這個回應。",
+      "錄音沒有支持「After the next audit.」這個回應。",
+      "錄音線索支持「After June 15.」。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-06",
+    "part": 4,
+    "scene": "Workplace announcement 6",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The east entrance will close at 6 p.m. on Tuesday for a safety inspection. Use the main entrance after that time. It will reopen the next morning."
+      }
+    ],
+    "stem": "When will the east entrance reopen?",
+    "zh": "東側入口週Tuesday下午六點關閉，隔天早上重新開放。",
+    "options": [
+      "The following Friday afternoon.",
+      "After the annual inventory.",
+      "The morning after the closure.",
+      "At 6 p.m. on the same day."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「The following Friday afternoon.」這個回應。",
+      "錄音沒有支持「After the annual inventory.」這個回應。",
+      "錄音線索支持「The morning after the closure.」。",
+      "錄音沒有支持「At 6 p.m. on the same day.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-07",
+    "part": 4,
+    "scene": "Workplace announcement 7",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The safety briefing begins at 9:30 a.m. on Tuesday in Room B. Bring your employee badge. The session will last one hour."
+      }
+    ],
+    "stem": "Where will the safety briefing take place?",
+    "zh": "安全簡報週Tuesday上午九點半在Room B舉行。",
+    "options": [
+      "At the loading dock.",
+      "In Room B.",
+      "At the east entrance.",
+      "In the cafeteria."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「At the loading dock.」這個回應。",
+      "錄音線索支持「In Room B.」。",
+      "錄音沒有支持「At the east entrance.」這個回應。",
+      "錄音沒有支持「In the cafeteria.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-08",
+    "part": 4,
+    "scene": "Workplace announcement 8",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The cafeteria will offer a reduced menu on Tuesday while kitchen equipment is serviced. Hot meals remain available, but the salad bar will be closed. Normal service resumes the next day."
+      }
+    ],
+    "stem": "What will be unavailable on that day?",
+    "zh": "週Tuesday廚房設備維修期間，沙拉吧暫停供應，熱食仍照常供應。",
+    "options": [
+      "The salad bar.",
+      "Hot meals.",
+      "The cafeteria building.",
+      "The kitchen service team."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「The salad bar.」。",
+      "錄音沒有支持「Hot meals.」這個回應。",
+      "錄音沒有支持「The cafeteria building.」這個回應。",
+      "錄音沒有支持「The kitchen service team.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-09",
+    "part": 4,
+    "scene": "Workplace announcement 9",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The shuttle from Gate 2 leaves every 20 minutes during the morning shift on Tuesday. Arrive five minutes before departure. The afternoon schedule is unchanged."
+      }
+    ],
+    "stem": "How often will the shuttle leave?",
+    "zh": "週Tuesday早班期間，二號門接駁車每20分鐘一班。",
+    "options": [
+      "Every five minutes.",
+      "Once per hour.",
+      "Only in the afternoon.",
+      "Every 20 minutes."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「Every five minutes.」這個回應。",
+      "錄音沒有支持「Once per hour.」這個回應。",
+      "錄音沒有支持「Only in the afternoon.」這個回應。",
+      "錄音線索支持「Every 20 minutes.」。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-10",
+    "part": 4,
+    "scene": "Workplace announcement 10",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The new document portal opens July 2. Staff may use their usual login. The old shared drive remains available until July 16, after which it will be removed."
+      }
+    ],
+    "stem": "When will the old shared drive be removed?",
+    "zh": "文件入口網站於July 2啟用；舊共用磁碟於July 16後移除。",
+    "options": [
+      "On the first Monday in July.",
+      "After the next audit.",
+      "After July 16.",
+      "On July 2."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「On the first Monday in July.」這個回應。",
+      "錄音沒有支持「After the next audit.」這個回應。",
+      "錄音線索支持「After July 16.」。",
+      "錄音沒有支持「On July 2.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-11",
+    "part": 4,
+    "scene": "Workplace announcement 11",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The east entrance will close at 6 p.m. on Wednesday for a safety inspection. Use the main entrance after that time. It will reopen the next morning."
+      }
+    ],
+    "stem": "When will the east entrance reopen?",
+    "zh": "東側入口週Wednesday下午六點關閉，隔天早上重新開放。",
+    "options": [
+      "After the annual inventory.",
+      "The morning after the closure.",
+      "At 6 p.m. on the same day.",
+      "The following Friday afternoon."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「After the annual inventory.」這個回應。",
+      "錄音線索支持「The morning after the closure.」。",
+      "錄音沒有支持「At 6 p.m. on the same day.」這個回應。",
+      "錄音沒有支持「The following Friday afternoon.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-12",
+    "part": 4,
+    "scene": "Workplace announcement 12",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The safety briefing begins at 9:30 a.m. on Wednesday in Room C. Bring your employee badge. The session will last one hour."
+      }
+    ],
+    "stem": "Where will the safety briefing take place?",
+    "zh": "安全簡報週Wednesday上午九點半在Room C舉行。",
+    "options": [
+      "In Room C.",
+      "At the east entrance.",
+      "In the cafeteria.",
+      "At the loading dock."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「In Room C.」。",
+      "錄音沒有支持「At the east entrance.」這個回應。",
+      "錄音沒有支持「In the cafeteria.」這個回應。",
+      "錄音沒有支持「At the loading dock.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-13",
+    "part": 4,
+    "scene": "Workplace announcement 13",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The cafeteria will offer a reduced menu on Wednesday while kitchen equipment is serviced. Hot meals remain available, but the salad bar will be closed. Normal service resumes the next day."
+      }
+    ],
+    "stem": "What will be unavailable on that day?",
+    "zh": "週Wednesday廚房設備維修期間，沙拉吧暫停供應，熱食仍照常供應。",
+    "options": [
+      "Hot meals.",
+      "The cafeteria building.",
+      "The kitchen service team.",
+      "The salad bar."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「Hot meals.」這個回應。",
+      "錄音沒有支持「The cafeteria building.」這個回應。",
+      "錄音沒有支持「The kitchen service team.」這個回應。",
+      "錄音線索支持「The salad bar.」。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-14",
+    "part": 4,
+    "scene": "Workplace announcement 14",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The shuttle from Gate 2 leaves every 25 minutes during the morning shift on Wednesday. Arrive five minutes before departure. The afternoon schedule is unchanged."
+      }
+    ],
+    "stem": "How often will the shuttle leave?",
+    "zh": "週Wednesday早班期間，二號門接駁車每25分鐘一班。",
+    "options": [
+      "Once per hour.",
+      "Only in the afternoon.",
+      "Every 25 minutes.",
+      "Every five minutes."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「Once per hour.」這個回應。",
+      "錄音沒有支持「Only in the afternoon.」這個回應。",
+      "錄音線索支持「Every 25 minutes.」。",
+      "錄音沒有支持「Every five minutes.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-15",
+    "part": 4,
+    "scene": "Workplace announcement 15",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The new document portal opens August 3. Staff may use their usual login. The old shared drive remains available until August 17, after which it will be removed."
+      }
+    ],
+    "stem": "When will the old shared drive be removed?",
+    "zh": "文件入口網站於August 3啟用；舊共用磁碟於August 17後移除。",
+    "options": [
+      "After the next audit.",
+      "After August 17.",
+      "On August 3.",
+      "On the first Monday in August."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「After the next audit.」這個回應。",
+      "錄音線索支持「After August 17.」。",
+      "錄音沒有支持「On August 3.」這個回應。",
+      "錄音沒有支持「On the first Monday in August.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-16",
+    "part": 4,
+    "scene": "Workplace announcement 16",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The east entrance will close at 6 p.m. on Thursday for a safety inspection. Use the main entrance after that time. It will reopen the next morning."
+      }
+    ],
+    "stem": "When will the east entrance reopen?",
+    "zh": "東側入口週Thursday下午六點關閉，隔天早上重新開放。",
+    "options": [
+      "The morning after the closure.",
+      "At 6 p.m. on the same day.",
+      "The following Friday afternoon.",
+      "After the annual inventory."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「The morning after the closure.」。",
+      "錄音沒有支持「At 6 p.m. on the same day.」這個回應。",
+      "錄音沒有支持「The following Friday afternoon.」這個回應。",
+      "錄音沒有支持「After the annual inventory.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-17",
+    "part": 4,
+    "scene": "Workplace announcement 17",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The safety briefing begins at 9:30 a.m. on Thursday in Room D. Bring your employee badge. The session will last one hour."
+      }
+    ],
+    "stem": "Where will the safety briefing take place?",
+    "zh": "安全簡報週Thursday上午九點半在Room D舉行。",
+    "options": [
+      "At the east entrance.",
+      "In the cafeteria.",
+      "At the loading dock.",
+      "In Room D."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「At the east entrance.」這個回應。",
+      "錄音沒有支持「In the cafeteria.」這個回應。",
+      "錄音沒有支持「At the loading dock.」這個回應。",
+      "錄音線索支持「In Room D.」。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-18",
+    "part": 4,
+    "scene": "Workplace announcement 18",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The cafeteria will offer a reduced menu on Thursday while kitchen equipment is serviced. Hot meals remain available, but the salad bar will be closed. Normal service resumes the next day."
+      }
+    ],
+    "stem": "What will be unavailable on that day?",
+    "zh": "週Thursday廚房設備維修期間，沙拉吧暫停供應，熱食仍照常供應。",
+    "options": [
+      "The cafeteria building.",
+      "The kitchen service team.",
+      "The salad bar.",
+      "Hot meals."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「The cafeteria building.」這個回應。",
+      "錄音沒有支持「The kitchen service team.」這個回應。",
+      "錄音線索支持「The salad bar.」。",
+      "錄音沒有支持「Hot meals.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-19",
+    "part": 4,
+    "scene": "Workplace announcement 19",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The shuttle from Gate 2 leaves every 30 minutes during the morning shift on Thursday. Arrive five minutes before departure. The afternoon schedule is unchanged."
+      }
+    ],
+    "stem": "How often will the shuttle leave?",
+    "zh": "週Thursday早班期間，二號門接駁車每30分鐘一班。",
+    "options": [
+      "Only in the afternoon.",
+      "Every 30 minutes.",
+      "Every five minutes.",
+      "Once per hour."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「Only in the afternoon.」這個回應。",
+      "錄音線索支持「Every 30 minutes.」。",
+      "錄音沒有支持「Every five minutes.」這個回應。",
+      "錄音沒有支持「Once per hour.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-20",
+    "part": 4,
+    "scene": "Workplace announcement 20",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The new document portal opens September 4. Staff may use their usual login. The old shared drive remains available until September 18, after which it will be removed."
+      }
+    ],
+    "stem": "When will the old shared drive be removed?",
+    "zh": "文件入口網站於September 4啟用；舊共用磁碟於September 18後移除。",
+    "options": [
+      "After September 18.",
+      "On September 4.",
+      "On the first Monday in September.",
+      "After the next audit."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「After September 18.」。",
+      "錄音沒有支持「On September 4.」這個回應。",
+      "錄音沒有支持「On the first Monday in September.」這個回應。",
+      "錄音沒有支持「After the next audit.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-21",
+    "part": 4,
+    "scene": "Workplace announcement 21",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The east entrance will close at 6 p.m. on Friday for a safety inspection. Use the main entrance after that time. It will reopen the next morning."
+      }
+    ],
+    "stem": "When will the east entrance reopen?",
+    "zh": "東側入口週Friday下午六點關閉，隔天早上重新開放。",
+    "options": [
+      "At 6 p.m. on the same day.",
+      "The following Friday afternoon.",
+      "After the annual inventory.",
+      "The morning after the closure."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「At 6 p.m. on the same day.」這個回應。",
+      "錄音沒有支持「The following Friday afternoon.」這個回應。",
+      "錄音沒有支持「After the annual inventory.」這個回應。",
+      "錄音線索支持「The morning after the closure.」。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-22",
+    "part": 4,
+    "scene": "Workplace announcement 22",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The safety briefing begins at 9:30 a.m. on Friday in Room E. Bring your employee badge. The session will last one hour."
+      }
+    ],
+    "stem": "Where will the safety briefing take place?",
+    "zh": "安全簡報週Friday上午九點半在Room E舉行。",
+    "options": [
+      "In the cafeteria.",
+      "At the loading dock.",
+      "In Room E.",
+      "At the east entrance."
+    ],
+    "answer": 2,
+    "reasons": [
+      "錄音沒有支持「In the cafeteria.」這個回應。",
+      "錄音沒有支持「At the loading dock.」這個回應。",
+      "錄音線索支持「In Room E.」。",
+      "錄音沒有支持「At the east entrance.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-23",
+    "part": 4,
+    "scene": "Workplace announcement 23",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The cafeteria will offer a reduced menu on Friday while kitchen equipment is serviced. Hot meals remain available, but the salad bar will be closed. Normal service resumes the next day."
+      }
+    ],
+    "stem": "What will be unavailable on that day?",
+    "zh": "週Friday廚房設備維修期間，沙拉吧暫停供應，熱食仍照常供應。",
+    "options": [
+      "The kitchen service team.",
+      "The salad bar.",
+      "Hot meals.",
+      "The cafeteria building."
+    ],
+    "answer": 1,
+    "reasons": [
+      "錄音沒有支持「The kitchen service team.」這個回應。",
+      "錄音線索支持「The salad bar.」。",
+      "錄音沒有支持「Hot meals.」這個回應。",
+      "錄音沒有支持「The cafeteria building.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-24",
+    "part": 4,
+    "scene": "Workplace announcement 24",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The shuttle from Gate 2 leaves every 35 minutes during the morning shift on Friday. Arrive five minutes before departure. The afternoon schedule is unchanged."
+      }
+    ],
+    "stem": "How often will the shuttle leave?",
+    "zh": "週Friday早班期間，二號門接駁車每35分鐘一班。",
+    "options": [
+      "Every 35 minutes.",
+      "Every five minutes.",
+      "Once per hour.",
+      "Only in the afternoon."
+    ],
+    "answer": 0,
+    "reasons": [
+      "錄音線索支持「Every 35 minutes.」。",
+      "錄音沒有支持「Every five minutes.」這個回應。",
+      "錄音沒有支持「Once per hour.」這個回應。",
+      "錄音沒有支持「Only in the afternoon.」這個回應。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  },
+  {
+    "id": "L4-25",
+    "part": 4,
+    "scene": "Workplace announcement 25",
+    "segments": [
+      {
+        "speaker": "Announcer",
+        "kind": "announcement",
+        "text": "The new document portal opens October 5. Staff may use their usual login. The old shared drive remains available until October 19, after which it will be removed."
+      }
+    ],
+    "stem": "When will the old shared drive be removed?",
+    "zh": "文件入口網站於October 5啟用；舊共用磁碟於October 19後移除。",
+    "options": [
+      "On October 5.",
+      "On the first Monday in October.",
+      "After the next audit.",
+      "After October 19."
+    ],
+    "answer": 3,
+    "reasons": [
+      "錄音沒有支持「On October 5.」這個回應。",
+      "錄音沒有支持「On the first Monday in October.」這個回應。",
+      "錄音沒有支持「After the next audit.」這個回應。",
+      "錄音線索支持「After October 19.」。"
+    ],
+    "tip": "先辨認公告目的，再記日期、時間、地點、數字與例外。"
+  }
+]

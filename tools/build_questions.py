@@ -80,5 +80,9 @@ g('現在假設','If I ___ you, I would check the label again.','如果我是你
 g('平行結構','The job involves inspecting parts, recording data, and ___ reports.','工作包括檢查零件、記錄資料及撰寫報告。','writing~與 inspecting、recording 並列 V-ing。','write~並列形式不一致。','wrote~過去式不平行。','to write~此處不是並列不定詞。','and 左右找同一層級。')
 g('冠詞','The repair will take ___ hour.','維修會花一小時。','an~hour 開頭 h 不發音，以母音音素開始。','a~依發音不是字母，hour 用 an。','many~hour 單數，不能配 many。','few~few 需要複數。','an hour；a university。')
 g('限制條件','You may enter only if you ___ a valid badge.','只有持有效識別證才可進入。','have~真實條件使用現在式。','having~缺限定動詞。','has~you 不配 has。','had been~後面 badge 名詞語意與結構不合。','only if 是必要條件，閱讀不能漏 only。')
-(ROOT/'content/questions.json').write_text(json.dumps(questions,ensure_ascii=False,indent=2))
+target=ROOT/'content/questions.json'
+if target.exists():
+    print('Kept the authored content/questions.json source; remove it deliberately only when rebuilding the starter set.')
+else:
+    target.write_text(json.dumps(questions,ensure_ascii=False,indent=2))
 print('填空',sum(q['kind']=='填空' for q in questions),'文法',sum(q['kind']=='文法' for q in questions))

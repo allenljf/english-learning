@@ -1138,5 +1138,1430 @@
         "tip": "yesterday 管第一空；因此管第二空；your reply 需要前面的回覆請求。"
       }
     ]
+  },
+  {
+    "id": "R11",
+    "title": "Equipment Maintenance",
+    "level": "基礎",
+    "genre": "Maintenance notice",
+    "text": "The packaging line will stop at 6:00 p.m. on Thursday for scheduled maintenance. Technicians will replace the conveyor belt and test the emergency stop. The line is expected to reopen at 9:00 p.m. Production staff should move unfinished cartons to Line 2 before 5:30 p.m. Contact Mei Chen if the shutdown affects an urgent order.",
+    "zh": "週四下午六點包裝線將因定期維護停機。技術員會更換輸送帶並測試緊急停止裝置，預計晚上九點恢復。生產人員應在五點半前把未完成紙箱移到二號線。若停機影響急件，請聯絡陳美。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R11-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "model AB-9",
+          "Thursday",
+          "Tuesday",
+          "the south gate"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「Thursday」。",
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R11-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Line 2",
+          "the finance director",
+          "six business days",
+          "Line 4"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「Line 2」。",
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R11-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Room F",
+          "the procurement office",
+          "12:30 p.m.",
+          "9:00 p.m."
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「9:00 p.m.」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R11-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the west lot",
+          "a second inspection",
+          "Mei Chen",
+          "$750"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「Mei Chen」。",
+          "原文沒有提到「$750」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R12",
+    "title": "Supplier Delivery",
+    "level": "基礎",
+    "genre": "Delivery update",
+    "text": "Bright Components has moved order BC-4821 from Monday to Wednesday, October 14. The shipment contains 240 optical sensors and will arrive at the north receiving dock between 10:00 and 11:00 a.m. The receiving team must compare the packing list with the purchase order before signing. Report damaged cartons to the driver and the buyer on duty.",
+    "zh": "Bright Components 將 BC-4821 訂單從週一改至 10 月 14 日週三。貨物包含 240 個光學感測器，將於上午十點至十一點抵達北側收貨碼頭。收貨組簽收前必須核對裝箱單與採購單。若紙箱受損，請通知司機與值班採購員。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R12-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "October 14",
+          "Tuesday",
+          "the south gate",
+          "model AB-9"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「October 14」。",
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R12-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the finance director",
+          "six business days",
+          "Line 4",
+          "240 optical sensors"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「240 optical sensors」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R12-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the procurement office",
+          "12:30 p.m.",
+          "north receiving dock",
+          "Room F"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「north receiving dock」。",
+          "原文沒有提到「Room F」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R12-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "a second inspection",
+          "the buyer on duty",
+          "$750",
+          "the west lot"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「the buyer on duty」。",
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R13",
+    "title": "Training Session",
+    "level": "基礎",
+    "genre": "Training email",
+    "text": "A safety refresher will be held in Conference Room B on Tuesday, November 3, from 2:00 to 3:30 p.m. All new operators must attend. Experienced staff may join online using the link in the calendar invitation. Participants should bring their badge but do not need safety shoes because the session is classroom-based. Registration closes at noon on Friday.",
+    "zh": "安全複訓將於 11 月 3 日週二下午兩點至三點半在 B 會議室舉行。所有新進操作員都必須參加。資深員工可使用行事曆邀請中的連結線上參加。參加者應帶識別證；因為是教室課程，不需要安全鞋。週五中午截止報名。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R13-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the south gate",
+          "model AB-9",
+          "the finance director",
+          "November 3"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。",
+          "原文沒有提到「the finance director」。",
+          "原文直接提到「November 3」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R13-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Line 4",
+          "Room F",
+          "Conference Room B",
+          "six business days"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「Line 4」。",
+          "原文沒有提到「Room F」。",
+          "原文直接提到「Conference Room B」。",
+          "原文沒有提到「six business days」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R13-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "$750",
+          "new operators",
+          "the procurement office",
+          "12:30 p.m."
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「$750」。",
+          "原文直接提到「new operators」。",
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R13-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Friday at noon",
+          "the west lot",
+          "a second inspection",
+          "a ten-minute break"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「Friday at noon」。",
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。",
+          "原文沒有提到「a ten-minute break」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R14",
+    "title": "Visitor Access",
+    "level": "基礎",
+    "genre": "Visitor instructions",
+    "text": "Visitors entering Building 5 must check in at the west lobby and show a photo ID. Their host will meet them there at 8:45 a.m. Safety glasses are available at reception. The cleanroom tour begins at 9:00 a.m. and lasts 40 minutes. Visitors may take notes, but photography is not allowed. Late arrivals should call extension 224.",
+    "zh": "進入五號樓的訪客必須在西側大廳登記並出示有照片的證件。接待人會在上午八點四十五分於此會合。櫃台備有護目鏡。無塵室導覽九點開始，為時四十分鐘。訪客可以做筆記，但不可拍照。遲到者請打分機 224。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R14-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the south gate",
+          "model AB-9",
+          "west lobby",
+          "Tuesday"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「west lobby」。",
+          "原文沒有提到「Tuesday」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R14-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Line 4",
+          "8:45 a.m.",
+          "the finance director",
+          "six business days"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「8:45 a.m.」。",
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R14-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "40 minutes",
+          "Room F",
+          "the procurement office",
+          "12:30 p.m."
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「40 minutes」。",
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R14-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "$750",
+          "the west lot",
+          "a second inspection",
+          "extension 224"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「extension 224」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R15",
+    "title": "Inventory Count",
+    "level": "基礎",
+    "genre": "Inventory memo",
+    "text": "The annual inventory count for electronic components starts on Saturday, December 12. Teams A and B will count storage zones 1 through 4; Team C will check finished goods. Each team must scan the item label and record the quantity in the shared spreadsheet. Do not move boxes during the count. The warehouse closes at 4:00 p.m., and the report is due to Finance on Monday.",
+    "zh": "電子零件年度盤點將於 12 月 12 日週六開始。A、B 組盤點一至四區；C 組檢查成品。各組必須掃描品項標籤，並將數量記錄在共用試算表中。盤點期間不可移動箱子。倉庫下午四點關閉，報告須於週一交給財務部。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R15-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "model AB-9",
+          "December 12",
+          "Tuesday",
+          "the south gate"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「December 12」。",
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R15-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Teams A and B",
+          "the finance director",
+          "six business days",
+          "Line 4"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「Teams A and B」。",
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R15-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Room F",
+          "the procurement office",
+          "12:30 p.m.",
+          "shared spreadsheet"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「shared spreadsheet」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R15-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the west lot",
+          "a second inspection",
+          "Monday",
+          "$750"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「Monday」。",
+          "原文沒有提到「$750」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R16",
+    "title": "Quality Alert",
+    "level": "基礎",
+    "genre": "Quality bulletin",
+    "text": "Quality staff found scratches on 18 aluminum housings from lot AH-77. The affected units are stored on shelf Q3 and must not be sent to assembly. The supplier will inspect the remaining 62 housings on Wednesday. Until the inspection is complete, use lot AH-81 for urgent production. Send photographs of any additional defects to quality@fab.example.",
+    "zh": "品管人員在 AH-77 批次的 18 個鋁外殼上發現刮痕。受影響的品項存放於 Q3 架，不得送往組裝。供應商將於週三檢查其餘 62 個外殼。檢查完成前，急件生產請使用 AH-81 批次。若發現其他瑕疵，請將照片寄至 quality@fab.example。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R16-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "18 aluminum housings",
+          "Tuesday",
+          "the south gate",
+          "model AB-9"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「18 aluminum housings」。",
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R16-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the finance director",
+          "six business days",
+          "Line 4",
+          "shelf Q3"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「shelf Q3」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R16-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the procurement office",
+          "12:30 p.m.",
+          "Wednesday",
+          "Room F"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「Wednesday」。",
+          "原文沒有提到「Room F」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R16-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "a second inspection",
+          "AH-81",
+          "$750",
+          "the west lot"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「AH-81」。",
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R17",
+    "title": "Office Relocation",
+    "level": "基礎",
+    "genre": "Relocation notice",
+    "text": "The purchasing department will move to the second floor on August 1. Employees should pack personal items by July 29; labeled boxes will be moved by the facilities team. The department phone number will remain unchanged. For two days, visitors should use the temporary meeting area beside Reception. Updated desk assignments are posted on the intranet.",
+    "zh": "採購部將於 8 月 1 日搬至二樓。員工應於 7 月 29 日前整理個人物品，設施組會搬運貼好標籤的箱子。部門電話號碼不變。兩天期間，訪客請使用接待處旁的臨時會議區。更新後的座位安排已公告於內部網站。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R17-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Tuesday",
+          "the south gate",
+          "model AB-9",
+          "August 1"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「August 1」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R17-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "six business days",
+          "Line 4",
+          "July 29",
+          "the finance director"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「July 29」。",
+          "原文沒有提到「the finance director」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R17-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "12:30 p.m.",
+          "facilities team",
+          "Room F",
+          "the procurement office"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「facilities team」。",
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R17-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the intranet",
+          "$750",
+          "the west lot",
+          "a second inspection"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「the intranet」。",
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R18",
+    "title": "Travel Policy",
+    "level": "基礎",
+    "genre": "Travel policy update",
+    "text": "Beginning next month, employees traveling more than 80 kilometers may request a company car. Requests must be submitted to Administration at least three business days before departure. Taxi fares require a receipt, and meal costs are reimbursed up to NT$500 per day. Hotel reservations should use the approved booking portal. Contact Daniel Wu with policy questions.",
+    "zh": "從下個月起，出差距離超過 80 公里的員工可申請公司車。申請須在出發前三個工作天送交行政部。計程車費須附收據，每日餐費最高補助新台幣 500 元。飯店訂房應使用核准的預訂入口網站。政策問題請聯絡吳丹尼爾。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R18-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the south gate",
+          "model AB-9",
+          "80 kilometers",
+          "Tuesday"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「80 kilometers」。",
+          "原文沒有提到「Tuesday」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R18-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Line 4",
+          "three business days",
+          "the finance director",
+          "six business days"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「three business days」。",
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R18-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "NT$500 per day",
+          "Room F",
+          "the procurement office",
+          "12:30 p.m."
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「NT$500 per day」。",
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R18-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "$750",
+          "the west lot",
+          "a second inspection",
+          "Daniel Wu"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「Daniel Wu」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R19",
+    "title": "Production Schedule",
+    "level": "基礎",
+    "genre": "Shift schedule",
+    "text": "On Monday, Assembly Line 3 will run the Model K units from 7:00 a.m. until 3:00 p.m. The afternoon shift will assemble Model M. Line 2 is reserved for urgent repairs and will not run new orders. Team leaders should confirm staffing by Friday and report shortages to Operations. A revised schedule will be posted near the time clock.",
+    "zh": "週一，三號組裝線將於上午七點至下午三點生產 K 型產品。下午班組裝 M 型產品。二號線保留給緊急維修，不會生產新訂單。組長應於週五前確認人力，並向營運部回報缺額。修訂後的時程會張貼在打卡鐘旁。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R19-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "model AB-9",
+          "Model K units",
+          "Tuesday",
+          "the south gate"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「Model K units」。",
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R19-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Model M",
+          "the finance director",
+          "six business days",
+          "Line 4"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「Model M」。",
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R19-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Room F",
+          "the procurement office",
+          "12:30 p.m.",
+          "urgent repairs"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「urgent repairs」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R19-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the west lot",
+          "a second inspection",
+          "Friday",
+          "$750"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「Friday」。",
+          "原文沒有提到「$750」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R20",
+    "title": "Expense Claims",
+    "level": "基礎",
+    "genre": "Finance reminder",
+    "text": "Expense claims for September are due by October 5. Employees must attach digital receipts and select the correct project code. Claims over NT$10,000 require a manager’s approval. Finance will return incomplete forms within two business days. Reimbursements are scheduled for October 20. Questions about the online system should be sent to the Finance help desk.",
+    "zh": "九月份費用申請須於 10 月 5 日前送出。員工必須附上電子收據並選擇正確的專案代碼。超過新台幣 10,000 元的申請需要主管核准。財務部會在兩個工作天內退回未填完整的表單。款項預計 10 月 20 日支付。線上系統問題請洽財務服務台。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R20-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "October 5",
+          "Tuesday",
+          "the south gate",
+          "model AB-9"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「October 5」。",
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R20-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the finance director",
+          "six business days",
+          "Line 4",
+          "digital receipts"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「digital receipts」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R20-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the procurement office",
+          "12:30 p.m.",
+          "NT$10,000",
+          "Room F"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「NT$10,000」。",
+          "原文沒有提到「Room F」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R20-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "a second inspection",
+          "October 20",
+          "$750",
+          "the west lot"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「October 20」。",
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R21",
+    "title": "Document Control",
+    "level": "基礎",
+    "genre": "Document control email",
+    "text": "Revision 6 of procedure QC-14 is available in the document portal. It replaces Revision 5, which should be removed from workstations by Friday. The new version adds a step for recording calibration results. Supervisors must brief their teams before the next audit. Printed copies are uncontrolled; always check the portal for the current revision.",
+    "zh": "文件入口網站已提供 QC-14 程序第六版，取代第五版；第五版應於週五前從工作站移除。新版新增記錄校正結果的步驟。主管必須在下次稽核前向團隊說明。紙本副本不受控，請務必至入口網站確認目前版本。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R21-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Tuesday",
+          "the south gate",
+          "model AB-9",
+          "Revision 6"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「Revision 6」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R21-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "six business days",
+          "Line 4",
+          "Friday",
+          "the finance director"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「Friday」。",
+          "原文沒有提到「the finance director」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R21-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "12:30 p.m.",
+          "calibration results",
+          "Room F",
+          "the procurement office"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「calibration results」。",
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R21-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the document portal",
+          "$750",
+          "the west lot",
+          "a second inspection"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「the document portal」。",
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R22",
+    "title": "Parking Notice",
+    "level": "基礎",
+    "genre": "Facility notice",
+    "text": "The east parking lot will be closed from May 10 through May 12 for resurfacing. Employees may park in the visitor lot after 6:00 p.m. or use the shuttle from Gate 2. The shuttle leaves every 15 minutes during the morning shift. Bicycles should be placed in the covered rack near the cafeteria. The lot reopens at 7:00 a.m. on May 13.",
+    "zh": "東側停車場將於 5 月 10 日至 12 日因重新鋪面而關閉。員工可在下午六點後停入訪客停車場，或從二號門搭乘接駁車。早班期間接駁車每 15 分鐘一班。腳踏車請停在餐廳附近的有遮棚車架。停車場於 5 月 13 日上午七點重新開放。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R22-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the south gate",
+          "model AB-9",
+          "May 10 through May 12",
+          "Tuesday"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「May 10 through May 12」。",
+          "原文沒有提到「Tuesday」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R22-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Line 4",
+          "visitor lot",
+          "the finance director",
+          "six business days"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「visitor lot」。",
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R22-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "every 15 minutes",
+          "Room F",
+          "the procurement office",
+          "12:30 p.m."
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「every 15 minutes」。",
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R22-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "$750",
+          "the west lot",
+          "a second inspection",
+          "May 13"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「May 13」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R23",
+    "title": "Customer Visit",
+    "level": "基礎",
+    "genre": "Visit agenda",
+    "text": "A customer audit is scheduled for Thursday, April 16. The visitors will arrive at 9:30 a.m. and review the incoming inspection process before lunch. The afternoon session covers corrective actions and will take place in Meeting Room 4. Please send the latest defect trend chart to the account manager by Wednesday. Lunch will be provided in the cafeteria.",
+    "zh": "客戶稽核訂於 4 月 16 日週四。訪客上午九點半抵達，午餐前檢視進料檢驗流程。下午場次討論矯正措施，地點為四號會議室。請於週三前將最新瑕疵趨勢圖寄給客戶經理。午餐在餐廳提供。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R23-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "model AB-9",
+          "Thursday, April 16",
+          "Tuesday",
+          "the south gate"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「Thursday, April 16」。",
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R23-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "9:30 a.m.",
+          "the finance director",
+          "six business days",
+          "Line 4"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「9:30 a.m.」。",
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R23-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Room F",
+          "the procurement office",
+          "12:30 p.m.",
+          "Meeting Room 4"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「Meeting Room 4」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R23-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the west lot",
+          "a second inspection",
+          "Wednesday",
+          "$750"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「Wednesday」。",
+          "原文沒有提到「$750」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R24",
+    "title": "Cleanroom Supplies",
+    "level": "基礎",
+    "genre": "Supply update",
+    "text": "A shipment of gloves and masks arrived this morning. The gloves are stored in cabinet C-12, while masks are available at each cleanroom entrance. The current glove size M stock is low, so supervisors should request additional boxes by 2:00 p.m. The next supply delivery is expected on Friday. Used protective clothing must be placed in the marked collection bins.",
+    "zh": "一批手套與口罩今天早上送達。手套存放於 C-12 櫃，口罩放在各無塵室入口。M 號手套庫存偏低，主管應於下午兩點前申請補充箱數。下一批物資預計週五送達。使用過的防護衣必須放入標示的回收箱。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R24-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "cabinet C-12",
+          "Tuesday",
+          "the south gate",
+          "model AB-9"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「cabinet C-12」。",
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R24-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the finance director",
+          "six business days",
+          "Line 4",
+          "each cleanroom entrance"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「the finance director」。",
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「each cleanroom entrance」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R24-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the procurement office",
+          "12:30 p.m.",
+          "2:00 p.m.",
+          "Room F"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「the procurement office」。",
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「2:00 p.m.」。",
+          "原文沒有提到「Room F」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R24-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "a second inspection",
+          "Friday",
+          "$750",
+          "the west lot"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「a second inspection」。",
+          "原文直接提到「Friday」。",
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
+  },
+  {
+    "id": "R25",
+    "title": "Network Maintenance",
+    "level": "基礎",
+    "genre": "IT announcement",
+    "text": "The company network will be unavailable from 11:00 p.m. Saturday until 1:00 a.m. Sunday while IT installs a security update. Email and the production dashboard will be affected; machine controls will continue to operate locally. Save open work before leaving on Saturday. For urgent access during the outage, call the IT duty number listed on the intranet.",
+    "zh": "資訊部將於週六晚上十一點至週日凌晨一點安裝安全更新，期間公司網路將無法使用。電子郵件與生產儀表板會受影響；機台控制仍會在本機運作。週六離開前請儲存未完成工作。若停機期間有緊急存取需求，請撥打內部網站上的資訊值班電話。",
+    "strategy": "先圈人、日期、地點與限制詞；答案要能在原文找到同義線索。",
+    "questions": [
+      {
+        "id": "R25-1",
+        "kind": "閱讀",
+        "topic": "日期與時間",
+        "stem": "Which specific detail appears in the notice?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "Tuesday",
+          "the south gate",
+          "model AB-9",
+          "11:00 p.m. Saturday"
+        ],
+        "answer": 3,
+        "reasons": [
+          "原文沒有提到「Tuesday」。",
+          "原文沒有提到「the south gate」。",
+          "原文沒有提到「model AB-9」。",
+          "原文直接提到「11:00 p.m. Saturday」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R25-2",
+        "kind": "閱讀",
+        "topic": "細節定位",
+        "stem": "Which information can the reader confirm from the message?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "six business days",
+          "Line 4",
+          "1:00 a.m. Sunday",
+          "the finance director"
+        ],
+        "answer": 2,
+        "reasons": [
+          "原文沒有提到「six business days」。",
+          "原文沒有提到「Line 4」。",
+          "原文直接提到「1:00 a.m. Sunday」。",
+          "原文沒有提到「the finance director」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R25-3",
+        "kind": "閱讀",
+        "topic": "行動與限制",
+        "stem": "Which item or instruction is mentioned in the passage?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "12:30 p.m.",
+          "machine controls",
+          "Room F",
+          "the procurement office"
+        ],
+        "answer": 1,
+        "reasons": [
+          "原文沒有提到「12:30 p.m.」。",
+          "原文直接提到「machine controls」。",
+          "原文沒有提到「Room F」。",
+          "原文沒有提到「the procurement office」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      },
+      {
+        "id": "R25-4",
+        "kind": "閱讀",
+        "topic": "文件目的",
+        "stem": "Which statement is supported by the text?",
+        "zh": "根據文章，哪一項資訊有明確提及？",
+        "options": [
+          "the IT duty number",
+          "$750",
+          "the west lot",
+          "a second inspection"
+        ],
+        "answer": 0,
+        "reasons": [
+          "原文直接提到「the IT duty number」。",
+          "原文沒有提到「$750」。",
+          "原文沒有提到「the west lot」。",
+          "原文沒有提到「a second inspection」。"
+        ],
+        "tip": "回到原文定位同義字；錯誤選項可能合理，但必須有本文證據。"
+      }
+    ]
   }
 ]

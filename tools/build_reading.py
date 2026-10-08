@@ -118,5 +118,9 @@ Customer Support''','''關於 A-62 訂單：昨天最後檢驗發現連接器缺
 ('段落邏輯','Choose the best answer for [2].','第 2 空應填什麼？','Therefore~受影響品暫停放行，導致不能全出貨。','Nevertheless~不是克服前述障礙反而全出。','Similarly~不是列相似例子。','For example~不是舉例。'),
 ('段落詞性','Choose the best answer for [3].','第 3 空應填什麼？','additional~修飾 shipping charge 用形容詞。','additionally~副詞不能直接修飾名詞 charge。','addition~不是此處額外的形容詞。','add~動詞不合。'),
 ('句子插入','Which sentence best fits [4]?','第 4 空插哪句最連貫？','Please confirm whether this arrangement is acceptable.~提出分批後要求確認，承接下一句 your reply。','Your order was delivered in full last week.~與今天不能全寄矛盾。','We never inspect connectors.~與第一段昨天檢驗矛盾。','All customers must apply for a job online.~招聘與出貨離題。')])
-(ROOT/'content/reading.json').write_text(json.dumps(sets,ensure_ascii=False,indent=2))
+target=ROOT/'content/reading.json'
+if target.exists():
+    print('Kept the authored content/reading.json source; remove it deliberately only when rebuilding the starter set.')
+else:
+    target.write_text(json.dumps(sets,ensure_ascii=False,indent=2))
 print('題組',len(sets),'題目',sum(len(s['questions']) for s in sets))

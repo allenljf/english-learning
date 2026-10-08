@@ -1082,3 +1082,1923 @@ D. had been
 記法：only if 是必要條件，閱讀不能漏 only。
 
 </details>
+### G37 · 時態
+
+The engineers ___ the equipment every Friday.
+
+A. review
+
+B. reviews
+
+C. reviewed
+
+D. reviewing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers每週五檢視報告。
+
+答案：A · review
+
+- A：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+- B：reviews 不符合句中的文法或固定搭配。
+
+- C：reviewed 不符合句中的文法或固定搭配。
+
+- D：reviewing 不符合句中的文法或固定搭配。
+
+記法：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+</details>
+### G38 · 被動語態
+
+Ms. Lin ___ the equipment last Friday.
+
+A. inspect
+
+B. inspects
+
+C. inspected
+
+D. inspecting
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Ms. Lin上週五檢查設備。
+
+答案：C · inspected
+
+- A：inspect 不符合句中的文法或固定搭配。
+
+- B：inspects 不符合句中的文法或固定搭配。
+
+- C：last Friday 是結束的過去時間，使用過去式。
+
+- D：inspecting 不符合句中的文法或固定搭配。
+
+記法：last Friday 是結束的過去時間，使用過去式。
+
+</details>
+### G39 · 介系詞
+
+The production team is ___ the equipment now.
+
+A. confirm
+
+B. confirms
+
+C. confirmed
+
+D. confirming
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team現在正在確認交貨日期。
+
+答案：D · confirming
+
+- A：confirm 不符合句中的文法或固定搭配。
+
+- B：confirms 不符合句中的文法或固定搭配。
+
+- C：confirmed 不符合句中的文法或固定搭配。
+
+- D：be + V-ing 表示此刻進行中的動作。
+
+記法：be + V-ing 表示此刻進行中的動作。
+
+</details>
+### G40 · 完成式
+
+The equipment ___ before shipment yesterday.
+
+A. was update
+
+B. was updated
+
+C. is updated
+
+D. did update
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：設備昨天在出貨前被更新時程。
+
+答案：B · was updated
+
+- A：was update 不符合句中的文法或固定搭配。
+
+- B：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+- C：is updated 不符合句中的文法或固定搭配。
+
+- D：did update 不符合句中的文法或固定搭配。
+
+記法：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+</details>
+### G41 · 時態
+
+The engineers has ___ the equipment already.
+
+A. calibrate
+
+B. calibrated
+
+C. calibrates
+
+D. calibrating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers已經校正儀器設備。
+
+答案：B · calibrated
+
+- A：calibrate 不符合句中的文法或固定搭配。
+
+- B：has + 過去分詞；already 常提示已完成且與現在相關。
+
+- C：calibrates 不符合句中的文法或固定搭配。
+
+- D：calibrating 不符合句中的文法或固定搭配。
+
+記法：has + 過去分詞；already 常提示已完成且與現在相關。
+
+</details>
+### G42 · 被動語態
+
+The team is responsible ___ checking the samples.
+
+A. for
+
+B. to
+
+C. at
+
+D. with
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：團隊負責檢查樣本。
+
+答案：A · for
+
+- A：固定搭配 be responsible for + 名詞或 V-ing。
+
+- B：to 不符合句中的文法或固定搭配。
+
+- C：at 不符合句中的文法或固定搭配。
+
+- D：with 不符合句中的文法或固定搭配。
+
+記法：固定搭配 be responsible for + 名詞或 V-ing。
+
+</details>
+### G43 · 介系詞
+
+The production team ___ not receive the revised schedule yet.
+
+A. has
+
+B. have
+
+C. does
+
+D. is
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team還沒有收到修訂後的時程。
+
+答案：A · has
+
+- A：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+- B：have 不符合句中的文法或固定搭配。
+
+- C：does 不符合句中的文法或固定搭配。
+
+- D：is 不符合句中的文法或固定搭配。
+
+記法：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+</details>
+### G44 · 完成式
+
+Please send the signed form ___ the HR department.
+
+A. to
+
+B. for
+
+C. by
+
+D. from
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：請把簽好的表格寄給人資部門。
+
+答案：A · to
+
+- A：send something to a recipient；to 引出接收者。
+
+- B：for 不符合句中的文法或固定搭配。
+
+- C：by 不符合句中的文法或固定搭配。
+
+- D：from 不符合句中的文法或固定搭配。
+
+記法：send something to a recipient；to 引出接收者。
+
+</details>
+### G45 · 時態
+
+The engineers ___ the equipment every Friday.
+
+A. replace
+
+B. replaces
+
+C. replaced
+
+D. replacing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers每週五更換濾網。
+
+答案：A · replace
+
+- A：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+- B：replaces 不符合句中的文法或固定搭配。
+
+- C：replaced 不符合句中的文法或固定搭配。
+
+- D：replacing 不符合句中的文法或固定搭配。
+
+記法：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+</details>
+### G46 · 被動語態
+
+Ms. Lin ___ the equipment last Friday.
+
+A. record
+
+B. records
+
+C. recorded
+
+D. recording
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Ms. Lin上週五記錄結果。
+
+答案：C · recorded
+
+- A：record 不符合句中的文法或固定搭配。
+
+- B：records 不符合句中的文法或固定搭配。
+
+- C：last Friday 是結束的過去時間，使用過去式。
+
+- D：recording 不符合句中的文法或固定搭配。
+
+記法：last Friday 是結束的過去時間，使用過去式。
+
+</details>
+### G47 · 介系詞
+
+The production team is ___ the equipment now.
+
+A. notify
+
+B. notifies
+
+C. notified
+
+D. notifying
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team現在正在通知主管。
+
+答案：D · notifying
+
+- A：notify 不符合句中的文法或固定搭配。
+
+- B：notifies 不符合句中的文法或固定搭配。
+
+- C：notified 不符合句中的文法或固定搭配。
+
+- D：be + V-ing 表示此刻進行中的動作。
+
+記法：be + V-ing 表示此刻進行中的動作。
+
+</details>
+### G48 · 完成式
+
+The equipment ___ before shipment yesterday.
+
+A. was prepare
+
+B. was prepared
+
+C. is prepared
+
+D. did prepare
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：設備昨天在出貨前被準備樣本。
+
+答案：B · was prepared
+
+- A：was prepare 不符合句中的文法或固定搭配。
+
+- B：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+- C：is prepared 不符合句中的文法或固定搭配。
+
+- D：did prepare 不符合句中的文法或固定搭配。
+
+記法：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+</details>
+### G49 · 時態
+
+The engineers has ___ the equipment already.
+
+A. arrange
+
+B. arranged
+
+C. arranges
+
+D. arranging
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers已經安排訪視設備。
+
+答案：B · arranged
+
+- A：arrange 不符合句中的文法或固定搭配。
+
+- B：has + 過去分詞；already 常提示已完成且與現在相關。
+
+- C：arranges 不符合句中的文法或固定搭配。
+
+- D：arranging 不符合句中的文法或固定搭配。
+
+記法：has + 過去分詞；already 常提示已完成且與現在相關。
+
+</details>
+### G50 · 被動語態
+
+The team is responsible ___ checking the samples.
+
+A. for
+
+B. to
+
+C. at
+
+D. with
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：團隊負責檢查樣本。
+
+答案：A · for
+
+- A：固定搭配 be responsible for + 名詞或 V-ing。
+
+- B：to 不符合句中的文法或固定搭配。
+
+- C：at 不符合句中的文法或固定搭配。
+
+- D：with 不符合句中的文法或固定搭配。
+
+記法：固定搭配 be responsible for + 名詞或 V-ing。
+
+</details>
+### G51 · 介系詞
+
+The production team ___ not receive the revised schedule yet.
+
+A. has
+
+B. have
+
+C. does
+
+D. is
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team還沒有收到修訂後的時程。
+
+答案：A · has
+
+- A：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+- B：have 不符合句中的文法或固定搭配。
+
+- C：does 不符合句中的文法或固定搭配。
+
+- D：is 不符合句中的文法或固定搭配。
+
+記法：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+</details>
+### G52 · 完成式
+
+Please send the signed form ___ the HR department.
+
+A. to
+
+B. for
+
+C. by
+
+D. from
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：請把簽好的表格寄給人資部門。
+
+答案：A · to
+
+- A：send something to a recipient；to 引出接收者。
+
+- B：for 不符合句中的文法或固定搭配。
+
+- C：by 不符合句中的文法或固定搭配。
+
+- D：from 不符合句中的文法或固定搭配。
+
+記法：send something to a recipient；to 引出接收者。
+
+</details>
+### G53 · 時態
+
+The engineers ___ the equipment every Friday.
+
+A. review
+
+B. reviews
+
+C. reviewed
+
+D. reviewing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers每週五檢視報告。
+
+答案：A · review
+
+- A：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+- B：reviews 不符合句中的文法或固定搭配。
+
+- C：reviewed 不符合句中的文法或固定搭配。
+
+- D：reviewing 不符合句中的文法或固定搭配。
+
+記法：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+</details>
+### G54 · 被動語態
+
+Ms. Lin ___ the equipment last Friday.
+
+A. inspect
+
+B. inspects
+
+C. inspected
+
+D. inspecting
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Ms. Lin上週五檢查設備。
+
+答案：C · inspected
+
+- A：inspect 不符合句中的文法或固定搭配。
+
+- B：inspects 不符合句中的文法或固定搭配。
+
+- C：last Friday 是結束的過去時間，使用過去式。
+
+- D：inspecting 不符合句中的文法或固定搭配。
+
+記法：last Friday 是結束的過去時間，使用過去式。
+
+</details>
+### G55 · 介系詞
+
+The production team is ___ the equipment now.
+
+A. confirm
+
+B. confirms
+
+C. confirmed
+
+D. confirming
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team現在正在確認交貨日期。
+
+答案：D · confirming
+
+- A：confirm 不符合句中的文法或固定搭配。
+
+- B：confirms 不符合句中的文法或固定搭配。
+
+- C：confirmed 不符合句中的文法或固定搭配。
+
+- D：be + V-ing 表示此刻進行中的動作。
+
+記法：be + V-ing 表示此刻進行中的動作。
+
+</details>
+### G56 · 完成式
+
+The equipment ___ before shipment yesterday.
+
+A. was update
+
+B. was updated
+
+C. is updated
+
+D. did update
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：設備昨天在出貨前被更新時程。
+
+答案：B · was updated
+
+- A：was update 不符合句中的文法或固定搭配。
+
+- B：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+- C：is updated 不符合句中的文法或固定搭配。
+
+- D：did update 不符合句中的文法或固定搭配。
+
+記法：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+</details>
+### G57 · 時態
+
+The engineers has ___ the equipment already.
+
+A. calibrate
+
+B. calibrated
+
+C. calibrates
+
+D. calibrating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers已經校正儀器設備。
+
+答案：B · calibrated
+
+- A：calibrate 不符合句中的文法或固定搭配。
+
+- B：has + 過去分詞；already 常提示已完成且與現在相關。
+
+- C：calibrates 不符合句中的文法或固定搭配。
+
+- D：calibrating 不符合句中的文法或固定搭配。
+
+記法：has + 過去分詞；already 常提示已完成且與現在相關。
+
+</details>
+### G58 · 被動語態
+
+The team is responsible ___ checking the samples.
+
+A. for
+
+B. to
+
+C. at
+
+D. with
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：團隊負責檢查樣本。
+
+答案：A · for
+
+- A：固定搭配 be responsible for + 名詞或 V-ing。
+
+- B：to 不符合句中的文法或固定搭配。
+
+- C：at 不符合句中的文法或固定搭配。
+
+- D：with 不符合句中的文法或固定搭配。
+
+記法：固定搭配 be responsible for + 名詞或 V-ing。
+
+</details>
+### G59 · 介系詞
+
+The production team ___ not receive the revised schedule yet.
+
+A. has
+
+B. have
+
+C. does
+
+D. is
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team還沒有收到修訂後的時程。
+
+答案：A · has
+
+- A：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+- B：have 不符合句中的文法或固定搭配。
+
+- C：does 不符合句中的文法或固定搭配。
+
+- D：is 不符合句中的文法或固定搭配。
+
+記法：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+</details>
+### G60 · 完成式
+
+Please send the signed form ___ the HR department.
+
+A. to
+
+B. for
+
+C. by
+
+D. from
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：請把簽好的表格寄給人資部門。
+
+答案：A · to
+
+- A：send something to a recipient；to 引出接收者。
+
+- B：for 不符合句中的文法或固定搭配。
+
+- C：by 不符合句中的文法或固定搭配。
+
+- D：from 不符合句中的文法或固定搭配。
+
+記法：send something to a recipient；to 引出接收者。
+
+</details>
+### G61 · 時態
+
+The engineers ___ the equipment every Friday.
+
+A. replace
+
+B. replaces
+
+C. replaced
+
+D. replacing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers每週五更換濾網。
+
+答案：A · replace
+
+- A：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+- B：replaces 不符合句中的文法或固定搭配。
+
+- C：replaced 不符合句中的文法或固定搭配。
+
+- D：replacing 不符合句中的文法或固定搭配。
+
+記法：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+</details>
+### G62 · 被動語態
+
+Ms. Lin ___ the equipment last Friday.
+
+A. record
+
+B. records
+
+C. recorded
+
+D. recording
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Ms. Lin上週五記錄結果。
+
+答案：C · recorded
+
+- A：record 不符合句中的文法或固定搭配。
+
+- B：records 不符合句中的文法或固定搭配。
+
+- C：last Friday 是結束的過去時間，使用過去式。
+
+- D：recording 不符合句中的文法或固定搭配。
+
+記法：last Friday 是結束的過去時間，使用過去式。
+
+</details>
+### G63 · 介系詞
+
+The production team is ___ the equipment now.
+
+A. notify
+
+B. notifies
+
+C. notified
+
+D. notifying
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team現在正在通知主管。
+
+答案：D · notifying
+
+- A：notify 不符合句中的文法或固定搭配。
+
+- B：notifies 不符合句中的文法或固定搭配。
+
+- C：notified 不符合句中的文法或固定搭配。
+
+- D：be + V-ing 表示此刻進行中的動作。
+
+記法：be + V-ing 表示此刻進行中的動作。
+
+</details>
+### G64 · 完成式
+
+The equipment ___ before shipment yesterday.
+
+A. was prepare
+
+B. was prepared
+
+C. is prepared
+
+D. did prepare
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：設備昨天在出貨前被準備樣本。
+
+答案：B · was prepared
+
+- A：was prepare 不符合句中的文法或固定搭配。
+
+- B：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+- C：is prepared 不符合句中的文法或固定搭配。
+
+- D：did prepare 不符合句中的文法或固定搭配。
+
+記法：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+</details>
+### G65 · 時態
+
+The engineers has ___ the equipment already.
+
+A. arrange
+
+B. arranged
+
+C. arranges
+
+D. arranging
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers已經安排訪視設備。
+
+答案：B · arranged
+
+- A：arrange 不符合句中的文法或固定搭配。
+
+- B：has + 過去分詞；already 常提示已完成且與現在相關。
+
+- C：arranges 不符合句中的文法或固定搭配。
+
+- D：arranging 不符合句中的文法或固定搭配。
+
+記法：has + 過去分詞；already 常提示已完成且與現在相關。
+
+</details>
+### G66 · 被動語態
+
+The team is responsible ___ checking the samples.
+
+A. for
+
+B. to
+
+C. at
+
+D. with
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：團隊負責檢查樣本。
+
+答案：A · for
+
+- A：固定搭配 be responsible for + 名詞或 V-ing。
+
+- B：to 不符合句中的文法或固定搭配。
+
+- C：at 不符合句中的文法或固定搭配。
+
+- D：with 不符合句中的文法或固定搭配。
+
+記法：固定搭配 be responsible for + 名詞或 V-ing。
+
+</details>
+### G67 · 介系詞
+
+The production team ___ not receive the revised schedule yet.
+
+A. has
+
+B. have
+
+C. does
+
+D. is
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team還沒有收到修訂後的時程。
+
+答案：A · has
+
+- A：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+- B：have 不符合句中的文法或固定搭配。
+
+- C：does 不符合句中的文法或固定搭配。
+
+- D：is 不符合句中的文法或固定搭配。
+
+記法：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+</details>
+### G68 · 完成式
+
+Please send the signed form ___ the HR department.
+
+A. to
+
+B. for
+
+C. by
+
+D. from
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：請把簽好的表格寄給人資部門。
+
+答案：A · to
+
+- A：send something to a recipient；to 引出接收者。
+
+- B：for 不符合句中的文法或固定搭配。
+
+- C：by 不符合句中的文法或固定搭配。
+
+- D：from 不符合句中的文法或固定搭配。
+
+記法：send something to a recipient；to 引出接收者。
+
+</details>
+### G69 · 時態
+
+The engineers ___ the equipment every Friday.
+
+A. review
+
+B. reviews
+
+C. reviewed
+
+D. reviewing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers每週五檢視報告。
+
+答案：A · review
+
+- A：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+- B：reviews 不符合句中的文法或固定搭配。
+
+- C：reviewed 不符合句中的文法或固定搭配。
+
+- D：reviewing 不符合句中的文法或固定搭配。
+
+記法：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+</details>
+### G70 · 被動語態
+
+Ms. Lin ___ the equipment last Friday.
+
+A. inspect
+
+B. inspects
+
+C. inspected
+
+D. inspecting
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Ms. Lin上週五檢查設備。
+
+答案：C · inspected
+
+- A：inspect 不符合句中的文法或固定搭配。
+
+- B：inspects 不符合句中的文法或固定搭配。
+
+- C：last Friday 是結束的過去時間，使用過去式。
+
+- D：inspecting 不符合句中的文法或固定搭配。
+
+記法：last Friday 是結束的過去時間，使用過去式。
+
+</details>
+### G71 · 介系詞
+
+The production team is ___ the equipment now.
+
+A. confirm
+
+B. confirms
+
+C. confirmed
+
+D. confirming
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team現在正在確認交貨日期。
+
+答案：D · confirming
+
+- A：confirm 不符合句中的文法或固定搭配。
+
+- B：confirms 不符合句中的文法或固定搭配。
+
+- C：confirmed 不符合句中的文法或固定搭配。
+
+- D：be + V-ing 表示此刻進行中的動作。
+
+記法：be + V-ing 表示此刻進行中的動作。
+
+</details>
+### G72 · 完成式
+
+The equipment ___ before shipment yesterday.
+
+A. was update
+
+B. was updated
+
+C. is updated
+
+D. did update
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：設備昨天在出貨前被更新時程。
+
+答案：B · was updated
+
+- A：was update 不符合句中的文法或固定搭配。
+
+- B：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+- C：is updated 不符合句中的文法或固定搭配。
+
+- D：did update 不符合句中的文法或固定搭配。
+
+記法：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+</details>
+### G73 · 時態
+
+The engineers has ___ the equipment already.
+
+A. calibrate
+
+B. calibrated
+
+C. calibrates
+
+D. calibrating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers已經校正儀器設備。
+
+答案：B · calibrated
+
+- A：calibrate 不符合句中的文法或固定搭配。
+
+- B：has + 過去分詞；already 常提示已完成且與現在相關。
+
+- C：calibrates 不符合句中的文法或固定搭配。
+
+- D：calibrating 不符合句中的文法或固定搭配。
+
+記法：has + 過去分詞；already 常提示已完成且與現在相關。
+
+</details>
+### G74 · 被動語態
+
+The team is responsible ___ checking the samples.
+
+A. for
+
+B. to
+
+C. at
+
+D. with
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：團隊負責檢查樣本。
+
+答案：A · for
+
+- A：固定搭配 be responsible for + 名詞或 V-ing。
+
+- B：to 不符合句中的文法或固定搭配。
+
+- C：at 不符合句中的文法或固定搭配。
+
+- D：with 不符合句中的文法或固定搭配。
+
+記法：固定搭配 be responsible for + 名詞或 V-ing。
+
+</details>
+### G75 · 介系詞
+
+The production team ___ not receive the revised schedule yet.
+
+A. has
+
+B. have
+
+C. does
+
+D. is
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team還沒有收到修訂後的時程。
+
+答案：A · has
+
+- A：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+- B：have 不符合句中的文法或固定搭配。
+
+- C：does 不符合句中的文法或固定搭配。
+
+- D：is 不符合句中的文法或固定搭配。
+
+記法：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+</details>
+### G76 · 完成式
+
+Please send the signed form ___ the HR department.
+
+A. to
+
+B. for
+
+C. by
+
+D. from
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：請把簽好的表格寄給人資部門。
+
+答案：A · to
+
+- A：send something to a recipient；to 引出接收者。
+
+- B：for 不符合句中的文法或固定搭配。
+
+- C：by 不符合句中的文法或固定搭配。
+
+- D：from 不符合句中的文法或固定搭配。
+
+記法：send something to a recipient；to 引出接收者。
+
+</details>
+### G77 · 時態
+
+The engineers ___ the equipment every Friday.
+
+A. replace
+
+B. replaces
+
+C. replaced
+
+D. replacing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers每週五更換濾網。
+
+答案：A · replace
+
+- A：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+- B：replaces 不符合句中的文法或固定搭配。
+
+- C：replaced 不符合句中的文法或固定搭配。
+
+- D：replacing 不符合句中的文法或固定搭配。
+
+記法：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+</details>
+### G78 · 被動語態
+
+Ms. Lin ___ the equipment last Friday.
+
+A. record
+
+B. records
+
+C. recorded
+
+D. recording
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Ms. Lin上週五記錄結果。
+
+答案：C · recorded
+
+- A：record 不符合句中的文法或固定搭配。
+
+- B：records 不符合句中的文法或固定搭配。
+
+- C：last Friday 是結束的過去時間，使用過去式。
+
+- D：recording 不符合句中的文法或固定搭配。
+
+記法：last Friday 是結束的過去時間，使用過去式。
+
+</details>
+### G79 · 介系詞
+
+The production team is ___ the equipment now.
+
+A. notify
+
+B. notifies
+
+C. notified
+
+D. notifying
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team現在正在通知主管。
+
+答案：D · notifying
+
+- A：notify 不符合句中的文法或固定搭配。
+
+- B：notifies 不符合句中的文法或固定搭配。
+
+- C：notified 不符合句中的文法或固定搭配。
+
+- D：be + V-ing 表示此刻進行中的動作。
+
+記法：be + V-ing 表示此刻進行中的動作。
+
+</details>
+### G80 · 完成式
+
+The equipment ___ before shipment yesterday.
+
+A. was prepare
+
+B. was prepared
+
+C. is prepared
+
+D. did prepare
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：設備昨天在出貨前被準備樣本。
+
+答案：B · was prepared
+
+- A：was prepare 不符合句中的文法或固定搭配。
+
+- B：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+- C：is prepared 不符合句中的文法或固定搭配。
+
+- D：did prepare 不符合句中的文法或固定搭配。
+
+記法：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+</details>
+### G81 · 時態
+
+The engineers has ___ the equipment already.
+
+A. arrange
+
+B. arranged
+
+C. arranges
+
+D. arranging
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers已經安排訪視設備。
+
+答案：B · arranged
+
+- A：arrange 不符合句中的文法或固定搭配。
+
+- B：has + 過去分詞；already 常提示已完成且與現在相關。
+
+- C：arranges 不符合句中的文法或固定搭配。
+
+- D：arranging 不符合句中的文法或固定搭配。
+
+記法：has + 過去分詞；already 常提示已完成且與現在相關。
+
+</details>
+### G82 · 被動語態
+
+The team is responsible ___ checking the samples.
+
+A. for
+
+B. to
+
+C. at
+
+D. with
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：團隊負責檢查樣本。
+
+答案：A · for
+
+- A：固定搭配 be responsible for + 名詞或 V-ing。
+
+- B：to 不符合句中的文法或固定搭配。
+
+- C：at 不符合句中的文法或固定搭配。
+
+- D：with 不符合句中的文法或固定搭配。
+
+記法：固定搭配 be responsible for + 名詞或 V-ing。
+
+</details>
+### G83 · 介系詞
+
+The production team ___ not receive the revised schedule yet.
+
+A. has
+
+B. have
+
+C. does
+
+D. is
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team還沒有收到修訂後的時程。
+
+答案：A · has
+
+- A：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+- B：have 不符合句中的文法或固定搭配。
+
+- C：does 不符合句中的文法或固定搭配。
+
+- D：is 不符合句中的文法或固定搭配。
+
+記法：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+</details>
+### G84 · 完成式
+
+Please send the signed form ___ the HR department.
+
+A. to
+
+B. for
+
+C. by
+
+D. from
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：請把簽好的表格寄給人資部門。
+
+答案：A · to
+
+- A：send something to a recipient；to 引出接收者。
+
+- B：for 不符合句中的文法或固定搭配。
+
+- C：by 不符合句中的文法或固定搭配。
+
+- D：from 不符合句中的文法或固定搭配。
+
+記法：send something to a recipient；to 引出接收者。
+
+</details>
+### G85 · 時態
+
+The engineers ___ the equipment every Friday.
+
+A. review
+
+B. reviews
+
+C. reviewed
+
+D. reviewing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers每週五檢視報告。
+
+答案：A · review
+
+- A：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+- B：reviews 不符合句中的文法或固定搭配。
+
+- C：reviewed 不符合句中的文法或固定搭配。
+
+- D：reviewing 不符合句中的文法或固定搭配。
+
+記法：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+</details>
+### G86 · 被動語態
+
+Ms. Lin ___ the equipment last Friday.
+
+A. inspect
+
+B. inspects
+
+C. inspected
+
+D. inspecting
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Ms. Lin上週五檢查設備。
+
+答案：C · inspected
+
+- A：inspect 不符合句中的文法或固定搭配。
+
+- B：inspects 不符合句中的文法或固定搭配。
+
+- C：last Friday 是結束的過去時間，使用過去式。
+
+- D：inspecting 不符合句中的文法或固定搭配。
+
+記法：last Friday 是結束的過去時間，使用過去式。
+
+</details>
+### G87 · 介系詞
+
+The production team is ___ the equipment now.
+
+A. confirm
+
+B. confirms
+
+C. confirmed
+
+D. confirming
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team現在正在確認交貨日期。
+
+答案：D · confirming
+
+- A：confirm 不符合句中的文法或固定搭配。
+
+- B：confirms 不符合句中的文法或固定搭配。
+
+- C：confirmed 不符合句中的文法或固定搭配。
+
+- D：be + V-ing 表示此刻進行中的動作。
+
+記法：be + V-ing 表示此刻進行中的動作。
+
+</details>
+### G88 · 完成式
+
+The equipment ___ before shipment yesterday.
+
+A. was update
+
+B. was updated
+
+C. is updated
+
+D. did update
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：設備昨天在出貨前被更新時程。
+
+答案：B · was updated
+
+- A：was update 不符合句中的文法或固定搭配。
+
+- B：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+- C：is updated 不符合句中的文法或固定搭配。
+
+- D：did update 不符合句中的文法或固定搭配。
+
+記法：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+</details>
+### G89 · 時態
+
+The engineers has ___ the equipment already.
+
+A. calibrate
+
+B. calibrated
+
+C. calibrates
+
+D. calibrating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers已經校正儀器設備。
+
+答案：B · calibrated
+
+- A：calibrate 不符合句中的文法或固定搭配。
+
+- B：has + 過去分詞；already 常提示已完成且與現在相關。
+
+- C：calibrates 不符合句中的文法或固定搭配。
+
+- D：calibrating 不符合句中的文法或固定搭配。
+
+記法：has + 過去分詞；already 常提示已完成且與現在相關。
+
+</details>
+### G90 · 被動語態
+
+The team is responsible ___ checking the samples.
+
+A. for
+
+B. to
+
+C. at
+
+D. with
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：團隊負責檢查樣本。
+
+答案：A · for
+
+- A：固定搭配 be responsible for + 名詞或 V-ing。
+
+- B：to 不符合句中的文法或固定搭配。
+
+- C：at 不符合句中的文法或固定搭配。
+
+- D：with 不符合句中的文法或固定搭配。
+
+記法：固定搭配 be responsible for + 名詞或 V-ing。
+
+</details>
+### G91 · 介系詞
+
+The production team ___ not receive the revised schedule yet.
+
+A. has
+
+B. have
+
+C. does
+
+D. is
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team還沒有收到修訂後的時程。
+
+答案：A · has
+
+- A：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+- B：have 不符合句中的文法或固定搭配。
+
+- C：does 不符合句中的文法或固定搭配。
+
+- D：is 不符合句中的文法或固定搭配。
+
+記法：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+</details>
+### G92 · 完成式
+
+Please send the signed form ___ the HR department.
+
+A. to
+
+B. for
+
+C. by
+
+D. from
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：請把簽好的表格寄給人資部門。
+
+答案：A · to
+
+- A：send something to a recipient；to 引出接收者。
+
+- B：for 不符合句中的文法或固定搭配。
+
+- C：by 不符合句中的文法或固定搭配。
+
+- D：from 不符合句中的文法或固定搭配。
+
+記法：send something to a recipient；to 引出接收者。
+
+</details>
+### G93 · 時態
+
+The engineers ___ the equipment every Friday.
+
+A. replace
+
+B. replaces
+
+C. replaced
+
+D. replacing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers每週五更換濾網。
+
+答案：A · replace
+
+- A：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+- B：replaces 不符合句中的文法或固定搭配。
+
+- C：replaced 不符合句中的文法或固定搭配。
+
+- D：replacing 不符合句中的文法或固定搭配。
+
+記法：一般現在式描述固定習慣；第三人稱單數主詞的動詞加 -s。
+
+</details>
+### G94 · 被動語態
+
+Ms. Lin ___ the equipment last Friday.
+
+A. record
+
+B. records
+
+C. recorded
+
+D. recording
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Ms. Lin上週五記錄結果。
+
+答案：C · recorded
+
+- A：record 不符合句中的文法或固定搭配。
+
+- B：records 不符合句中的文法或固定搭配。
+
+- C：last Friday 是結束的過去時間，使用過去式。
+
+- D：recording 不符合句中的文法或固定搭配。
+
+記法：last Friday 是結束的過去時間，使用過去式。
+
+</details>
+### G95 · 介系詞
+
+The production team is ___ the equipment now.
+
+A. notify
+
+B. notifies
+
+C. notified
+
+D. notifying
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team現在正在通知主管。
+
+答案：D · notifying
+
+- A：notify 不符合句中的文法或固定搭配。
+
+- B：notifies 不符合句中的文法或固定搭配。
+
+- C：notified 不符合句中的文法或固定搭配。
+
+- D：be + V-ing 表示此刻進行中的動作。
+
+記法：be + V-ing 表示此刻進行中的動作。
+
+</details>
+### G96 · 完成式
+
+The equipment ___ before shipment yesterday.
+
+A. was prepare
+
+B. was prepared
+
+C. is prepared
+
+D. did prepare
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：設備昨天在出貨前被準備樣本。
+
+答案：B · was prepared
+
+- A：was prepare 不符合句中的文法或固定搭配。
+
+- B：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+- C：is prepared 不符合句中的文法或固定搭配。
+
+- D：did prepare 不符合句中的文法或固定搭配。
+
+記法：被動句用 be + 過去分詞；yesterday 決定過去式 was。
+
+</details>
+### G97 · 時態
+
+The engineers has ___ the equipment already.
+
+A. arrange
+
+B. arranged
+
+C. arranges
+
+D. arranging
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The engineers已經安排訪視設備。
+
+答案：B · arranged
+
+- A：arrange 不符合句中的文法或固定搭配。
+
+- B：has + 過去分詞；already 常提示已完成且與現在相關。
+
+- C：arranges 不符合句中的文法或固定搭配。
+
+- D：arranging 不符合句中的文法或固定搭配。
+
+記法：has + 過去分詞；already 常提示已完成且與現在相關。
+
+</details>
+### G98 · 被動語態
+
+The team is responsible ___ checking the samples.
+
+A. for
+
+B. to
+
+C. at
+
+D. with
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：團隊負責檢查樣本。
+
+答案：A · for
+
+- A：固定搭配 be responsible for + 名詞或 V-ing。
+
+- B：to 不符合句中的文法或固定搭配。
+
+- C：at 不符合句中的文法或固定搭配。
+
+- D：with 不符合句中的文法或固定搭配。
+
+記法：固定搭配 be responsible for + 名詞或 V-ing。
+
+</details>
+### G99 · 介系詞
+
+The production team ___ not receive the revised schedule yet.
+
+A. has
+
+B. have
+
+C. does
+
+D. is
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The production team還沒有收到修訂後的時程。
+
+答案：A · has
+
+- A：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+- B：have 不符合句中的文法或固定搭配。
+
+- C：does 不符合句中的文法或固定搭配。
+
+- D：is 不符合句中的文法或固定搭配。
+
+記法：主詞是第三人稱單數，現在完成式用 has + not + 過去分詞。
+
+</details>
+### G100 · 完成式
+
+Please send the signed form ___ the HR department.
+
+A. to
+
+B. for
+
+C. by
+
+D. from
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：請把簽好的表格寄給人資部門。
+
+答案：A · to
+
+- A：send something to a recipient；to 引出接收者。
+
+- B：for 不符合句中的文法或固定搭配。
+
+- C：by 不符合句中的文法或固定搭配。
+
+- D：from 不符合句中的文法或固定搭配。
+
+記法：send something to a recipient；to 引出接收者。
+
+</details>

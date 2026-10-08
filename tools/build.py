@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,re,html,runpy
 ROOT=Path(__file__).resolve().parents[1]
-for f in ['build_transformations.py','build_questions.py','build_reading.py']:runpy.run_path(str(ROOT/'tools'/f))
+runpy.run_path(str(ROOT/'tools'/'build_transformations.py'))
 def inline(s):
     s=html.escape(s)
     s=re.sub(r'`([^`]+)`',r'<code>\1</code>',s)
@@ -45,6 +45,21 @@ for line in (ROOT/'content/vocabulary.txt').read_text().splitlines():
     if cat not in words[w]['categories']:words[w]['categories'].append(cat)
     sense=dict(pos=pos,zh=zh,phrase=phrase)
     if sense not in words[w]['senses']:words[w]['senses'].append(sense)
+# Additional headwords and examples are authored in JSON so the same source feeds
+# both the web app and the downloadable books.
+extra_path=ROOT/'content/vocabulary-extra.json'
+if extra_path.exists():
+    for item in json.loads(extra_path.read_text()):
+        w=item['word'];key=w.casefold()
+        found=next((x for x in words.values() if x['word'].casefold()==key),None)
+        if found:
+            for sense in item.get('senses',[]):
+                if sense not in found['senses']:found['senses'].append(sense)
+            if item.get('category') not in found['categories']:found['categories'].append(item['category'])
+            continue
+        words[w]=dict(id=f'W{len(words)+1:04}',word=w,category=item['category'],categories=[item['category']],senses=item['senses'],example=item.get('example',''),exampleZh=item.get('exampleZh',''))
+example_path=ROOT/'content/vocabulary-examples.json'
+examples=json.loads(example_path.read_text()) if example_path.exists() else {}
 irregular=[line.split('|') for line in (ROOT/'content/irregular.txt').read_text().splitlines() if line]
 lookup={r[0]:r[1:5] for r in irregular}
 def inflect(w):
@@ -56,6 +71,9 @@ def inflect(w):
     return [third,past,past,ing]
 for w,item in words.items():
     if any(s['pos']=='v' for s in item['senses']):item['forms']=inflect(w)
+    entry=examples.get(w.casefold(),{})
+    item['example']=entry.get('example') or item.get('example','')
+    item['exampleZh']=entry.get('exampleZh') or item.get('exampleZh','')
 families=[]
 for row in (ROOT/'content/families.txt').read_text().splitlines():
     a=row.split('|');assert len(a)==9
@@ -66,8 +84,10 @@ links=[]
 for n,cat in enumerate(cats,1):
     items=[x for x in words.values() if x['category']==cat]
     md=[f'# {cat}',f'\n本冊 {len(items)} 個首次歸類的獨立單字；跨情境同字合併在首次出現處。n 名詞、v 動詞、adj 形容詞、adv 副詞、prep 介系詞、conj 連接詞、det 限定詞。只列本教材選用意思，不宣稱涵蓋字典所有義項。','\n先遮中文說意思，再看搭配造句；造句示範與記憶方法見「單字與詞形學習法」。','\n| 編號 | 單字 | 詞性與中文 | 常用搭配 |','| --- | --- | --- | --- |']
-    for x in items:md.append('| '+x['id']+' | '+x['word']+' | '+'；'.join(s['pos']+'. '+s['zh'] for s in x['senses'])+' | '+'；'.join(s['phrase'] for s in x['senses'])+' |')
-    filename=f'{n:02}.md';(vdir/filename).write_text('\n'.join(md)+'\n');links.append(f'- [{cat}（{len(items)} 字）](vocabulary/{filename})')
+    for x in items:
+        md.append('| '+x['id']+' | '+x['word']+' | '+'；'.join(s['pos']+'. '+s['zh'] for s in x['senses'])+' | '+'；'.join(s['phrase'] for s in x['senses'])+' |')
+        md.append('例句：'+x['example']+'<br>中文：'+x['exampleZh'])
+    filename=f'{n:02}.md';(vdir/filename).write_text('\n'.join(md).rstrip()+'\n');links.append(f'- [{cat}（{len(items)} 字）](vocabulary/{filename})')
 (ROOT/'docs/07-vocabulary-index.md').write_text('# 單字分冊索引\n\n共 '+str(len(words))+' 個不重複 headwords。不同詞性、複數或時態形式不重複灌水計數；同一拼字不同義項合併。另有例句補充字不計入此數。\n\n'+'\n'.join(links)+'\n')
 for path in (ROOT/'content').glob('*.md'):
     text=path.read_text()
@@ -83,6 +103,7 @@ vmd+=['\n## 單字庫所有動詞的五態','\n規則動詞亦完整列出。kno
 vmd+=['| '+' | '.join([x['word']]+x['forms'])+' |' for x in words.values() if 'forms' in x]
 (ROOT/'docs/09-verb-forms.md').write_text('\n'.join(vmd)+'\n')
 questions=json.loads((ROOT/'content/questions.json').read_text());reading=json.loads((ROOT/'content/reading.json').read_text())
+listening=json.loads((ROOT/'content/listening.json').read_text()) if (ROOT/'content/listening.json').exists() else []
 def qmd(q):
     out=[f"\n### {q['id']} · {q['topic']}",f"\n{q['stem']}"]
     out+=['\n'+chr(65+i)+'. '+x for i,x in enumerate(q['options'])]
@@ -91,14 +112,27 @@ def qmd(q):
     out+=['\n記法：'+q['tip'],'\n</details>'];return '\n'.join(out)
 for kind,name in [('填空','10-cloze-practice.md'),('文法','11-grammar-practice.md')]:
     (ROOT/'docs'/name).write_text('# '+kind+'練習與逐項解析\n\n原創教學練習，先作答再展開解析。不限時學會後再計時；不是官方模擬卷，不換算正式分數。\n'+''.join(qmd(q) for q in questions if q['kind']==kind))
-rmd=['# 閱讀與段落填空：12 題組、48 題','\n原創教學情境，非真實公司公告。先讀英文作答，再看翻譯與證據；每題四選一。']
+r_count=sum(len(x['questions']) for x in reading if x['id'].startswith('R'));c_count=sum(len(x['questions']) for x in reading if x['id'].startswith('C'))
+rmd=[f'# 閱讀與段落填空：{len([x for x in reading if x["id"].startswith("R")])} 個閱讀題組、{r_count} 題閱讀、{c_count} 題段落填空','\n原創教學情境，非真實公司公告。先讀英文作答，再看翻譯與證據；每題四選一。']
 for r in reading:
     rmd += ['\n## '+r['id']+' '+r['title'],f"\n{r['level']} · {r['genre']}\n",r['text'],'\n<details>\n<summary>查看全文中文</summary>\n\n'+r['zh']+'\n\n</details>','\n策略：'+r['strategy']]
     rmd += [qmd(q) for q in r['questions']]
 (ROOT/'docs/12-reading-practice.md').write_text('\n'.join(rmd)+'\n')
-article_paths=['01-guide.md','02-grammar.md','03-prepositions.md','04-reading.md','05-transformations.md','06-vocabulary-method.md','08-word-families.md','09-verb-forms.md','14-youtube-toeic-resources.md']
+if listening:
+    lmd=['# 聽力策略與練習案例','\n以下為原創文字轉語音練習，不是官方錄音，也不代表真實口音。播放時先抓場景、人物關係、轉折與數字。']
+    for q in listening:
+        lmd += [f"\n## {q['id']} · Part {q['part']} · {q['scene']}",f"\n{q['stem']}"]
+        lmd += ['\n'+chr(65+i)+'. '+x for i,x in enumerate(q['options'])]
+        lmd += ['\n<details><summary>作答後看逐字稿、翻譯與解析</summary>\n']
+        lmd += [f"{s['speaker']}: {s['text']}" for s in q['segments']]
+        lmd += ['\n中文：'+q['zh'],f"\n答案：{chr(65+q['answer'])} · {q['options'][q['answer']]}"]
+        lmd += ['\n- '+chr(65+i)+'：'+reason for i,reason in enumerate(q['reasons'])]
+        lmd += ['\n策略：'+q['tip'],'\n</details>']
+    (ROOT/'docs/15-listening-practice.md').write_text('\n'.join(lmd)+'\n')
+scenarios=json.loads((ROOT/'content/tense-scenarios.json').read_text()) if (ROOT/'content/tense-scenarios.json').exists() else []
+article_paths=['01-guide.md','02-grammar.md','03-prepositions.md','04-reading.md','05-transformations.md','06-vocabulary-method.md','08-word-families.md','09-verb-forms.md','14-youtube-toeic-resources.md']+(['15-listening-practice.md'] if listening else [])
 articles=[dict(id=p.split('-')[0],title=(ROOT/'docs'/p).read_text().splitlines()[0][2:],path='docs/'+p,html=markdown((ROOT/'docs'/p).read_text())) for p in article_paths]
-data=dict(words=list(words.values()),categories=cats,families=families,irregular=irregular,tenses=json.loads((ROOT/'content/tenses.json').read_text()),questions=questions,reading=reading,articles=articles)
+data=dict(words=list(words.values()),categories=cats,families=families,irregular=irregular,tenses=json.loads((ROOT/'content/tenses.json').read_text()),tenseScenarios=scenarios,questions=questions,reading=reading,listening=listening,articles=articles)
 (ROOT/'data.js').write_text('window.ENGLISH_DATA = '+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
 (ROOT/'content/vocabulary.json').write_text(json.dumps(list(words.values()),ensure_ascii=False,indent=2))
 allparts=['# 電子廠英文學習全冊\n\n繁體中文 · 原創練習 · 離線教材\n\n此檔整合全部分冊，可全文搜尋與備份；網站入口為根目錄 index.html。\n']
@@ -106,5 +140,16 @@ for p in sorted((ROOT/'docs').glob('*.md')):
     if p.name in ['00-complete.md','07-vocabulary-index.md']:continue
     allparts.append(p.read_text())
 allparts+= [p.read_text() for p in sorted(vdir.glob('*.md'))]
-(ROOT/'docs/00-complete.md').write_text('\n\n---\n\n'.join(allparts))
-print('Unique words:',len(words),'Verb headwords:',sum('forms' in x for x in words.values()),'Families:',len(families),'Questions:',len(questions)+sum(len(r['questions']) for r in reading))
+allparts.append((ROOT/'CONTENT-LICENSE.md').read_text())
+(ROOT/'docs/00-complete.md').write_text('\n\n---\n\n'.join(allparts).rstrip()+'\n')
+print('Unique words:',len(words),'Verb headwords:',sum('forms' in x for x in words.values()),'Families:',len(families),'Questions:',len(questions)+sum(len(r['questions']) for r in reading)+len(listening))
+import zipfile
+manifest=['index.html','app.js','listening-audio.js','data.js','styles.css','README.md','VERIFICATION.md','CONTENT-LICENSE.md','licenses/ECDICT-LICENSE.txt','docs/00-complete.md']
+manifest += [str(p.relative_to(ROOT)) for p in sorted((ROOT/'docs').glob('*.md')) if p.name!='00-complete.md']
+manifest += [str(p.relative_to(ROOT)) for p in sorted((ROOT/'docs/vocabulary').glob('*.md'))]
+manifest += [str(p.relative_to(ROOT)) for p in sorted((ROOT/'content').glob('*.json'))]
+manifest += ['content/vocabulary.txt','content/irregular.txt','content/families.txt']
+with zipfile.ZipFile(ROOT/'english-study-pack.zip','w',zipfile.ZIP_DEFLATED) as archive:
+    for name in manifest:
+        path=ROOT/name
+        if path.exists():archive.write(path,name)

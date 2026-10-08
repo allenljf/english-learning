@@ -1082,3 +1082,1923 @@ D. because of
 記法：not until 的 not 是重要限制。
 
 </details>
+### F37 · 時態線索
+
+The technician will ___ the the report before the afternoon shift.
+
+A. review
+
+B. reviewed
+
+C. reviews
+
+D. reviewing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前檢視報告。
+
+答案：A · review
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；reviewed與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；reviews與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；reviewing與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F38 · 動詞形式
+
+The purchasing team ___ the the equipment yesterday.
+
+A. inspect
+
+B. inspected
+
+C. inspects
+
+D. inspecting
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天檢查設備。
+
+答案：B · inspected
+
+- A：此處需要另一種動詞形式；inspect與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；inspects與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；inspecting與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F39 · 主被動
+
+Our supervisor has ___ the the delivery date already.
+
+A. confirm
+
+B. confirmed
+
+C. confirms
+
+D. confirming
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經確認交貨日期。
+
+答案：B · confirmed
+
+- A：此處需要另一種動詞形式；confirm與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；confirms與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；confirming與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F40 · 句型搭配
+
+The the schedule was ___ by the quality engineer this morning.
+
+A. update
+
+B. updated
+
+C. updates
+
+D. updating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在更新時程。
+
+答案：D · updating
+
+- A：此處需要另一種動詞形式；update與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；updated與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；updates與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F41 · 時態線索
+
+The technician will ___ the the instrument before the afternoon shift.
+
+A. calibrate
+
+B. calibrated
+
+C. calibrates
+
+D. calibrating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前校正儀器。
+
+答案：A · calibrate
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；calibrated與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；calibrates與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；calibrating與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F42 · 動詞形式
+
+The purchasing team ___ the the request yesterday.
+
+A. approve
+
+B. approved
+
+C. approves
+
+D. approving
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天核准申請。
+
+答案：B · approved
+
+- A：此處需要另一種動詞形式；approve與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；approves與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；approving與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F43 · 主被動
+
+Our supervisor has ___ the the components already.
+
+A. deliver
+
+B. delivered
+
+C. delivers
+
+D. delivering
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經交付零件。
+
+答案：B · delivered
+
+- A：此處需要另一種動詞形式；deliver與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；delivers與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；delivering與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F44 · 句型搭配
+
+The the meeting was ___ by the quality engineer this morning.
+
+A. attend
+
+B. attended
+
+C. attends
+
+D. attending
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在出席會議。
+
+答案：D · attending
+
+- A：此處需要另一種動詞形式；attend與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；attended與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；attends與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F45 · 時態線索
+
+The technician will ___ the the filter before the afternoon shift.
+
+A. replace
+
+B. replaced
+
+C. replaces
+
+D. replacing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前更換濾網。
+
+答案：A · replace
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；replaced與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；replaces與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；replacing與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F46 · 動詞形式
+
+The purchasing team ___ the the result yesterday.
+
+A. record
+
+B. recorded
+
+C. records
+
+D. recording
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天記錄結果。
+
+答案：B · recorded
+
+- A：此處需要另一種動詞形式；record與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；records與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；recording與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F47 · 主被動
+
+Our supervisor has ___ the the supervisor already.
+
+A. notify
+
+B. notified
+
+C. notifies
+
+D. notifying
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經通知主管。
+
+答案：B · notified
+
+- A：此處需要另一種動詞形式；notify與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；notifies與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；notifying與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F48 · 句型搭配
+
+The the samples was ___ by the quality engineer this morning.
+
+A. prepare
+
+B. prepared
+
+C. prepares
+
+D. preparing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在準備樣本。
+
+答案：D · preparing
+
+- A：此處需要另一種動詞形式；prepare與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；prepared與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；prepares與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F49 · 時態線索
+
+The technician will ___ the a visit before the afternoon shift.
+
+A. arrange
+
+B. arranged
+
+C. arranges
+
+D. arranging
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前安排訪視。
+
+答案：A · arrange
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；arranged與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；arranges與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；arranging與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F50 · 動詞形式
+
+The purchasing team ___ the the delay yesterday.
+
+A. reduce
+
+B. reduced
+
+C. reduces
+
+D. reducing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天減少延誤。
+
+答案：B · reduced
+
+- A：此處需要另一種動詞形式；reduce與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；reduces與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；reducing與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F51 · 主被動
+
+Our supervisor has ___ the the order already.
+
+A. ship
+
+B. shipped
+
+C. ships
+
+D. shipping
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經寄送訂單。
+
+答案：B · shipped
+
+- A：此處需要另一種動詞形式；ship與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；ships與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；shipping與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F52 · 句型搭配
+
+The the machine was ___ by the quality engineer this morning.
+
+A. maintain
+
+B. maintained
+
+C. maintains
+
+D. maintaining
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在維護機器。
+
+答案：D · maintaining
+
+- A：此處需要另一種動詞形式；maintain與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；maintained與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；maintains與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F53 · 時態線索
+
+The technician will ___ the the report before the afternoon shift.
+
+A. review
+
+B. reviewed
+
+C. reviews
+
+D. reviewing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前檢視報告。
+
+答案：A · review
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；reviewed與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；reviews與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；reviewing與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F54 · 動詞形式
+
+The purchasing team ___ the the equipment yesterday.
+
+A. inspect
+
+B. inspected
+
+C. inspects
+
+D. inspecting
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天檢查設備。
+
+答案：B · inspected
+
+- A：此處需要另一種動詞形式；inspect與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；inspects與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；inspecting與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F55 · 主被動
+
+Our supervisor has ___ the the delivery date already.
+
+A. confirm
+
+B. confirmed
+
+C. confirms
+
+D. confirming
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經確認交貨日期。
+
+答案：B · confirmed
+
+- A：此處需要另一種動詞形式；confirm與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；confirms與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；confirming與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F56 · 句型搭配
+
+The the schedule was ___ by the quality engineer this morning.
+
+A. update
+
+B. updated
+
+C. updates
+
+D. updating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在更新時程。
+
+答案：D · updating
+
+- A：此處需要另一種動詞形式；update與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；updated與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；updates與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F57 · 時態線索
+
+The technician will ___ the the instrument before the afternoon shift.
+
+A. calibrate
+
+B. calibrated
+
+C. calibrates
+
+D. calibrating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前校正儀器。
+
+答案：A · calibrate
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；calibrated與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；calibrates與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；calibrating與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F58 · 動詞形式
+
+The purchasing team ___ the the request yesterday.
+
+A. approve
+
+B. approved
+
+C. approves
+
+D. approving
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天核准申請。
+
+答案：B · approved
+
+- A：此處需要另一種動詞形式；approve與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；approves與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；approving與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F59 · 主被動
+
+Our supervisor has ___ the the components already.
+
+A. deliver
+
+B. delivered
+
+C. delivers
+
+D. delivering
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經交付零件。
+
+答案：B · delivered
+
+- A：此處需要另一種動詞形式；deliver與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；delivers與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；delivering與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F60 · 句型搭配
+
+The the meeting was ___ by the quality engineer this morning.
+
+A. attend
+
+B. attended
+
+C. attends
+
+D. attending
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在出席會議。
+
+答案：D · attending
+
+- A：此處需要另一種動詞形式；attend與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；attended與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；attends與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F61 · 時態線索
+
+The technician will ___ the the filter before the afternoon shift.
+
+A. replace
+
+B. replaced
+
+C. replaces
+
+D. replacing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前更換濾網。
+
+答案：A · replace
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；replaced與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；replaces與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；replacing與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F62 · 動詞形式
+
+The purchasing team ___ the the result yesterday.
+
+A. record
+
+B. recorded
+
+C. records
+
+D. recording
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天記錄結果。
+
+答案：B · recorded
+
+- A：此處需要另一種動詞形式；record與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；records與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；recording與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F63 · 主被動
+
+Our supervisor has ___ the the supervisor already.
+
+A. notify
+
+B. notified
+
+C. notifies
+
+D. notifying
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經通知主管。
+
+答案：B · notified
+
+- A：此處需要另一種動詞形式；notify與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；notifies與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；notifying與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F64 · 句型搭配
+
+The the samples was ___ by the quality engineer this morning.
+
+A. prepare
+
+B. prepared
+
+C. prepares
+
+D. preparing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在準備樣本。
+
+答案：D · preparing
+
+- A：此處需要另一種動詞形式；prepare與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；prepared與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；prepares與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F65 · 時態線索
+
+The technician will ___ the a visit before the afternoon shift.
+
+A. arrange
+
+B. arranged
+
+C. arranges
+
+D. arranging
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前安排訪視。
+
+答案：A · arrange
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；arranged與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；arranges與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；arranging與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F66 · 動詞形式
+
+The purchasing team ___ the the delay yesterday.
+
+A. reduce
+
+B. reduced
+
+C. reduces
+
+D. reducing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天減少延誤。
+
+答案：B · reduced
+
+- A：此處需要另一種動詞形式；reduce與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；reduces與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；reducing與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F67 · 主被動
+
+Our supervisor has ___ the the order already.
+
+A. ship
+
+B. shipped
+
+C. ships
+
+D. shipping
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經寄送訂單。
+
+答案：B · shipped
+
+- A：此處需要另一種動詞形式；ship與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；ships與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；shipping與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F68 · 句型搭配
+
+The the machine was ___ by the quality engineer this morning.
+
+A. maintain
+
+B. maintained
+
+C. maintains
+
+D. maintaining
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在維護機器。
+
+答案：D · maintaining
+
+- A：此處需要另一種動詞形式；maintain與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；maintained與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；maintains與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F69 · 時態線索
+
+The technician will ___ the the report before the afternoon shift.
+
+A. review
+
+B. reviewed
+
+C. reviews
+
+D. reviewing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前檢視報告。
+
+答案：A · review
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；reviewed與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；reviews與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；reviewing與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F70 · 動詞形式
+
+The purchasing team ___ the the equipment yesterday.
+
+A. inspect
+
+B. inspected
+
+C. inspects
+
+D. inspecting
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天檢查設備。
+
+答案：B · inspected
+
+- A：此處需要另一種動詞形式；inspect與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；inspects與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；inspecting與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F71 · 主被動
+
+Our supervisor has ___ the the delivery date already.
+
+A. confirm
+
+B. confirmed
+
+C. confirms
+
+D. confirming
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經確認交貨日期。
+
+答案：B · confirmed
+
+- A：此處需要另一種動詞形式；confirm與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；confirms與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；confirming與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F72 · 句型搭配
+
+The the schedule was ___ by the quality engineer this morning.
+
+A. update
+
+B. updated
+
+C. updates
+
+D. updating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在更新時程。
+
+答案：D · updating
+
+- A：此處需要另一種動詞形式；update與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；updated與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；updates與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F73 · 時態線索
+
+The technician will ___ the the instrument before the afternoon shift.
+
+A. calibrate
+
+B. calibrated
+
+C. calibrates
+
+D. calibrating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前校正儀器。
+
+答案：A · calibrate
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；calibrated與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；calibrates與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；calibrating與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F74 · 動詞形式
+
+The purchasing team ___ the the request yesterday.
+
+A. approve
+
+B. approved
+
+C. approves
+
+D. approving
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天核准申請。
+
+答案：B · approved
+
+- A：此處需要另一種動詞形式；approve與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；approves與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；approving與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F75 · 主被動
+
+Our supervisor has ___ the the components already.
+
+A. deliver
+
+B. delivered
+
+C. delivers
+
+D. delivering
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經交付零件。
+
+答案：B · delivered
+
+- A：此處需要另一種動詞形式；deliver與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；delivers與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；delivering與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F76 · 句型搭配
+
+The the meeting was ___ by the quality engineer this morning.
+
+A. attend
+
+B. attended
+
+C. attends
+
+D. attending
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在出席會議。
+
+答案：D · attending
+
+- A：此處需要另一種動詞形式；attend與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；attended與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；attends與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F77 · 時態線索
+
+The technician will ___ the the filter before the afternoon shift.
+
+A. replace
+
+B. replaced
+
+C. replaces
+
+D. replacing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前更換濾網。
+
+答案：A · replace
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；replaced與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；replaces與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；replacing與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F78 · 動詞形式
+
+The purchasing team ___ the the result yesterday.
+
+A. record
+
+B. recorded
+
+C. records
+
+D. recording
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天記錄結果。
+
+答案：B · recorded
+
+- A：此處需要另一種動詞形式；record與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；records與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；recording與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F79 · 主被動
+
+Our supervisor has ___ the the supervisor already.
+
+A. notify
+
+B. notified
+
+C. notifies
+
+D. notifying
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經通知主管。
+
+答案：B · notified
+
+- A：此處需要另一種動詞形式；notify與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；notifies與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；notifying與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F80 · 句型搭配
+
+The the samples was ___ by the quality engineer this morning.
+
+A. prepare
+
+B. prepared
+
+C. prepares
+
+D. preparing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在準備樣本。
+
+答案：D · preparing
+
+- A：此處需要另一種動詞形式；prepare與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；prepared與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；prepares與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F81 · 時態線索
+
+The technician will ___ the a visit before the afternoon shift.
+
+A. arrange
+
+B. arranged
+
+C. arranges
+
+D. arranging
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前安排訪視。
+
+答案：A · arrange
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；arranged與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；arranges與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；arranging與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F82 · 動詞形式
+
+The purchasing team ___ the the delay yesterday.
+
+A. reduce
+
+B. reduced
+
+C. reduces
+
+D. reducing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天減少延誤。
+
+答案：B · reduced
+
+- A：此處需要另一種動詞形式；reduce與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；reduces與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；reducing與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F83 · 主被動
+
+Our supervisor has ___ the the order already.
+
+A. ship
+
+B. shipped
+
+C. ships
+
+D. shipping
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經寄送訂單。
+
+答案：B · shipped
+
+- A：此處需要另一種動詞形式；ship與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；ships與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；shipping與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F84 · 句型搭配
+
+The the machine was ___ by the quality engineer this morning.
+
+A. maintain
+
+B. maintained
+
+C. maintains
+
+D. maintaining
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在維護機器。
+
+答案：D · maintaining
+
+- A：此處需要另一種動詞形式；maintain與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；maintained與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；maintains與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F85 · 時態線索
+
+The technician will ___ the the report before the afternoon shift.
+
+A. review
+
+B. reviewed
+
+C. reviews
+
+D. reviewing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前檢視報告。
+
+答案：A · review
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；reviewed與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；reviews與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；reviewing與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F86 · 動詞形式
+
+The purchasing team ___ the the equipment yesterday.
+
+A. inspect
+
+B. inspected
+
+C. inspects
+
+D. inspecting
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天檢查設備。
+
+答案：B · inspected
+
+- A：此處需要另一種動詞形式；inspect與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；inspects與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；inspecting與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F87 · 主被動
+
+Our supervisor has ___ the the delivery date already.
+
+A. confirm
+
+B. confirmed
+
+C. confirms
+
+D. confirming
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經確認交貨日期。
+
+答案：B · confirmed
+
+- A：此處需要另一種動詞形式；confirm與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；confirms與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；confirming與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F88 · 句型搭配
+
+The the schedule was ___ by the quality engineer this morning.
+
+A. update
+
+B. updated
+
+C. updates
+
+D. updating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在更新時程。
+
+答案：D · updating
+
+- A：此處需要另一種動詞形式；update與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；updated與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；updates與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F89 · 時態線索
+
+The technician will ___ the the instrument before the afternoon shift.
+
+A. calibrate
+
+B. calibrated
+
+C. calibrates
+
+D. calibrating
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前校正儀器。
+
+答案：A · calibrate
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；calibrated與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；calibrates與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；calibrating與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F90 · 動詞形式
+
+The purchasing team ___ the the request yesterday.
+
+A. approve
+
+B. approved
+
+C. approves
+
+D. approving
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天核准申請。
+
+答案：B · approved
+
+- A：此處需要另一種動詞形式；approve與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；approves與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；approving與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F91 · 主被動
+
+Our supervisor has ___ the the components already.
+
+A. deliver
+
+B. delivered
+
+C. delivers
+
+D. delivering
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經交付零件。
+
+答案：B · delivered
+
+- A：此處需要另一種動詞形式；deliver與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；delivers與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；delivering與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F92 · 句型搭配
+
+The the meeting was ___ by the quality engineer this morning.
+
+A. attend
+
+B. attended
+
+C. attends
+
+D. attending
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在出席會議。
+
+答案：D · attending
+
+- A：此處需要另一種動詞形式；attend與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；attended與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；attends與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F93 · 時態線索
+
+The technician will ___ the the filter before the afternoon shift.
+
+A. replace
+
+B. replaced
+
+C. replaces
+
+D. replacing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前更換濾網。
+
+答案：A · replace
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；replaced與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；replaces與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；replacing與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F94 · 動詞形式
+
+The purchasing team ___ the the result yesterday.
+
+A. record
+
+B. recorded
+
+C. records
+
+D. recording
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天記錄結果。
+
+答案：B · recorded
+
+- A：此處需要另一種動詞形式；record與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；records與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；recording與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F95 · 主被動
+
+Our supervisor has ___ the the supervisor already.
+
+A. notify
+
+B. notified
+
+C. notifies
+
+D. notifying
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經通知主管。
+
+答案：B · notified
+
+- A：此處需要另一種動詞形式；notify與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；notifies與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；notifying與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F96 · 句型搭配
+
+The the samples was ___ by the quality engineer this morning.
+
+A. prepare
+
+B. prepared
+
+C. prepares
+
+D. preparing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在準備樣本。
+
+答案：D · preparing
+
+- A：此處需要另一種動詞形式；prepare與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；prepared與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；prepares與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>
+### F97 · 時態線索
+
+The technician will ___ the a visit before the afternoon shift.
+
+A. arrange
+
+B. arranged
+
+C. arranges
+
+D. arranging
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The technician會在下午班前安排訪視。
+
+答案：A · arrange
+
+- A：will 後接原形動詞。 句中的時間／助動詞支持這個形式。
+
+- B：此處需要另一種動詞形式；arranged與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；arranges與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；arranging與句中的助動詞或時間線索不合。
+
+記法：will 後接原形動詞。
+
+</details>
+### F98 · 動詞形式
+
+The purchasing team ___ the the delay yesterday.
+
+A. reduce
+
+B. reduced
+
+C. reduces
+
+D. reducing
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：The purchasing team昨天減少延誤。
+
+答案：B · reduced
+
+- A：此處需要另一種動詞形式；reduce與句中的助動詞或時間線索不合。
+
+- B：yesterday 指已結束的過去，動詞用過去式。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；reduces與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；reducing與句中的助動詞或時間線索不合。
+
+記法：yesterday 指已結束的過去，動詞用過去式。
+
+</details>
+### F99 · 主被動
+
+Our supervisor has ___ the the order already.
+
+A. ship
+
+B. shipped
+
+C. ships
+
+D. shipping
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：Our supervisor已經寄送訂單。
+
+答案：B · shipped
+
+- A：此處需要另一種動詞形式；ship與句中的助動詞或時間線索不合。
+
+- B：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。 句中的時間／助動詞支持這個形式。
+
+- C：此處需要另一種動詞形式；ships與句中的助動詞或時間線索不合。
+
+- D：此處需要另一種動詞形式；shipping與句中的助動詞或時間線索不合。
+
+記法：has 後用過去分詞；規則動詞過去式和過去分詞拼法相同。
+
+</details>
+### F100 · 句型搭配
+
+The the machine was ___ by the quality engineer this morning.
+
+A. maintain
+
+B. maintained
+
+C. maintains
+
+D. maintaining
+
+<details>
+<summary>作答後看翻譯與解析</summary>
+
+中文：今天早上，The quality engineer有在維護機器。
+
+答案：D · maintaining
+
+- A：此處需要另一種動詞形式；maintain與句中的助動詞或時間線索不合。
+
+- B：此處需要另一種動詞形式；maintained與句中的助動詞或時間線索不合。
+
+- C：此處需要另一種動詞形式；maintains與句中的助動詞或時間線索不合。
+
+- D：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。 句中的時間／助動詞支持這個形式。
+
+記法：was + 過去分詞構成過去簡單被動；此題空格後 by 提示被動。
+
+</details>

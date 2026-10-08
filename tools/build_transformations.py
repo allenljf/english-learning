@@ -70,3 +70,41 @@ md+=['''
 ''']
 (ROOT/'content/05-transformations.md').write_text('\n'.join(md))
 (ROOT/'content/tenses.json').write_text(json.dumps(matrix,ensure_ascii=False,indent=2))
+scenario_file=ROOT/'content/tense-scenarios.json'
+if scenario_file.exists():
+    scenarios=json.loads(scenario_file.read_text())
+    cue_sets=[
+      ['every shift','yesterday','tomorrow','now','at 10 a.m. yesterday','at 10 a.m. tomorrow','already','before the supervisor arrived','by noon tomorrow','for two hours','for two hours when the supervisor arrived','for two hours by noon'],
+      ['before release each day','during yesterday’s audit','tomorrow morning','right now','at 2 p.m. yesterday','at 2 p.m. tomorrow','already','before the lot was approved','by the end of tomorrow','since the morning','since the morning when the manager arrived','for three hours by noon'],
+      ['once a month','last Monday','next week','at present','at 4 p.m. yesterday','at 4 p.m. tomorrow','this week','before the line restarted','by Friday','for an hour','for an hour when the shift ended','for two hours by five in the afternoon'],
+      ['at the end of each run','during the last run','in the next run','currently','at 8 a.m. yesterday','at 8 a.m. tomorrow','so far today','before the review began','by the next review','since noon','since noon when the audit began','for four hours by the deadline'],
+      ['every quarter','yesterday afternoon','tomorrow afternoon','at this moment','at 3 p.m. yesterday','at 3 p.m. tomorrow','already this month','before the next batch started','by next month','for two days','for two days when the review began','for two days by Friday']]
+    def forms(s,cue,index,voice,polarity):
+        actor=s['actor'];obj=s['object'];base=s['base'];third=s['thirdPerson'];past=s['past'];pp=s['pastParticiple'];ing=s['ing']
+        if voice=='active':
+            positives=[f'{actor} {third} {obj} {cue}',f'{actor} {past} {obj} {cue}',f'{actor} will {base} {obj} {cue}',f'{actor} is {ing} {obj} {cue}',f'{actor} was {ing} {obj} {cue}',f'{actor} will be {ing} {obj} {cue}',f'{actor} has {pp} {obj} {cue}',f'{actor} had {pp} {obj} {cue}',f'{actor} will have {pp} {obj} {cue}',f'{actor} has been {ing} {obj} {cue}',f'{actor} had been {ing} {obj} {cue}',f'{actor} will have been {ing} {obj} {cue}']
+            aux=['does','did','will','is','was','will','has','had','will','has','had','will'][index]
+            rest=[f'{base} {obj} {cue}',f'{base} {obj} {cue}',f'{base} {obj} {cue}',f'{ing} {obj} {cue}',f'{ing} {obj} {cue}',f'be {ing} {obj} {cue}',f'{pp} {obj} {cue}',f'{pp} {obj} {cue}',f'have {pp} {obj} {cue}',f'been {ing} {obj} {cue}',f'been {ing} {obj} {cue}',f'have been {ing} {obj} {cue}'][index]
+            if polarity==0: text=positives[index]
+            elif index==0:text=f'{actor} does not {base} {obj} {cue}'
+            elif index==1:text=f'{actor} did not {base} {obj} {cue}'
+            else:text=positives[index].replace(aux+' ',aux+' not ',1)
+            if polarity==2: text=f'{aux.capitalize()} {actor.lower()} {rest}'
+        else:
+            be=['is','was','will be','is being','was being','will be being','has been','had been','will have been','has been being','had been being','will have been being'][index]
+            positive=f'{obj.capitalize()} {be} {pp} {cue}'
+            first=be.split()[0]
+            if polarity==0:text=positive
+            elif polarity==1:text=positive.replace(first+' ',first+' not ',1)
+            else:
+                parts=be.split(' ',1);text=f"{first.capitalize()} {obj} {parts[1]+' ' if len(parts)>1 else ''}{pp} {cue}"
+        return text.rstrip('.!?')+('?' if polarity==2 else '.')
+    for si,s in enumerate(scenarios):
+        s['cues']=cue_sets[si]
+        s['tenses']=[]
+        for ti,base_t in enumerate(matrix):
+            cells={}
+            for voice in ('active','passive'):
+                cells[voice]=[forms(s,s['cues'][ti],ti,voice,p) for p in range(3)]
+            s['tenses'].append(dict(name=base_t['name'],usage=base_t['usage'],formulas=base_t['formulas'],rare=base_t['rare'],note=base_t['note'],active=cells['active'],passive=cells['passive']))
+    scenario_file.write_text(json.dumps(scenarios,ensure_ascii=False,indent=2)+'\n')
