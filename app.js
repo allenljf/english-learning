@@ -1,6 +1,7 @@
 'use strict';
 const D = window.ENGLISH_DATA;
 const main = document.getElementById('main');
+document.getElementById('word-count').textContent = D.words.length.toLocaleString();
 const answers = new Map();
 const allQuestions = [...D.questions, ...D.reading.flatMap(r => r.questions), ...(D.listening || []).map(q => ({...q,kind:'聽力',topic:`Part ${q.part}`}))];
 const questionMap = new Map(allQuestions.map(q => [q.id, q]));
